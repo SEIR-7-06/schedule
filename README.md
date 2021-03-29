@@ -230,7 +230,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(6/2)</td>
+<td><strong>Tuesday</strong><br />(6/22)</td>
 <td>Outcomes/td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/React-Hooks-Intro">React Hooks</a></td>
@@ -239,7 +239,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(6/22)</td>
+<td><strong>Wednesday</strong><br />(6/23)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/json-web-tokens">JWT</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-api">MERN Auth Backend</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-app">MERN Auth Frontend</a></td>
@@ -248,7 +248,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(6/23)</td>
+<td><strong>Thursday</strong><br />(6/24)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/json-web-tokens">JWT</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-api">MERN Auth Backend</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-app">MERN Auth Frontend</a></td>
@@ -257,7 +257,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(6/24)</td>
+<td><strong>Friday</strong><br />(6/25)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
