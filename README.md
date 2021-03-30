@@ -250,8 +250,8 @@ However, you can access past year's puzzles!
 <tr>
 <td><strong>Thursday</strong><br />(6/24)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-redux-and-state-management">Intro to Redux</a><br/>
- <a href="https://git.generalassemb.ly/wc-seir-1207/react-and-redux">React Redux</a>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-redux-and-state-management">Intro to Redux</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-and-redux">React Redux</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
 <td>Final Project</td>
 </tr>
