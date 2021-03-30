@@ -390,11 +390,15 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Monday</strong><br />(6/7)</td>
-<td>HOLIDAY</td>
-<td>HOLIDAY</td>
-<td>HOLIDAY</td>
-<td>HOLIDAY</td>
-<td>HOLIDAY</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+<td>
+  
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/react-geoquakes">React GeoQuakes</a>
+  - <a href="https://git.generalassemb.ly/WC-SEIR-1207/react-contacts">React Contacts</a>
+</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-geoquakes">React GeoQuakes</a></td>
+<td>React</td>
 </tr>
 
 <tr>
@@ -488,15 +492,24 @@ However, you can access past year's puzzles!
 <tbody>
 <tr>
 <td><strong>Monday</strong><br />(5/31)</td>
-<td>Django Collector Presentations</td>
-<td>Django Collector Presentations</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Django-Heroku-Deployment">Django Heroku Deployment</a></td>
-<td>Django Collector</td>
-<td>React</td>
+<td>Holiday</td>
+<td>Holiday</td>
+<td>Holiday</td>
+<td>Holiday</td>
+<td>Holiday</td>
 </tr>
 
 <tr>
 <td><strong>Tuesday</strong><br />(6/1)</td>
+<td>Outcomes</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector Presentations</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/Django-Heroku-Deployment">Django Heroku Deployment</a></td>
+<td>Django</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(6/2)</td>
 <td>Outcomes</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
@@ -505,33 +518,20 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(6/2)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-intro-remote">React Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-intro-remote">React Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/monument-react-refactor">React Monument Refactor</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/monument-react-refactor">React Monument Refactor</a></td>
-<td>React</td>
-</tr>
-
-<tr>
 <td><strong>Thursday</strong><br />(6/3)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-intro-remote">React Intro</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-intro-remote">React Intro</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/monument-react-refactor">React Monument Refactor</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/monument-react-refactor">React Monument Refactor</a></td>
 <td>React</td>
 </tr>
 
 <tr>
 <td><strong>Friday</strong><br />(6/4)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-component-lifecycle-remote">React Component Lifecycle</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-component-lifecycle-remote">React Component Lifecycle</a></td>
-<td>
-  
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/react-geoquakes">React GeoQuakes</a>
-  - <a href="https://git.generalassemb.ly/WC-SEIR-1207/react-contacts">React Contacts</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-geoquakes">React GeoQuakes</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-state-remote">React State & Props</a></td>
 <td>React</td>
 </tr>
 
