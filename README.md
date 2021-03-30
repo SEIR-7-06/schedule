@@ -4,9 +4,9 @@
 
 ## Important Links
 
-- [Zoom Classroom](https://generalassembly.zoom.us/j/95630664189?pwd=cCtBMFI3UVZuTDgyaUkzcGJiMFNadz09)
-- [Class Recordings](https://git.generalassemb.ly/WC-SEIR-1207/schedule/blob/master/class-recordings.md)
-- [Course Curriculum](https://git.generalassemb.ly/WC-SEIR-1207/schedule/blob/master/course-curriculum.md)
+- [Zoom Classroom](https://generalassembly.zoom.us/j/94727472258?pwd=Z3BzcDhUcWVLMjEvbFREQ1pkRTRjdz09)
+- [Class Recordings](https://git.generalassemb.ly/wc-seir-1207/schedule/blob/master/class-recordings.md)
+- [Course Curriculum](https://git.generalassemb.ly/wc-seir-1207/schedule/blob/master/course-curriculum.md)
 - [Class Culture/Expectations](https://git.generalassemb.ly/wc-seir-1207/welcome-to-sei)
 - [Remote Class Expectations](https://git.generalassemb.ly/wc-seir-1207/remote-class-expectations)
 - [Installfest](https://git.generalassemb.ly/wc-seir-1207/installfest)
@@ -15,24 +15,23 @@
 
 ## Course Dates (Not Including Holidays)
 
-- December 7, 2020 - March 11, 2021
+- April 5, 2020 - June 29, 2021
 
 <br/>
 
 ## Holidays
 
-- December 24 - January 1, 2021
-- January 18
-- February 15
+- May 31st
+- June 18th
 
 <br/>
 
 ## TA Office Hours
 
-[TA Office Hours Signup Form](#)
+Mon - Thu: 5:00pm - 7:00pm Pacific Time<br />
+Sundays: 2:00pm - 4:00pm Pacific Time
 
-Times | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
---- | --- | --- | --- | --- | --- | ---
+[TA Office Hours Signup Form](#)
 
 
 
