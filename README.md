@@ -231,7 +231,7 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Tuesday</strong><br />(6/22)</td>
-<td>Outcomes/td>
+<td>Outcomes</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/React-Hooks-Intro">React Hooks</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
@@ -249,9 +249,9 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Thursday</strong><br />(6/24)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/json-web-tokens">JWT</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-api">MERN Auth Backend</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-app">MERN Auth Frontend</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+<a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-redux-and-state-management">Intro to Redux</a><br/>
+ <a href="https://git.generalassemb.ly/wc-seir-1207/react-and-redux">React Redux</a>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
 <td>Final Project</td>
 </tr>
