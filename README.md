@@ -220,48 +220,48 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td><strong>Monday</strong><br />(6/21)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Heroku-React-Deployment">React App Deployment</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td>Final Project</td>
+  <td><strong>Monday</strong><br />(6/21)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Heroku-React-Deployment">React App Deployment</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td>Final Project</td>
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(6/22)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/React-Hooks-Intro">React Hooks</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td>Final Project</td>
+  <td><strong>Tuesday</strong><br />(6/22)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/React-Hooks-Intro">React Hooks</a></td>
+  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td>Final Project</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(6/23)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/json-web-tokens">JWT</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-api">MERN Auth Backend</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-app">MERN Auth Frontend</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td>Final Project</td>
+  <td><strong>Wednesday</strong><br />(6/23)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/json-web-tokens">JWT</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-api">MERN Auth Backend</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/gamelib-app">MERN Auth Frontend</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td>Final Project</td>
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(6/24)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-redux-and-state-management">Intro to Redux</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-and-redux">React Redux</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td>Final Project</td>
+  <td><strong>Thursday</strong><br />(6/24)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-redux-and-state-management">Intro to Redux</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/react-and-redux">React Redux</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td>Final Project</td>
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(6/25)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
-<td>Final Project</td>
+  <td><strong>Friday</strong><br />(6/25)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project</a></td>
+  <td>Final Project</td>
 </tr>
 
 </table>
@@ -301,49 +301,50 @@ However, you can access past year's puzzles!
 </thead>
 <tbody>
 
+
 <tr>
-<td><strong>Monday</strong><br />(6/14)</td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Github-collaboration-guide">Git Collaboration</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td>Full Stack React</td>
+  <td><strong>Monday</strong><br />(6/14)</td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(6/15)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td>Full Stack React</td>
+  <td><strong>Tuesday</strong><br />(6/15)</td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(6/16)</td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td>Full Stack React</td>
+  <td><strong>Wednesday</strong><br />(6/16)</td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+  <td>Full Stack React</td>
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(6/17)</td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer Presentations</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer Presentations</a></td>
-<td>Full Stack React</td>
+  <td><strong>Thursday</strong><br />(6/17)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Introduce Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project Planning</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project Planning</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/final-project">Final Project Planning</a></td>
+  <td>Final Project</td>
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(6/18)</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
-<td>Holiday</td>
+  <td><strong>Friday</strong><br />(6/18)</td>
+  <td>Holiday</td>
+  <td>Holiday</td>
+  <td>Holiday</td>
+  <td>Holiday</td>
+  <td>Holiday</td>
 </tr>
 
 </table>
@@ -402,28 +403,8 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(6/8)</td>
-<td>Coding Challenge
- 
-  - [Technical Interview A](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-A)
-  - [Technical Interview B](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-B)
-  
-</td>
-<td>Coding Challenge
- 
-  - [Technical Interview A](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-A)
-  - [Technical Interview B](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-B)
-  
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-<td>Interview Prep</td>
-</tr>
-
-
-<tr>
-<td><strong>Wednesday</strong><br />(6/9)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Computer-Science-Lightning-Learns">Data Structure Presentations</a></td>
+  <td><strong>Tuesday</strong><br />(6/8)</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/react-router-intro">React Router</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/react-router-intro">React Router</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/react-router-intro">React Router</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/react-router-intro">React Router</a></td>
@@ -431,7 +412,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(6/10)</td>
+<td><strong>Wednesday</strong><br />(6/9)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/react_todo_walkthrough">React TODO Walkthrough</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/react_todo_walkthrough">React TODO Walkthrough</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/react_todo_walkthrough">React TODO Walkthrough</a></td>
@@ -440,7 +421,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(6/11)</td>
+<td><strong>Thursday</strong><br />(6/10)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/building-a-mern-app">Building a MERN App</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/building-a-mern-app">Building a MERN App</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/building-a-mern-app">Building a MERN App</a></td>
@@ -448,6 +429,14 @@ However, you can access past year's puzzles!
 <td>FullStack</td>
 </tr>
 
+<tr>
+  <td><strong>Friday</strong><br />(6/11)</td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Github-collaboration-guide">Git Collaboration</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Introduce Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
+</tr>
 
 </table>
 
@@ -500,22 +489,36 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(6/1)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector Presentations</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Django-Heroku-Deployment">Django Heroku Deployment</a></td>
-<td>Django</td>
+  <td><strong>Tuesday</strong><br />(6/1)</td>
+  
+  <td>Coding Challenge
+  
+  - [Technical Interview A](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-A)
+  - [Technical Interview B](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-B)
+  </td>
+
+  <td>Coding Challenge
+  
+  - [Technical Interview A](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-A)
+  - [Technical Interview B](https://git.generalassemb.ly/wc-seir-1207/Technical-Interview-B)  
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+  
+  <td>Interview Prep</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(6/2)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
-<td>AJAX/API's</td>
+  <td><strong>Wednesday</strong><br />(6/2)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Computer-Science-Lightning-Learns">Data Structure Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/jquery-ajax-apis">AJAX & API's</a></td>
+  <td>AJAX/API's</td>
 </tr>
+
 
 <tr>
 <td><strong>Thursday</strong><br />(6/3)</td>
@@ -583,49 +586,60 @@ However, you can access past year's puzzles!
 </thead>
 <tbody>
 
+
 <tr>
-<td><strong>Monday</strong><br />(5/24)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-django">Intro to Django</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-urls-views-templates">URLs, Views, & Templates</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Finch Collector (Start)</a></td>
-<td>Finch Collector</td>
-<td>Django</td>
+
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(5/25)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
-<td>Finch Collector(Data Models)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-aws-config">Django AWS Config</a></td>
-<td>Django Models</td>
+  <td><strong>Monday</strong><br />(5/24)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-one-to-many">Django One-to-Many</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-one-to-many">Django One-to-Many</a></td>
+  <td>Finch Collector (One-to-Many)</td>
+  <td>Finch Collector</td>
+  <td>Django Associations</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(5/26)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-one-to-many">Django One-to-Many</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-one-to-many">Django One-to-Many</a></td>
-<td>Finch Collector (One-to-Many)</td>
-<td>Finch Collector</td>
-<td>Django Associations</td>
+  <td><strong>Tuesday</strong><br />(5/25)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-many-to-many">Django Many-to-Many</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-many-to-many">Django Many-to-Many</a></td>
+  <td>Outcomes</td>
+  <td>Finch Collector (Many-to-Many)</td>
+  <td>Django Associations</td>
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(5/27)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-many-to-many">Django Many-to-Many</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-many-to-many">Django Many-to-Many</a></td>
-<td>Finch Collector (Many-to-Many)</td>
-<td>Finch Collector</td>
-<td>Django Associations</td>
+  <td><strong>Wednesday</strong><br />(5/26)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-signup-login-logout">Django Auth</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-signup-login-logout">Django Auth</a></td>
+  <td>Finch Collector (Auth)</td>
+  <td>Finch Collector</td>
+  <td>Django Auth</td>
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(5/28)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-signup-login-logout">Django Auth</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/django-signup-login-logout">Django Auth</a></td>
-<td>Finch Collector (Auth)</td>
-<td>Finch Collector</td>
-<td>Django Auth</td>
+  <td><strong>Thursday</strong><br />(5/27)</td>
+  <td>Finch Collector</td>
+  <td>Finch Collector</td>
+  <td>Finch Collector</td>
+  <td>Finch Collector</td>
+  <td>Django</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(5/28)</td>
+
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector Presentations</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector Presentations</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector Presentations</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Django-Heroku-Deployment">Django Heroku Deployment</a></td>
+
+  <td>Django</td>
 </tr>
 
 </table>
@@ -657,98 +671,122 @@ However, you can access past year's puzzles!
 <table>
 <thead>
 <tr>
-<td></td>
-<th>Morning Exercise</th>
-<th>Module 1</th>
-<th>Module 2</th>
-<th>HW &amp; Extras</th>
-<th>Focus</th>
+  <td></td>
+  <th>Morning Exercise</th>
+  <th>Module 1</th>
+  <th>Module 2</th>
+  <th>HW &amp; Extras</th>
+  <th>Focus</th>
 </tr>
 </thead>
+
 <tbody>
-<tr>
-<td><strong>Monday</strong><br />(5/17)</td>
-<td>Project One Feedback</td>
-<td>Project One Feedback</td>
-<td>Project One Feedback</td>
-<td>
-
-  - <a href="https://my.generalassemb.ly/">My GA CS Modules</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/Portfolio-Assignment">Portfolio Assignment</a>
-</td>
-<td>Project One Feedback</td>
-</tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(5/18)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/python-control-flow-lab">Lab: Control Flow</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a></td>
-<td>Python</td>
-</tr>
+  <td><strong>Monday</strong><br />(5/17)</td>
 
-<tr>
-<td><strong>Wednesday</strong><br />(5/19)</td>
-<td>
+  <td>
 
   - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
   - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
-</td>
-<td>
+  </td>
+
+  <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-1207/lists-ranges">Python Lists & Ranges</a>
   - <a href="https://git.generalassemb.ly/WC-SEIR-1207/lists-ranges/blob/master/main.py">Lists & Ranges Demo Code</a>
-</td>
-<td>
+  </td>
 
+  <td>
+  
   - <a href="https://git.generalassemb.ly/wc-seir-1207/lists_and_ranges_pylab">Python Lists & Ranges Lab</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/state-capitals">Lab: State Capitals</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a></td>
-<td>Python</td>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a></td>
+
+  <td>Python</td>
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(5/20)</td>
-<td>
+  <td><strong>Tuesday</strong><br />(5/18)</td>
+
+  <td>
  
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-oop">Python OOP</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-oop-demo">Python OOP Demo Code</a>
-</td>
-<td>
- 
+  </td>
+
+  <td>
+  
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-oop">Python OOP</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-oop-demo">Python OOP Demo Code</a>
-</td>
-<td>
- 
+  </td>
+
+  <td>
+  
+  - Outcomes
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-oop">Python OOP</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/codebar">Lab: Codebar</a>
-</td>
-<td>
+  </td>
+  <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-1207/codebar">Codebar</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a>
 
-</td>
-<td>Python OOP</td>
+  </td>
+  <td>Python OOP</td>  
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(5/21)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/sql-airplane-lab">Lab: SQL Airplane</a></td>
-<td>
+  <td><strong>Wednesday</strong><br />(5/19)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/sql-airplane-lab">Lab: SQL Airplane</a></td>
+
+  <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-1207/psql-carmen-san-diego-lab">Carmen San Diego</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a>
+  </td>
 
-</td>
-<td>SQL</td>
+  <td>SQL</td>
 </tr>
 
+<tr>
+  <td><strong>Thursday</strong><br />(5/20)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-django">Intro to Django</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-urls-views-templates">URLs, Views, & Templates</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Finch Collector (Start)</a></td>
+
+  <td>Finch Collector</td>
+
+  <td>Django</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(5/21)</td>
+
+  
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
+
+  <td>
+
+  - Outcomes
+  - Lab: Finch Collector(Data Models)
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-aws-config">Django AWS Config</a></td>
+
+  <td>Django Models</td>
+</tr>
 </table>
 
 ### Week 7 - Deliverables
@@ -794,52 +832,72 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td><strong>Monday</strong><br />(5/10)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one#planning-deliverables">Project One Approvals</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one#planning-deliverables">Project One Approvals</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one#planning-deliverables">Project One Approvals</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td>Project One</td>
+  <td><strong>Monday</strong><br />(5/10)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td>Project One</td>
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(5/11)</td>
-<td>Outcomes</td>
-<td>
- 
- - <a href="https://git.generalassemb.ly/wc-seir-1207/Node-Heroku-Deployment">Heroku Deployment</a>
- - <a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td>Project One</td>
+  <td><strong>Tuesday</strong><br />(5/11)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  
+  <td>Outcomes</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+
+  <td>Project One</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(5/12)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/sessions">Express Session</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td>Project One</td>
+  <td><strong>Wednesday</strong><br />(5/12)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+
+  <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/sessions">Express Session</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+
+  <td>Project One</td>
 </tr>
 
 <tr>
 <td><strong>Thursday</strong><br />(5/13)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td>Project One</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Presentations</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Node-Heroku-Deployment">Heroku Deployment</a></td>
+
+  <td>Rest</td>
+
+  <td>Project One</td>
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(5/14)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Presentations</a></td>
-<td>Unit 2 Wrap-up</td>
-<td>Rest</td>
-<td>Project One</td>
+  <td><strong>Friday</strong><br />(5/14)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/python-control-flow-lab">Lab: Control Flow</a>
+  - Project One Feedback
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a></td>
+
+  <td>Python</td>
 </tr>
 
 </table>
@@ -888,56 +946,62 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td><strong>Monday</strong><br />(5/3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+  <td><strong>Monday</strong><br />(5/3)</td>
+  
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/two-model-second-model-crud">Express Blog (2nd Model)</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/two-model-lab">Two Model lab</a>
+  </td>
+
+  <td>Outcomes</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/photo-app-hw">Photo App</a></td>
+
+  <td>Full Stack Development</td>
+</tr>
+
+  <tr>
+  <td><strong>Tuesday</strong><br />(5/4)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/two-model-relationship-build">Blog Related Models</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/two-model-relationship-build">Blog Related Models</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/two-related-models-lab">Related Models Lab</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/photo-app-hw">Photo App</a></td>
+  <td>Model Relationships</td>
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(5/4)</td>
-<td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
-<td>
+  <td><strong>Wednesday</strong><br />(5/5)</td>
 
-- <a href="https://git.generalassemb.ly/wc-seir-1207/two-model-second-model-crud">Express Blog (2nd Model)</a>
-- <a href="https://git.generalassemb.ly/wc-seir-1207/two-model-lab">Two Model lab</a>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Github-collaboration-guide">Git Collaboration</a></td>
 
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/photo-app-hw">Photo App</a></td>
-<td>Full Stack Development</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Github-collaboration-guide">Git Collaboration Lab</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Intro & planning</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Planning</a></td>
+
+  <td>Full Stack Development</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(5/5)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/two-model-relationship-build">Blog Related Models</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/two-model-relationship-build">Blog Related Models</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/two-related-models-lab">Related Models Lab</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/photo-app-hw">Photo App</a></td>
-<td>Model Relationships</td>
+  <td><strong>Thursday</strong><br />(5/6)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(5/6)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Github-collaboration-guide">Git Collaboration</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Github-collaboration-guide">Git Collaboration</a></td>
-<td>
- 
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/Github-collaboration-guide">Git Collaboration Lab</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Intro & planning</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Planning</a></td>
-<td>Full Stack Development</td>
-</tr>
-
-<tr>
-<td><strong>Friday</strong><br />(5/7)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+  <td><strong>Friday</strong><br />(5/7)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td>Project One</td>
 </tr>
 
 </table>
@@ -988,12 +1052,16 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td><strong>Monday</strong><br />(4/26)</td>
+</tr>
+
+<tr>
+  <td><strong>Monday</strong><br />(4/26)</td>
+
+<!--  -->
 <td>
- 
- - Outcomes
- - <a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Express">Intro To Express</a>
- - <a href="https://git.generalassemb.ly/WC-SEIR-1207/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
+
+  - <a href="https://git.generalassemb.ly/WC-SEIR-1207/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Express">Intro To Express</a>
 </td>
 <td>
 
@@ -1002,64 +1070,87 @@ However, you can access past year's puzzles!
 </td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Rest">Intro To Rest</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/express-space-homework">Express Space <strong></a></td>
+<!--  -->
+
 <td>Node/Express</td>
+
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(4/27)</td>
-<td>Outcomes</td>
-<td>
+  <td><strong>Tuesday</strong><br />(4/27)</td>
 
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/MVC">MVC</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/mvc-intro-lab">MVC Intro Lab</a></td>
-<td>
+  <!--  -->
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/MVC">MVC</a></td>
 
- - <a href="https://git.generalassemb.ly/wc-seir-1207/NEW_Create_Express">New && Create</a>
- - <a href="https://git.generalassemb.ly/wc-seir-1207/Express-Create-Lab">Lab: Products App</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Pokemon-Express">Pokemon Express</a></td>
-<td>Node/Express</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/mvc-intro-lab">MVC Intro Lab</a></td>
+
+  <td>
+  
+  - Outcomes
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/NEW_Create_Express">New & Create</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/Express-Create-Lab">Lab: Products App</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Pokemon-Express">Pokemon Express</a></td>
+
+  <!--  -->
+
+  <td>Node/Express</td>
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(4/28)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Delete-Express">Delete & Edit</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Delete-Express">Delete & Edit</a></td>
-<td>
+  <td><strong>Wednesday</strong><br />(4/28)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Delete-Express">Delete & Edit</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Delete-Express">Delete & Edit</a></td>
+
+  <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-1207/express-controllers">Controllers</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/express-partner-lab">Lab: Pair Programming</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Pokemon-Express">Pokemon Express</a></td>
-<td>Node/Express</td>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Pokemon-Express">Pokemon Express</a></td>
+
+  <td>MongoDB/Mongoose</td>
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(4/29)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/mongo-lesson">Intro to Mongo</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/mongo-lab">Mongo Lab</a></td>
-<td>
+  <td><strong>Thursday</strong><br />(4/29)</td>
 
-- <a href="https://git.generalassemb.ly/wc-seir-1207/mongoose-lesson">Intro to Mongoose</a>
-- <a href="https://git.generalassemb.ly/wc-seir-1207/Mongoose-Lab">Mongoose Lab</a>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/mongo-lesson">Intro to Mongo</a></td>
 
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/mongoose-vampires-hw">Mongoose Vampires <strong></a></td>
-<td>MongoDB/Mongoose</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/mongo-lab">Mongo Lab</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/mongoose-lesson">Intro to Mongoose</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/Mongoose-Lab">Mongoose Lab</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/mongoose-vampires-hw">Mongoose Vampires <strong></a></td>
+
+  <td>Full Stack Dev</td>
 </tr>
 
-<td><strong>Friday</strong><br />(4/30)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Scope">Scope</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/express-adding-models">Fruits App with Database</a></td>
-<td>
+<tr>
+  <td><strong>Friday</strong><br />(4/30)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Scope">Scope</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/express-adding-models">Fruits App with Database</a></td>
+
+  <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack Lab (CR)</a>
   - <a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack Lab (UD)</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack</a></td>
-<td>Full Stack Dev</td>
-</tr>
+  </td>
 
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack</a></td>
+
+  <td>Full Stack</td>
+</tr>  
 </table>
 
 ### Week 4 - Deliverables
@@ -1123,9 +1214,9 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Tuesday</strong><br />(4/20)</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
 <td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
 <td>Project: Tamagotchi</td>
 </tr>
@@ -1217,9 +1308,10 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Tuesday</strong><br />(4/13)</td>
-<td>Outcomes</td>
+
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/classes">OOP & Classes</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/classes-lab">Classes Lab</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/classes">OOP & Classes</a></td>
+<td>Outcomes</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/classes-lab">Classes Lab</a></td>
 <td>Object Oriented Programming</td>
 </tr>
