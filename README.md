@@ -588,11 +588,25 @@ However, you can access past year's puzzles!
 
 
 <tr>
+  <td><strong>Monday</strong><br />(5/24)</td>
 
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
+
+  <td>
+
+  - Outcomes
+  - Lab: Finch Collector(Data Models)
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-aws-config">Django AWS Config</a></td>
+
+  <td>Django Models</td>
 </tr>
 
 <tr>
-  <td><strong>Monday</strong><br />(5/24)</td>
+  <td><strong>Tuesday</strong><br />(5/25)</td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-one-to-many">Django One-to-Many</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-one-to-many">Django One-to-Many</a></td>
   <td>Finch Collector (One-to-Many)</td>
@@ -601,7 +615,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-  <td><strong>Tuesday</strong><br />(5/25)</td>
+  <td><strong>Wednesday</strong><br />(5/26)</td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-many-to-many">Django Many-to-Many</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-models-many-to-many">Django Many-to-Many</a></td>
   <td>Outcomes</td>
@@ -610,7 +624,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-  <td><strong>Wednesday</strong><br />(5/26)</td>
+  <td><strong>Thursday</strong><br />(5/27)</td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-signup-login-logout">Django Auth</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-signup-login-logout">Django Auth</a></td>
   <td>Finch Collector (Auth)</td>
@@ -619,17 +633,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-  <td><strong>Thursday</strong><br />(5/27)</td>
-  <td>Finch Collector</td>
-  <td>Finch Collector</td>
-  <td>Finch Collector</td>
-  <td>Finch Collector</td>
-  <td>Django</td>
-</tr>
-
-<tr>
   <td><strong>Friday</strong><br />(5/28)</td>
-
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/Finch-collector-lab-views">Django Collector Presentations</a></td>
 
@@ -685,6 +689,25 @@ However, you can access past year's puzzles!
 <tr>
   <td><strong>Monday</strong><br />(5/17)</td>
 
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/python-control-flow-lab">Lab: Control Flow</a>
+  - Project One Feedback
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a></td>
+
+  <td>Python</td>
+</tr>
+
+
+<tr>
+  <td><strong>Tuesday</strong><br />(5/18)</td>
+
   <td>
 
   - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
@@ -708,8 +731,9 @@ However, you can access past year's puzzles!
   <td>Python</td>
 </tr>
 
+
 <tr>
-  <td><strong>Tuesday</strong><br />(5/18)</td>
+  <td><strong>Wednesday</strong><br />(5/19)</td>
 
   <td>
  
@@ -738,8 +762,10 @@ However, you can access past year's puzzles!
   <td>Python OOP</td>  
 </tr>
 
+
 <tr>
-  <td><strong>Wednesday</strong><br />(5/19)</td>
+  <td><strong>Thursday</strong><br />(5/20)</td>
+
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
@@ -755,8 +781,9 @@ However, you can access past year's puzzles!
   <td>SQL</td>
 </tr>
 
+
 <tr>
-  <td><strong>Thursday</strong><br />(5/20)</td>
+  <td><strong>Friday</strong><br />(5/21)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-django">Intro to Django</a></td>
 
@@ -769,24 +796,6 @@ However, you can access past year's puzzles!
   <td>Django</td>
 </tr>
 
-<tr>
-  <td><strong>Friday</strong><br />(5/21)</td>
-
-  
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-data-models">Django Data Models</a></td>
-
-  <td>
-
-  - Outcomes
-  - Lab: Finch Collector(Data Models)
-  </td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/django-aws-config">Django AWS Config</a></td>
-
-  <td>Django Models</td>
-</tr>
 </table>
 
 ### Week 7 - Deliverables
@@ -842,6 +851,15 @@ However, you can access past year's puzzles!
 
 <tr>
   <td><strong>Tuesday</strong><br />(5/11)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
+  <td>Project One</td>
+</tr>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(5/12)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
 
@@ -855,7 +873,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-  <td><strong>Wednesday</strong><br />(5/12)</td>
+  <td><strong>Thursday</strong><br />(5/13)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
 
@@ -869,7 +887,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(5/13)</td>
+  <td><strong>Friday</strong><br />(5/14)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
 
@@ -880,24 +898,6 @@ However, you can access past year's puzzles!
   <td>Rest</td>
 
   <td>Project One</td>
-</tr>
-
-<tr>
-  <td><strong>Friday</strong><br />(5/14)</td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-python">Intro to Python</a></td>
-
-  <td>
-
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/python-control-flow-lab">Lab: Control Flow</a>
-  - Project One Feedback
-  </td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/python-koans">Python Koans</a></td>
-
-  <td>Python</td>
 </tr>
 
 </table>
@@ -947,6 +947,25 @@ However, you can access past year's puzzles!
 
 <tr>
   <td><strong>Monday</strong><br />(5/3)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Scope">Scope</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/express-adding-models">Fruits App with Database</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack Lab (CR)</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack Lab (UD)</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack</a></td>
+
+  <td>Full Stack</td>
+</tr> 
+
+
+<tr>
+  <td><strong>Tuesday</strong><br />(5/4)</td>
   
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
 
@@ -963,8 +982,9 @@ However, you can access past year's puzzles!
   <td>Full Stack Development</td>
 </tr>
 
-  <tr>
-  <td><strong>Tuesday</strong><br />(5/4)</td>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(5/5)</td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/two-model-relationship-build">Blog Related Models</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/two-model-relationship-build">Blog Related Models</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/two-related-models-lab">Related Models Lab</a></td>
@@ -972,8 +992,9 @@ However, you can access past year's puzzles!
   <td>Model Relationships</td>
 </tr>
 
+
 <tr>
-  <td><strong>Wednesday</strong><br />(5/5)</td>
+  <td><strong>Thursday</strong><br />(5/6)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/Github-collaboration-guide">Git Collaboration</a></td>
 
@@ -986,22 +1007,14 @@ However, you can access past year's puzzles!
   <td>Full Stack Development</td>
 </tr>
 
-<tr>
-  <td><strong>Thursday</strong><br />(5/6)</td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
-</tr>
 
 <tr>
   <td><strong>Friday</strong><br />(5/7)</td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One</a></td>
-  <td>Project One</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-one">Project One Approvals</a></td>
 </tr>
 
 </table>
@@ -1052,34 +1065,40 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-</tr>
-
-<tr>
   <td><strong>Monday</strong><br />(4/26)</td>
-
-<!--  -->
-<td>
-
-  - <a href="https://git.generalassemb.ly/WC-SEIR-1207/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Express">Intro To Express</a>
-</td>
-<td>
-
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/url_and_query_params">Url & Params</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/express-lab-params">Params lab</a>
-</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Rest">Intro To Rest</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/express-space-homework">Express Space <strong></a></td>
-<!--  -->
-
-<td>Node/Express</td>
-
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi Presentations</a></td>
+  <td>Project: Tamagotchi</td>
 </tr>
 
 <tr>
   <td><strong>Tuesday</strong><br />(4/27)</td>
 
-  <!--  -->
+  <td>
+
+  - <a href="https://git.generalassemb.ly/WC-SEIR-1207/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Express">Intro To Express</a>
+  </td>
+  
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/url_and_query_params">Url & Params</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-1207/express-lab-params">Params lab</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro_to_Rest">Intro To Rest</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-1207/express-space-homework">Express Space <strong></a></td>
+
+  <td>Node/Express</td>
+
+</tr>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(4/28)</td>
+
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/MVC">MVC</a></td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/mvc-intro-lab">MVC Intro Lab</a></td>
@@ -1093,13 +1112,11 @@ However, you can access past year's puzzles!
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/Pokemon-Express">Pokemon Express</a></td>
 
-  <!--  -->
-
   <td>Node/Express</td>
 </tr>
 
 <tr>
-  <td><strong>Wednesday</strong><br />(4/28)</td>
+  <td><strong>Thursday</strong><br />(4/29)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/Delete-Express">Delete & Edit</a></td>
 
@@ -1117,7 +1134,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-  <td><strong>Thursday</strong><br />(4/29)</td>
+  <td><strong>Friday</strong><br />(4/30)</td>
 
   <td><a href="https://git.generalassemb.ly/wc-seir-1207/mongo-lesson">Intro to Mongo</a></td>
 
@@ -1134,23 +1151,6 @@ However, you can access past year's puzzles!
   <td>Full Stack Dev</td>
 </tr>
 
-<tr>
-  <td><strong>Friday</strong><br />(4/30)</td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/Scope">Scope</a></td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/express-adding-models">Fruits App with Database</a></td>
-
-  <td>
-
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack Lab (CR)</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack Lab (UD)</a>
-  </td>
-
-  <td><a href="https://git.generalassemb.ly/wc-seir-1207/first-full-stack-homework">MEN Stack</a></td>
-
-  <td>Full Stack</td>
-</tr>  
 </table>
 
 ### Week 4 - Deliverables
@@ -1243,8 +1243,8 @@ However, you can access past year's puzzles!
 <td><strong>Friday</strong><br />(4/23)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi Presentations</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi Presentations</a></td>
+<td><a href="https://git.generalassemb.ly/WC-SEIR-1207/deploy-to-github-pages">GitHub Pages Deployment</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
 <td>Project: Tamagotchi</td>
 </tr>
 
