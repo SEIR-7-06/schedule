@@ -1,4 +1,4 @@
-<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> WC SEI Remote 4/05 Staging Schedule</h1>
+<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> WC SEI Remote 7/06 Staging Schedule</h1>
 
 <br/>
 
