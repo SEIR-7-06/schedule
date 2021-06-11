@@ -1312,46 +1312,46 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Monday</strong><br />(7/19)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td>Project: Tamagotchi</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td>Project 0</td>
 </tr>
 
 <tr>
 <td><strong>Tuesday</strong><br />(7/20)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
 <td>Outcomes</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td>Project: Tamagotchi</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td>Project 0</td>
 </tr>
 
 <tr>
 <td><strong>Wednesday</strong><br />(7/21)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td>Project: Tamagotchi</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td>Project 0</td>
 </tr>
 
 <tr>
 <td><strong>Thursday</strong><br />(7/22)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
 <td><a href="https://git.generalassemb.ly/WC-SEIR-1207/deploy-to-github-pages">GitHub Pages Deployment</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td>Project: Tamagotchi</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td>Project 0</td>
 </tr>
 
 <tr>
 <td><strong>Friday</strong><br />(7/23)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project Presentations</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project Presentations</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project Presentations</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project Presentations</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0 Presentations</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0 Presentations</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0 Presentations</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0 Presentations</a></td>
 <td>Project: Tamagotchi</td>
 </tr>
 
@@ -1444,10 +1444,10 @@ However, you can access past year's puzzles!
 <tr>
 <td><strong>Friday</strong><br />(7/16)</td>
 <!-- <td><a href="https://git.generalassemb.ly/wc-seir-1207/css-animation">CSS Animation</a></td> -->
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi Planning</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project: Tamagotchi</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Introduce Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/project-zero">Project 0</a></td>
 <td>Project: Tamagotchi</td>
 </tr>
 
@@ -1510,7 +1510,7 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Tuesday</strong><br />(7/6)</td>
-<td>Terminal/CLI</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-1207/welcome-to-sei">Welcome to GA</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/welcome-to-sei">Welcome to GA</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-terminal">Terminal Intro</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-1207/command-line-lab">Terminal Lab</a></td>
