@@ -1510,32 +1510,32 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Tuesday</strong><br />(7/6)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/welcome-to-sei">Welcome to GA</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/welcome-to-sei">Welcome to GA</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-terminal">Terminal Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/command-line-lab">Terminal Lab</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/hw-unix-cli-practice">Terminal Practice</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/welcome-to-sei">Welcome to GA</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/welcome-to-sei">Welcome to GA</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/intro-terminal">Terminal Intro</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/command-line-lab">Terminal Lab</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/hw-unix-cli-practice">Terminal Practice</a></td>
 </tr>
 
 <tr>
 <td><strong>Wednesday</strong><br />(7/7)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/semantic-html">Semantic HTML</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/intro-to-programming">Intro To Programming</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/semantic-html">Semantic HTML</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/intro-to-programming">Intro To Programming</a></td>
 <td>
   
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/installfest">Installfest</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-1207/github">Github</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/installfest">Installfest</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/github">Github</a>
 </td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/git-github-lab">Github Lab</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/git-github-lab">Github Lab</a></td>
 <td>Github Basics</td>
 </tr>
 
 <tr>
 <td><strong>Thursday</strong><br />(7/8)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/profile-cards">CSS Profile Card</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/functions">Functions</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/functions-lab">Functions Lab</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/functions-scope-hw">Functions</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/profile-cards">CSS Profile Card</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/functions">Functions</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/functions-lab">Functions Lab</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/functions-scope-hw">Functions</a></td>
 <td>JavaScript Functions</td>
 </tr>
 
@@ -1543,9 +1543,9 @@ However, you can access past year's puzzles!
 <tr>
 <td><strong>Friday</strong><br />(7/9)</td>
 <td>CSS: Landing Page</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Objects">Objects</a> </td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Objects-lab">Objects Lab</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/Objects-lab">Objects Lab</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/Objects">Objects</a> </td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/Objects-lab">Objects Lab</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/Objects-lab">Objects Lab</a></td>
 <td>JavaScript Objects</td>
 </tr>
 
@@ -1566,13 +1566,13 @@ However, you can access past year's puzzles!
 
 <tr>
 <td>7/7</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/HW-Loops-Conditionals">Loops & Conditionals</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/HW-Loops-Conditionals">Loops & Conditionals</a></td>
 <td>7/14</td>
 </tr>
 
 <tr>
 <td>7/8</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-1207/functions-scope-hw">Functions</a></td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/functions-scope-hw">Functions</a></td>
 <td>7/15</td>
 </tr>
 
