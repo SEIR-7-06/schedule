@@ -231,11 +231,20 @@ However, you can access past year's puzzles!
 <tr>
   <td><strong>Tuesday</strong><br />(9/21)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td>Final Project</td>
+</tr>
+
+<!-- <tr>
+  <td><strong>Tuesday</strong><br />(9/21)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/React-Hooks-Intro">React Hooks</a></td>
   <td>Outcomes</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
   <td>Final Project</td>
-</tr>
+</tr> -->
 
 <tr>
   <td><strong>Wednesday</strong><br />(9/22)</td>
@@ -314,8 +323,8 @@ However, you can access past year's puzzles!
 <tr>
   <td><strong>Tuesday</strong><br />(9/14)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
-  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
-  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/React-Hooks-Intro">React Hooks</a></td>
+  <td>Outcomes</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
   <td>Final Project</td>
 </tr>
