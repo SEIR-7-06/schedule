@@ -286,7 +286,7 @@ However, you can access past year's puzzles!
 <br />
 <br />
 
-### Week 11 - Full Stack Collaboration, React
+### Week 11 - Final Project
 
 <table>
 <thead>
@@ -303,19 +303,60 @@ However, you can access past year's puzzles!
 
 
 <tr>
-  
+  <td><strong>Monday</strong><br />(9/13)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td>Final Project</td>
 </tr>
 
 <tr>
+  <td><strong>Tuesday</strong><br />(9/14)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td>Final Project</td>
+</tr>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(9/15)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td>Final Project</td>
+</tr>
+
+<tr>
+  <td><strong>Thursday</strong><br />(9/16)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td>Final Project</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(9/17)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
+  <td>Final Project</td>
+</tr>
+</table>
+<!-- <tr>
   <td><strong>Monday</strong><br />(9/13)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td>Full Stack React</td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
   <td><strong>Tuesday</strong><br />(9/14)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer Presentations</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer Presentations</a></td>
@@ -363,7 +404,7 @@ However, you can access past year's puzzles!
   <td>Final Project</td>
 </tr>
 
-</table>
+</table> -->
 
 ### Week 11 - Deliverables
 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
@@ -387,10 +428,10 @@ However, you can access past year's puzzles!
 <br/>
 
 
-### Week 10 - More React
+### Week 10 - SQL and Flask
 
-[GameLib API](https://git.generalassemb.ly/sea-seir-706/gamelib-api)<br />
-[GameLib App](https://git.generalassemb.ly/sea-seir-706/gamelib-app)<br />
+<!-- [GameLib API](https://git.generalassemb.ly/sea-seir-706/gamelib-api)<br />
+[GameLib App](https://git.generalassemb.ly/sea-seir-706/gamelib-app)<br /> -->
 
 <table>
 <thead>
@@ -415,8 +456,52 @@ However, you can access past year's puzzles!
   <td>Holiday</td>
 </tr>
 
+<tr>
+  <td><strong>Tuesday</strong><br />(9/7)</td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/sql-airplane-lab">Lab: SQL Airplane</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/sea-seir-706/psql-carmen-san-diego-lab">Carmen San Diego</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a>
+  </td>
+
+  <td>SQL</td>
+</tr>
 
 <tr>
+  <td><strong>Wednesday</strong><br />(9/8)</td>
+  <td><a href="">Flask</a></td>
+  <td><a href="">Flask</a></td>
+  <td><a href="">Flask</a></td>
+  <td>Flask</td>
+  <td>Flask</td>
+</tr>
+
+<tr>
+  <td><strong>Thursday</strong><br />(9/9)</td>
+  <td><a href="">Flask</a></td>
+  <td><a href="">Flask</a></td>
+  <td><a href="">Flask</a></td>
+  <td>Flask</td>
+  <td>Flask</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(9/10)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Introduce Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Introduce Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Introduce Final Project</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Introduce Final Project</a></td>
+  <td>Final Project</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Tuesday</strong><br />(9/7)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/building-a-mern-app">Building a MERN App</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/building-a-mern-app">Building a MERN App</a></td>
@@ -452,7 +537,7 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td>Full Stack React</td>
-</tr>
+</tr> -->
 
 </table>
 
@@ -495,7 +580,131 @@ However, you can access past year's puzzles!
 </tr>
 </thead>
 <tbody>
+
 <tr>
+  <td><strong>Monday</strong><br />(8/30)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+  <td>Full Stack React</td>
+</tr>
+
+<tr>
+  <td><strong>Tuesday</strong><br />(8/31)</td>
+  <td>Coding Challenge
+  
+  - [Technical Interview A](https://git.generalassemb.ly/sea-seir-706/Technical-Interview-A)
+  - [Technical Interview B](https://git.generalassemb.ly/sea-seir-706/Technical-Interview-B)
+  </td>
+
+  <td>Coding Challenge
+  
+  - [Technical Interview A](https://git.generalassemb.ly/sea-seir-706/Technical-Interview-A)
+  - [Technical Interview B](https://git.generalassemb.ly/sea-seir-706/Technical-Interview-B)  
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+  
+  <td>Interview Prep</td>
+</tr>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(9/1)</td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Computer-Science-Lightning-Learns">Data Structure Presentations</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-to-python">Intro to Python</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-control-flow-lab">Lab: Control Flow</a>
+  - Project One Feedback
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a></td>
+
+  <td>Python</td>
+</tr>
+
+
+<tr>
+  <td><strong>Thursday</strong><br />(9/2)</td>
+
+  <td>
+
+  - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
+  - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
+  </td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/sea-seir-706/lists-ranges">Python Lists & Ranges</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/lists-ranges/blob/master/main.py">Lists & Ranges Demo Code</a>
+  </td>
+
+  <td>
+  
+  - Outcomes
+  - <a href="https://git.generalassemb.ly/sea-seir-706/lists_and_ranges_pylab">Python Lists & Ranges Lab</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/state-capitals">Lab: State Capitals</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a></td>
+
+  <td>Python</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(9/3)</td>
+
+  <td>
+ 
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-oop">Python OOP</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-oop-demo">Python OOP Demo Code</a>
+  </td>
+
+  <td>
+  
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-oop">Python OOP</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-oop-demo">Python OOP Demo Code</a>
+  </td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-oop">Python OOP</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/codebar">Lab: Codebar</a>
+  </td>
+  <td>
+
+  - <a href="https://git.generalassemb.ly/sea-seir-706/codebar">Codebar</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a>
+
+  </td>
+  <td>Python OOP</td>  
+</tr>
+
+<!-- <tr>
+  <td><strong>Friday</strong><br />(9/3)</td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/sql-airplane-lab">Lab: SQL Airplane</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/sea-seir-706/psql-carmen-san-diego-lab">Carmen San Diego</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a>
+  </td>
+
+  <td>SQL</td>
+</tr> -->
+
+<!-- <tr>
   <td><strong>Monday</strong><br />(8/30)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React Props</a></td>
@@ -507,10 +716,10 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React Props</a></td>
 
   <td>React</td>
-</tr>
+</tr> -->
 
 
-<tr>
+<!-- <tr>
   <td><strong>Tuesday</strong><br />(8/31)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React State</a></td>
@@ -561,7 +770,7 @@ However, you can access past year's puzzles!
   <td>Outcomes</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react_todo_walkthrough">React TODO Walkthrough</a></td>
   <td>Refactor ToDo with own backend</td>
-</tr>
+</tr> -->
 
 </table>
 
@@ -626,7 +835,7 @@ However, you can access past year's puzzles!
 
   <td>Django Models</td>
 </tr> -->
-
+<!-- 
 <tr>
   <td><strong>Monday</strong><br />(8/23)</td>
 
@@ -643,9 +852,18 @@ However, you can access past year's puzzles!
   <td>Finch Collector</td>
 
   <td>Django Associations</td>
-</tr>
+</tr> -->
 
 <tr>
+  <td><strong>Monday</strong><br />(8/23)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/building-a-mern-app">Building a MERN App</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/building-a-mern-app">Building a MERN App</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/building-a-mern-app">Building a MERN App</a></td>
+  <td>Add a new feature to GameLib App</td>
+  <td>FullStack</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Tuesday</strong><br />(8/24)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/django-models-many-to-many">Django Many-to-Many</a></td>
@@ -657,18 +875,36 @@ However, you can access past year's puzzles!
   <td>Finch Collector (Many-to-Many)</td>
 
   <td>Django Associations</td>
-</tr>
+</tr> -->
 
 <tr>
+  <td><strong>Tuesday</strong><br />(8/24)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Github-collaboration-guide">Git Collaboration</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Introduce Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Wednesday</strong><br />(8/25)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/django-signup-login-logout">Django Auth</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Django-Heroku-Deployment">Django Heroku Deployment</a></td>
   <td>Finch Collector</td>
   <td>Finch Collector</td>
   <td>Django Auth</td>
-</tr>
+</tr> -->
 
 <tr>
+  <td><strong>Wednesday</strong><br />(9/9)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Thursday</strong><br />(8/26)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Finch-collector-lab-views">Django Collector Presentations</a></td>
@@ -680,9 +916,18 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Finch-collector-lab-views">Django Collector Presentations</a></td>
 
   <td>Django</td>
-</tr>
+</tr> -->
 
 <tr>
+  <td><strong>Thursday</strong><br />(9/10)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Friday</strong><br />(8/27)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react-intro-remote">React Intro</a></td>
@@ -694,6 +939,15 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/monument-react-refactor">React Monument Refactor</a></td>
 
   <td>React</td>
+</tr> -->
+
+<tr>
+  <td><strong>Friday</strong><br />(9/10)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
+  <td>Full Stack React</td>
 </tr>
 
 </table>
@@ -755,7 +1009,7 @@ However, you can access past year's puzzles!
 </tr> -->
 
 
-<tr>
+<!-- <tr>
   <td><strong>Monday</strong><br />(8/16)</td>
 
   <td>
@@ -780,10 +1034,23 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a></td>
 
   <td>Python</td>
-</tr>
-
+</tr> -->
 
 <tr>
+  <td><strong>Monday</strong><br />(8/16)</td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React Props</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React Props</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React Props</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React Props</a></td>
+
+  <td>React</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Tuesday</strong><br />(8/17)</td>
 
   <td>
@@ -810,10 +1077,23 @@ However, you can access past year's puzzles!
 
   </td>
   <td>Python OOP</td>  
-</tr>
-
+</tr> -->
 
 <tr>
+  <td><strong>Tuesday</strong><br />(8/17)</td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React State</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React State</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React State</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-state-remote">React State</a></td>
+
+  <td>React</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Wednesday</strong><br />(8/18)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
@@ -829,9 +1109,28 @@ However, you can access past year's puzzles!
   </td>
 
   <td>SQL</td>
-</tr>
+</tr> -->
 
 <tr>
+  <td><strong>Wednesday</strong><br />(8/18)</td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+
+  <td>
+    
+  - <a href="https://git.generalassemb.ly/sea-seir-706/react-geoquakes">React GeoQuakes</a>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/react-contacts">React Contacts</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-geoquakes">React GeoQuakes</a></td>
+
+  <td>React</td>
+</tr>
+
+
+<!-- <tr>
   <td><strong>Thursday</strong><br />(8/19)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-to-django">Intro to Django</a></td>
@@ -843,9 +1142,18 @@ However, you can access past year's puzzles!
   <td>Finch Collector</td>
 
   <td>Django</td>
-</tr>
+</tr> -->
 
 <tr>
+  <td><strong>Thursday</strong><br />(8/19)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-router-intro">React Router</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-router-intro">React Router</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-router-intro">React Router</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-router-intro">React Router</a></td>
+  <td>React</td>
+</tr>
+
+<!-- <tr>
   <td><strong>Friday</strong><br />(8/20)</td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/django-data-models">Django Data Models</a></td>
@@ -857,6 +1165,15 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/django-aws-config">Django AWS Config</a></td>
 
   <td>Django Models</td>
+</tr> -->
+
+<tr>
+  <td><strong>Friday</strong><br />(9/3)</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react_todo_walkthrough">React TODO Walkthrough</a></td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react_todo_walkthrough">React TODO Walkthrough</a></td>
+  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react_todo_walkthrough">React TODO Walkthrough</a></td>
+  <td>Refactor ToDo with own backend</td>
 </tr>
 
 </table>
@@ -952,6 +1269,20 @@ However, you can access past year's puzzles!
 <tr>
   <td><strong>Friday</strong><br />(8/13)</td>
 
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-intro-remote">React Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/react-intro-remote">React Intro</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/monument-react-refactor">React Monument Refactor</a></td>
+
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/monument-react-refactor">React Monument Refactor</a></td>
+
+  <td>React</td>
+</tr>
+
+<!-- <tr>
+  <td><strong>Friday</strong><br />(8/13)</td>
+
   <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-to-python">Intro to Python</a></td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-to-python">Intro to Python</a></td>
@@ -965,21 +1296,8 @@ However, you can access past year's puzzles!
   <td><a href="https://git.generalassemb.ly/sea-seir-706/python-koans">Python Koans</a></td>
 
   <td>Python</td>
-</tr>
-
-<!-- <tr>
-  <td><strong>Friday</strong><br />(8/13)</td>
-
-  <td><a href="https://git.generalassemb.ly/sea-seir-706/project-one">Project One</a></td>
-
-  <td><a href="https://git.generalassemb.ly/sea-seir-706/project-one">Project One Presentations</a></td>
-
-  <td><a href="https://git.generalassemb.ly/sea-seir-706/Node-Heroku-Deployment">Heroku Deployment</a></td>
-
-  <td>Rest</td>
-
-  <td>Project One</td>
 </tr> -->
+
 
 </table>
 
