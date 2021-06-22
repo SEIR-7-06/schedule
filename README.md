@@ -1838,7 +1838,7 @@ However, you can access past year's puzzles!
 <tr>
 <td><strong>Tuesday</strong><br />(7/6)</td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/welcome-to-sei">Welcome to GA</a></td>
-  - <a href="https://git.generalassemb.ly/sea-seir-706/installfest">Installfest</a>
+ <td><a href="https://git.generalassemb.ly/sea-seir-706/installfest">Installfest</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-terminal">Terminal Intro</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/command-line-lab">Terminal Lab</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/hw-unix-cli-practice">Terminal Practice</a></td>
