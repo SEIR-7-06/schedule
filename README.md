@@ -1838,7 +1838,7 @@ However, you can access past year's puzzles!
 <tr>
 <td><strong>Tuesday</strong><br />(7/6)</td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/welcome-to-sei">Welcome to GA</a></td>
-<td><a href="https://git.generalassemb.ly/sea-seir-706/welcome-to-sei">Welcome to GA</a></td>
+  - <a href="https://git.generalassemb.ly/sea-seir-706/installfest">Installfest</a>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-terminal">Terminal Intro</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/command-line-lab">Terminal Lab</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/hw-unix-cli-practice">Terminal Practice</a></td>
@@ -1849,8 +1849,6 @@ However, you can access past year's puzzles!
 <td><a href="https://git.generalassemb.ly/sea-seir-706/semantic-html">Semantic HTML</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/intro-to-programming">Intro To Programming</a></td>
 <td>
-  
-  - <a href="https://git.generalassemb.ly/sea-seir-706/installfest">Installfest</a>
   - <a href="https://git.generalassemb.ly/sea-seir-706/github">Github</a>
 </td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/git-github-lab">Github Lab</a></td>
