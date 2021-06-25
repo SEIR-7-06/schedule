@@ -324,7 +324,7 @@ However, you can access past year's puzzles!
   <td><strong>Tuesday</strong><br />(9/14)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/React-Hooks-Intro">React Hooks</a></td>
-  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/final-project">Final Project</a></td>
   <td>Final Project</td>
 </tr>
@@ -1045,7 +1045,7 @@ However, you can access past year's puzzles!
   <td><strong>Tuesday</strong><br />(8/10)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/project-one">Project One</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Node-Heroku-Deployment">Heroku Deployment</a></td>
-  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/project-one">Project One</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/project-one">Project One</a></td>
   <td>Project One</td>
 </tr>
@@ -1180,13 +1180,9 @@ However, you can access past year's puzzles!
   
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
 
-  <td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/two-model-second-model-crud">Express Blog (2nd Model)</a></td>
 
-  - <a href="https://git.generalassemb.ly/sea-seir-706/two-model-second-model-crud">Express Blog (2nd Model)</a>
-  - <a href="https://git.generalassemb.ly/sea-seir-706/two-model-lab">Two Model lab</a>
-  </td>
-
-  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/two-model-lab">Two Model lab</a></td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/photo-app-hw">Photo App</a></td>
 
@@ -1282,8 +1278,8 @@ However, you can access past year's puzzles!
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/jquery-ajax-apis">AJAX & API's</a></td>
 
-  <td>Outcomes</td>
-
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/jquery-ajax-apis">AJAX & API's</a></td>
+  
   <td><a href="https://git.generalassemb.ly/sea-seir-706/jquery-ajax-apis">AJAX & API's</a></td>
 
   <td>AJAX/API's</td>
@@ -1304,11 +1300,7 @@ However, you can access past year's puzzles!
   - <a href="https://git.generalassemb.ly/sea-seir-706/express-lab-params">Params lab</a>
   </td>
 
-  <td>
-  
-  - Outcomes
-  - <a href="https://git.generalassemb.ly/sea-seir-706/intro_to_Rest">Intro To Rest</a>
-  </td>
+  <td><a href="https://git.generalassemb.ly/sea-seir-706/intro_to_Rest">Intro To Rest</a></td>
 
   <td><a href="https://git.generalassemb.ly/sea-seir-706/express-space-homework">Express Space <strong></a></td>
 
@@ -1453,7 +1445,7 @@ However, you can access past year's puzzles!
 <td><strong>Tuesday</strong><br />(7/20)</td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/project-zero">Project 0</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/project-zero">Project 0</a></td>
-<td>Outcomes</td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/project-zero">Project 0</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/project-zero">Project 0</a></td>
 <td>Project 0</td>
 </tr>
@@ -1548,7 +1540,7 @@ However, you can access past year's puzzles!
 
 <td><a href="https://git.generalassemb.ly/sea-seir-706/classes">OOP & Classes</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/classes">OOP & Classes</a></td>
-<td>Outcomes</td>
+<td><a href="https://git.generalassemb.ly/sea-seir-706/classes">OOP & Classes</a></td>
 <td><a href="https://git.generalassemb.ly/sea-seir-706/classes-lab">Classes Lab</a></td>
 <td>Object Oriented Programming</td>
 </tr>
