@@ -905,7 +905,7 @@ However, you can access past year's puzzles!
 </tr> -->
 
 <tr>
-  <td><strong>Wednesday</strong><br />(9/9)</td>
+  <td><strong>Wednesday</strong><br />(8/25)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
@@ -928,7 +928,7 @@ However, you can access past year's puzzles!
 </tr> -->
 
 <tr>
-  <td><strong>Thursday</strong><br />(9/10)</td>
+  <td><strong>Thursday</strong><br />(8/26)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
@@ -951,7 +951,7 @@ However, you can access past year's puzzles!
 </tr> -->
 
 <tr>
-  <td><strong>Friday</strong><br />(9/10)</td>
+  <td><strong>Friday</strong><br />(8/27)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/Project-Wayfarer">Project Wayfarer</a></td>
@@ -1177,7 +1177,7 @@ However, you can access past year's puzzles!
 </tr> -->
 
 <tr>
-  <td><strong>Friday</strong><br />(9/3)</td>
+  <td><strong>Friday</strong><br />(8/20)</td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react_todo_walkthrough">React TODO Walkthrough</a></td>
   <td><a href="https://git.generalassemb.ly/sea-seir-706/react_todo_walkthrough">React TODO Walkthrough</a></td>
   <td>Outcomes</td>
