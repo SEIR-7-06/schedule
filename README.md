@@ -90,129 +90,22 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 <br />
 <br />
 
-<!-- Unit 4 Dropdown -->
+
+
+
+
+
+
+<!-- Unit 1 Dropdown -->
 <details>
-    <summary><strong>Unit 4</strong> - Python and CS Topics</summary>
+    <summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary>
     <ul type="none">
-        <!-- Week 9 Dropdown -->
-        <li>
-            <details>
-                <summary>Week 9 - Python & Intro to CS</summary>
-                <!-- Schedule Table -->
-                <h2>Week 9 - Schedule</h2>
-                <table>
-                    <thead>
-                        <tr>
-                            <td></td>
-                            <th>Morning Exercise</th>
-                            <th>Module 1</th>
-                            <th>Module 2</th>
-                            <th>HW &amp; Extras</th>
-                            <th>Focus</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>Monday</strong><br />(8/30)</td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
-                            <td>Full Stack React</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Tuesday</strong><br />(8/31)</td>
-                            <td>Coding Challenge
-                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
-                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
-                            </td>
-                            <td>Coding Challenge
-                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
-                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
-                            </td>
-                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-                            <td>Interview Prep</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Wednesday</strong><br />(9/1)</td>
-                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/intro-to-python">Intro to Python</a></td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/python-control-flow-lab">Lab: Control Flow</a>
-                            - Project One Feedback
-                            </td>
-                            <td><a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a></td>
-                            <td>Python</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Thursday</strong><br />(9/2)</td>
-                            <td>
-                            - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
-                            - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
-                            </td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a>
-                            - <a href="https://github.com/SEIR-7-06/lists-ranges/blob/master/main.py">Lists & Ranges Demo Code</a>
-                            </td>
-                            <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/state-capitals">Lab: State Capitals</a></td>
-                            <td>Python</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Friday</strong><br />(9/3)</td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
-                            - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
-                            </td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
-                            - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
-                            </td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
-                            - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
-                            </td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/codebar">Codebar</a>
-                            - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
-                            </td>
-                            <td>Python OOP</td>  
-                        </tr>
-                    </tbody>
-                </table>
-                <h2>Week 9 - Deliverables</h2>
-                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
-                <!-- Deliverable Table -->
-                <table>
-                    <thead>
-                        <tr>
-                            <td>Date Assigned</td>
-                            <td>Deliverable</td>
-                            <td>Final Due Date</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>6/2</td>
-                            <td><a href="https://github.com/SEIR-7-06/monument-react-refactor">React Monument Refactor</a></td>
-                            <td>6/9</td>
-                        </tr>
-                        <tr>
-                            <td>6/4</td>
-                            <td><a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a></td>
-                            <td>6/11</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </details>
-        </li>
-        <!-- Week 10 Dropdown -->
+        <!-- Week 1 Dropdown -->
         <li>
             <details> 
-                <summary>Week 10 - SQL and Flask</summary>
+                <summary>Week 1 - FUNdamentals!</summary>
                 <!-- Schedule Table -->
-                <h2>Week 10 Schedule</h2>
+                <h2>Week 1 Schedule</h2>
                 <table>
                     <thead>
                         <tr>
@@ -234,212 +127,45 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                             <td>Holiday</td>
                         </tr>
                         <tr>
-                            <td><strong>Tuesday</strong><br />(9/7)</td>
-                            <td><a href="https://github.com/SEIR-7-06/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a></td>
+                            <td><strong>Tuesday</strong><br />(7/6)</td>
+                            <td><a href="https://github.com/SEIR-7-06/welcome-to-sei">Welcome to GA</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/installfest">Installfest</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/intro-terminal">Terminal Intro</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Lab</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/hw-unix-cli-practice">Terminal Practice</a></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Wednesday</strong><br />(7/7)</td>
+                            <td><a href="https://github.com/SEIR-7-06/semantic-html">Semantic HTML</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/intro-to-programming">Intro To Programming</a></td>
                             <td>
-                            - <a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a>
-                            - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
+                            - <a href="https://github.com/SEIR-7-06/github">Github</a>
                             </td>
-                            <td>SQL</td>
+                            <td><a href="https://github.com/SEIR-7-06/git-github-lab">Github Lab</a></td>
+                            <td>Github Basics</td>
                         </tr>
                         <tr>
-                            <td><strong>Wednesday</strong><br />(9/8)</td>
-                            <td><a href="">Flask</a></td>
-                            <td><a href="">Flask</a></td>
-                            <td><a href="">Flask</a></td>
-                            <td>Flask</td>
-                            <td>Flask</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Thursday</strong><br />(9/9)</td>
+                            <td><strong>Thursday</strong><br />(7/8)</td>
                             <td><a href="">Outcomes</a></td>
-                            <td><a href="">Flask</a></td>
-                            <td><a href="">Flask</a></td>
-                            <td>Flask</td>
-                            <td>Flask</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Friday</strong><br />(9/10)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h2>Week 10 Deliverables</h2>
-                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
-                <!-- Deliverable Table -->
-                <table>
-                    <thead>
-                        <tr>
-                            <td>Date Assigned</td>
-                            <td>Deliverable</td>
-                            <td>Final Due Date</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>6/8</td>
-                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-                            <td>6/9</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </details>
-        </li>
-        <!-- Week 11 Dropdown -->
-        <li>
-            <details>
-                <summary>Week 11 - Final Project</summary>
-                <h2>Week 11 - Schedule</h2>
-                <!-- Schedule Table -->
-                <table>
-                    <thead>
-                        <tr>
-                            <td></td>
-                            <th>Morning Exercise</th>
-                            <th>Module 1</th>
-                            <th>Module 2</th>
-                            <th>HW &amp; Extras</th>
-                            <th>Focus</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>Monday</strong><br />(9/13)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Tuesday</strong><br />(9/14)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/React-Hooks-Intro">React Hooks</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Wednesday</strong><br />(9/15)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Thursday</strong><br />(9/16)</td>
-                            <td><a href="">Outcomes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Friday</strong><br />(9/17)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h2>Week 11 - Deliverables</h2>
-                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
-                <!-- Deliverable Table -->
-                <table>
-                    <thead>
-                        <tr>
-                            <td>Date Assigned</td>
-                            <td>Deliverable</td>
-                            <td>Final Due Date</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>6/14</td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td>6/17</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </details>
-        </li>
-        <!-- Week 12 Dropdown -->
-        <li>
-            <details>
-                <summary>Week 12 - Final Project and Optional Lessons</summary>
-                <!-- Schedule Table -->
-                <a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Express API Deploy</a>
-                <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">Heroku React Deploy</a>
-                <a href="https://github.com/SEIR-7-06/Django-Heroku-Deployment">Herou Django Deploy</a>
-                <a href="https://github.com/SEIR-7-06/wayfarer-w-hooks">Hooks Demo Code</a>
-                <h2>Week 12 - Schedule</h2>
-                <table>
-                    <thead>
-                        <tr>
-                            <td></td>
-                            <th>Morning Exercise</th>
-                            <th>Module 1</th>
-                            <th>Module 2</th>
-                            <th>HW &amp; Extras</th>
-                            <th>Focus</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>Monday</strong><br />(9/20)</td>
-                            <td><a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React App Deployment</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Tuesday</strong><br />(9/21)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Wednesday</strong><br />(9/22)</td>
-                            <td><a href="https://github.com/SEIR-7-06/json-web-tokens">JWT</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/gamelib-api">MERN Auth Backend</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/gamelib-app">MERN Auth Frontend</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Thursday</strong><br />(9/23)</td>
-                            <td><a href="">Outcomes</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td>
                             <td>
-                            - <a href="https://github.com/SEIR-7-06/intro-to-redux-and-state-management">Intro to Redux</a>
-                            - <a href="https://github.com/SEIR-7-06/react-and-redux">React Redux</a>
+                            - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
+                            - <a href="https://github.com/SEIR-7-06/functions-lab">Functions Lab</a>
                             </td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
+                            <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
+                            <td>JavaScript Functions</td>
                         </tr>
                         <tr>
-                            <td><strong>Friday</strong><br />(9/24)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>Final Project</td>
+                            <td><strong>Friday</strong><br />(7/9)</td>
+                            <td>CSS: Landing Page</td>
+                            <td><a href="https://github.com/SEIR-7-06/Objects">Objects</a> </td>
+                            <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
+                            <td>JavaScript Objects</td>
                         </tr>
                     </tbody>
                 </table>
-                <h2>Week 12 - Deliverables</h2>
+                <h2>Week 1 Deliverables</h2>
                 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
                 <!-- Deliverable Table -->
                 <table>
@@ -452,24 +178,25 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td>6/21</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>6/28</td>
+                            <td>7/7</td>
+                            <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals</a></td>
+                            <td>7/14</td>
+                        </tr>
+                        <tr>
+                            <td>7/8</td>
+                            <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
+                            <td>7/15</td>
                         </tr>
                     </tbody>
                 </table>
             </details>
         </li>
-        <!-- Week 13 Dropdown -->
+        <!-- Week 2 Dropdown -->
         <li>
             <details>
-                <summary>Week 13 - Final Project Presentations</summary>
+                <summary>Week 2 - Advanced Objects, The DOM, jQuery...!</summary>
+                <h2>Week 2 - Schedule</h2>
                 <!-- Schedule Table -->
-                <a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Express API Deploy</a>
-                <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">Heroku React Deploy</a>
-                <a href="https://github.com/SEIR-7-06/Django-Heroku-Deployment">Herou Django Deploy</a>
-                <a href="https://github.com/SEIR-7-06/wayfarer-w-hooks">Hooks Demo Code</a>
-                <h2>Week 12 - Schedule</h2>
                 <table>
                     <thead>
                         <tr>
@@ -483,140 +210,55 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Monday</strong><br />(9/27)</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td><a href="https://git.generalassemb.ly/ws-seir-1207/final-project">Final Project Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentations</a></td>
-                            <td>Final Project</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Tuesday</strong><br />(9/28)</td>
-                            <td>Graduation!</td>
-                            <td>Graduation!</td>
-                            <td>Graduation!</td>
-                            <td>Graduation!</td>
-                            <td>Graduation!</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Wednesday</strong><br />(6/30)</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Thursday</strong><br />(7/1)</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Friday</strong><br />(7/2)</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                            <td>REST!</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h2>Week 13 - Deliverables</h2>
-                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
-                <!-- Deliverable Table -->
-                <table>
-                    <thead>
-                        <tr>
-                            <td>Date Assigned</td>
-                            <td>Deliverable</td>
-                            <td>Final Due Date</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>6/21</td>
-                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-                            <td>6/28</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </details>
-        </li>
-    </ul>
-</details>
-<hr />
-
-<!-- Unit 3 Dropdown -->
-<details>
-    <summary><strong>Unit 3</strong> - React</summary>
-    <ul type="none">
-        <!-- Week 7 Dropdown -->
-        <li>
-            <details> 
-                <summary>Week 7 - React</summary>
-                <!-- Schedule Table -->
-                <h2>Week 7 Schedule</h2>
-                <table>
-                    <thead>
-                        <tr>
-                            <td></td>
-                            <th>Morning Exercise</th>
-                            <th>Module 1</th>
-                            <th>Module 2</th>
-                            <th>HW &amp; Extras</th>
-                            <th>Focus</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>Monday</strong><br />(8/16)</td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
-                            <td>React</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Tuesday</strong><br />(8/17)</td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
-                            <td>React</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Wednesday</strong><br />(8/18)</td>
-                            <td><a href="https://github.com/SEIR-7-06/react-component-lifecycle-remote">React Component Lifecycle</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+                            <td><strong>Monday</strong><br />(7/12)</td>
+                            <td><a href="https://github.com/SEIR-7-06/social-share">CSS: Social Media Button</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
                             <td>
-                            - <a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a>
-                            - <a href="https://github.com/SEIR-7-06/react-contacts">React Contacts</a>
+                            - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
+                            - <a href="https://github.com/SEIR-7-06/weather-object-lab">Weather Object Lab</a>
                             </td>
-                            <td><a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a></td>
-                            <td>React</td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
+                            - <a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a>
+                            </td>
+                            <td>Objects & This!</td>
                         </tr>
                         <tr>
-                            <td><strong>Thursday</strong><br />(8/19)</td>
+                            <td><strong>Tuesday</strong><br />(7/13)</td>
+                            <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a></td>
+                            <td>Object Oriented Programming</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Wednesday</strong><br />(7/14)</td>
+                            <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a></td>
+                            <td>Object Oriented Programming</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Thursday</strong><br />(7/15)</td>
                             <td><a href="">Outcomes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
-                            <td>React</td>
+                            <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/dom-events">Dom Events</a></td>
+                            <td><a href="https://getbootstrap.com/docs/5.0/components/carousel/#with-controls">DOM Challenge: Build a Caoursel</a></td>
+                            <td>Dom Manipulation</td>
                         </tr>
                         <tr>
-                            <td><strong>Friday</strong><br />(8/20)</td>
-                            <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
-                            <td>Outcomes</td>
-                            <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
-                            <td>Refactor ToDo with own backend</td>
+                            <td><strong>Friday</strong><br />(7/16)</td>
+                            <!-- <td><a href="https://github.com/SEIR-7-06/css-animation">CSS Animation</a></td> -->
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Introduce Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td>Project: Tamagotchi</td>
                         </tr>
                     </tbody>
                 </table>
-                <h2>Week 7 Deliverables</h2>
+                <h2>Week 2 - Deliverables</h2>
                 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
                 <!-- Deliverable Table -->
                 <table>
@@ -629,20 +271,20 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td>5/21</td>
-                            <td><a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a></td>
-                            <td>5/28</td>
+                            <td>7/12</td>
+                            <td><a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a></td>
+                            <td>7/19</td>
                         </tr>
                     </tbody>
                 </table>
             </details>
         </li>
-        <!-- Week 8 Dropdown -->
+        <!-- Week 3 Dropdown -->
         <li>
             <details>
-                <summary>Week 8 - Project Wayfarer</summary>
-                <h2>Week 8 - Schedule</h2>
+                <summary>Week 3 - Project Zero: Tamagotchi</summary>
                 <!-- Schedule Table -->
+                <h2>Week 3 - Schedule</h2>
                 <table>
                     <thead>
                         <tr>
@@ -656,50 +298,48 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Monday</strong><br />(8/23)</td>
-                            <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
-                            <td>Add a new feature to GameLib App</td>
-                            <td>FullStack</td>
+                            <td><strong>Monday</strong><br />(7/19)</td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td>Project 0</td>
                         </tr>
                         <tr>
-                            <td><strong>Tuesday</strong><br />(8/24)</td>
-                            <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Git Collaboration</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Introduce Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td>Full Stack React</td>         
+                            <td><strong>Tuesday</strong><br />(7/20)</td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td>Project 0</td>
                         </tr>
                         <tr>
-                            <tr>
-                                <td><strong>Wednesday</strong><br />(8/25)</td>
-                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                                <td>Full Stack React</td> 
-                            </tr>
+                            <td><strong>Wednesday</strong><br />(7/21)</td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td>Project 0</td>
                         </tr>
                         <tr>
-                            <td><strong>Thursday</strong><br />(8/26)</td>
+                            <td><strong>Thursday</strong><br />(7/22)</td>
                             <td><a href="">Outcomes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td>Full Stack React</td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/deploy-to-github-pages">GitHub Pages Deployment</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+                            <td>Project 0</td>
                         </tr>
                         <tr>
-                            <td><strong>Friday</strong><br />(8/27)</td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-                            <td>Full Stack React</td>
+                            <td><strong>Friday</strong><br />(7/23)</td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+                            <td>Project: Tamagotchi</td>
                         </tr>
                     </tbody>
                 </table>
-                <h2>Week 8 - Deliverables</h2>
+                <h2>Week 3 - Deliverables</h2>
                 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
                 <!-- Deliverable Table -->
                 <table>
@@ -712,9 +352,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td>5/24</td>
-                            <td><a href="https://github.com/SEIR-7-06/Finch-collector-lab-views">Finch Collector</a></td>
-                            <td>5/31</td>
+                            <td>7/19</td>
+                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project: Tamagotchi</a></td>
+                            <td>7/23</td>
                         </tr>
                     </tbody>
                 </table>
@@ -1017,16 +657,304 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 </details>
 <hr />
 
-<!-- Unit 1 Dropdown -->
+<!-- Unit 3 Dropdown -->
 <details>
-    <summary><strong>Unit 1</strong> - HTML / CSS / JavaScript</summary>
+    <summary><strong>Unit 3</strong> - React</summary>
     <ul type="none">
-        <!-- Week 1 Dropdown -->
+        <!-- Week 7 Dropdown -->
         <li>
             <details> 
-                <summary>Week 1 - FUNdamentals!</summary>
+                <summary>Week 7 - React</summary>
                 <!-- Schedule Table -->
-                <h2>Week 1 Schedule</h2>
+                <h2>Week 7 Schedule</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td></td>
+                            <th>Morning Exercise</th>
+                            <th>Module 1</th>
+                            <th>Module 2</th>
+                            <th>HW &amp; Extras</th>
+                            <th>Focus</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Monday</strong><br />(8/16)</td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React Props</a></td>
+                            <td>React</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tuesday</strong><br />(8/17)</td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-state-remote">React State</a></td>
+                            <td>React</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Wednesday</strong><br />(8/18)</td>
+                            <td><a href="https://github.com/SEIR-7-06/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-component-lifecycle-remote">React Component Lifecycle</a></td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a>
+                            - <a href="https://github.com/SEIR-7-06/react-contacts">React Contacts</a>
+                            </td>
+                            <td><a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a></td>
+                            <td>React</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Thursday</strong><br />(8/19)</td>
+                            <td><a href="">Outcomes</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+                            <td>React</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Friday</strong><br />(8/20)</td>
+                            <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
+                            <td>Outcomes</td>
+                            <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
+                            <td>Refactor ToDo with own backend</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h2>Week 7 Deliverables</h2>
+                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+                <!-- Deliverable Table -->
+                <table>
+                    <thead>
+                        <tr>
+                            <td>Date Assigned</td>
+                            <td>Deliverable</td>
+                            <td>Final Due Date</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>5/21</td>
+                            <td><a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a></td>
+                            <td>5/28</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </details>
+        </li>
+        <!-- Week 8 Dropdown -->
+        <li>
+            <details>
+                <summary>Week 8 - Project Wayfarer</summary>
+                <h2>Week 8 - Schedule</h2>
+                <!-- Schedule Table -->
+                <table>
+                    <thead>
+                        <tr>
+                            <td></td>
+                            <th>Morning Exercise</th>
+                            <th>Module 1</th>
+                            <th>Module 2</th>
+                            <th>HW &amp; Extras</th>
+                            <th>Focus</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Monday</strong><br />(8/23)</td>
+                            <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
+                            <td>Add a new feature to GameLib App</td>
+                            <td>FullStack</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tuesday</strong><br />(8/24)</td>
+                            <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Git Collaboration</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Introduce Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td>Full Stack React</td>         
+                        </tr>
+                        <tr>
+                            <tr>
+                                <td><strong>Wednesday</strong><br />(8/25)</td>
+                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                                <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                                <td>Full Stack React</td> 
+                            </tr>
+                        </tr>
+                        <tr>
+                            <td><strong>Thursday</strong><br />(8/26)</td>
+                            <td><a href="">Outcomes</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td>Full Stack React</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Friday</strong><br />(8/27)</td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td>Full Stack React</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h2>Week 8 - Deliverables</h2>
+                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+                <!-- Deliverable Table -->
+                <table>
+                    <thead>
+                        <tr>
+                            <td>Date Assigned</td>
+                            <td>Deliverable</td>
+                            <td>Final Due Date</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>5/24</td>
+                            <td><a href="https://github.com/SEIR-7-06/Finch-collector-lab-views">Finch Collector</a></td>
+                            <td>5/31</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </details>
+        </li>
+    </ul>
+</details>
+<hr />
+
+<!-- Unit 4 Dropdown -->
+<details>
+    <summary><strong>Unit 4</strong> - Python and CS Topics</summary>
+    <ul type="none">
+        <!-- Week 9 Dropdown -->
+        <li>
+            <details>
+                <summary>Week 9 - Python & Intro to CS</summary>
+                <!-- Schedule Table -->
+                <h2>Week 9 - Schedule</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td></td>
+                            <th>Morning Exercise</th>
+                            <th>Module 1</th>
+                            <th>Module 2</th>
+                            <th>HW &amp; Extras</th>
+                            <th>Focus</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Monday</strong><br />(8/30)</td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer Presentations</a></td>
+                            <td>Full Stack React</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tuesday</strong><br />(8/31)</td>
+                            <td>Coding Challenge
+                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
+                            </td>
+                            <td>Coding Challenge
+                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+                            - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
+                            </td>
+                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+                            <td>Interview Prep</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Wednesday</strong><br />(9/1)</td>
+                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/intro-to-python">Intro to Python</a></td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/python-control-flow-lab">Lab: Control Flow</a>
+                            - Project One Feedback
+                            </td>
+                            <td><a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a></td>
+                            <td>Python</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Thursday</strong><br />(9/2)</td>
+                            <td>
+                            - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
+                            - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
+                            </td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a>
+                            - <a href="https://github.com/SEIR-7-06/lists-ranges/blob/master/main.py">Lists & Ranges Demo Code</a>
+                            </td>
+                            <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/state-capitals">Lab: State Capitals</a></td>
+                            <td>Python</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Friday</strong><br />(9/3)</td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
+                            - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
+                            </td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
+                            - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
+                            </td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
+                            - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
+                            </td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/codebar">Codebar</a>
+                            - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
+                            </td>
+                            <td>Python OOP</td>  
+                        </tr>
+                    </tbody>
+                </table>
+                <h2>Week 9 - Deliverables</h2>
+                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+                <!-- Deliverable Table -->
+                <table>
+                    <thead>
+                        <tr>
+                            <td>Date Assigned</td>
+                            <td>Deliverable</td>
+                            <td>Final Due Date</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>6/2</td>
+                            <td><a href="https://github.com/SEIR-7-06/monument-react-refactor">React Monument Refactor</a></td>
+                            <td>6/9</td>
+                        </tr>
+                        <tr>
+                            <td>6/4</td>
+                            <td><a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a></td>
+                            <td>6/11</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </details>
+        </li>
+        <!-- Week 10 Dropdown -->
+        <li>
+            <details> 
+                <summary>Week 10 - SQL and Flask</summary>
+                <!-- Schedule Table -->
+                <h2>Week 10 Schedule</h2>
                 <table>
                     <thead>
                         <tr>
@@ -1048,45 +976,43 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                             <td>Holiday</td>
                         </tr>
                         <tr>
-                            <td><strong>Tuesday</strong><br />(7/6)</td>
-                            <td><a href="https://github.com/SEIR-7-06/welcome-to-sei">Welcome to GA</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/installfest">Installfest</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/intro-terminal">Terminal Intro</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Lab</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/hw-unix-cli-practice">Terminal Practice</a></td>
-                        </tr>
-                        <tr>
-                            <td><strong>Wednesday</strong><br />(7/7)</td>
-                            <td><a href="https://github.com/SEIR-7-06/semantic-html">Semantic HTML</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/intro-to-programming">Intro To Programming</a></td>
+                            <td><strong>Tuesday</strong><br />(9/7)</td>
+                            <td><a href="https://github.com/SEIR-7-06/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a></td>
                             <td>
-                            - <a href="https://github.com/SEIR-7-06/github">Github</a>
+                            - <a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a>
+                            - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
                             </td>
-                            <td><a href="https://github.com/SEIR-7-06/git-github-lab">Github Lab</a></td>
-                            <td>Github Basics</td>
+                            <td>SQL</td>
                         </tr>
                         <tr>
-                            <td><strong>Thursday</strong><br />(7/8)</td>
+                            <td><strong>Wednesday</strong><br />(9/8)</td>
+                            <td><a href="">Flask</a></td>
+                            <td><a href="">Flask</a></td>
+                            <td><a href="">Flask</a></td>
+                            <td>Flask</td>
+                            <td>Flask</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Thursday</strong><br />(9/9)</td>
                             <td><a href="">Outcomes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
-                            - <a href="https://github.com/SEIR-7-06/functions-lab">Functions Lab</a>
-                            </td>
-                            <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
-                            <td>JavaScript Functions</td>
+                            <td><a href="">Flask</a></td>
+                            <td><a href="">Flask</a></td>
+                            <td>Flask</td>
+                            <td>Flask</td>
                         </tr>
                         <tr>
-                            <td><strong>Friday</strong><br />(7/9)</td>
-                            <td>CSS: Landing Page</td>
-                            <td><a href="https://github.com/SEIR-7-06/Objects">Objects</a> </td>
-                            <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
-                            <td>JavaScript Objects</td>
+                            <td><strong>Friday</strong><br />(9/10)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                     </tbody>
                 </table>
-                <h2>Week 1 Deliverables</h2>
+                <h2>Week 10 Deliverables</h2>
                 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
                 <!-- Deliverable Table -->
                 <table>
@@ -1099,24 +1025,19 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td>7/7</td>
-                            <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals</a></td>
-                            <td>7/14</td>
-                        </tr>
-                        <tr>
-                            <td>7/8</td>
-                            <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
-                            <td>7/15</td>
+                            <td>6/8</td>
+                            <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+                            <td>6/9</td>
                         </tr>
                     </tbody>
                 </table>
             </details>
         </li>
-        <!-- Week 2 Dropdown -->
+        <!-- Week 11 Dropdown -->
         <li>
             <details>
-                <summary>Week 2 - Advanced Objects, The DOM, jQuery...!</summary>
-                <h2>Week 2 - Schedule</h2>
+                <summary>Week 11 - Final Project</summary>
+                <h2>Week 11 - Schedule</h2>
                 <!-- Schedule Table -->
                 <table>
                     <thead>
@@ -1131,55 +1052,48 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Monday</strong><br />(7/12)</td>
-                            <td><a href="https://github.com/SEIR-7-06/social-share">CSS: Social Media Button</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
-                            - <a href="https://github.com/SEIR-7-06/weather-object-lab">Weather Object Lab</a>
-                            </td>
-                            <td>
-                            - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
-                            - <a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a>
-                            </td>
-                            <td>Objects & This!</td>
+                            <td><strong>Monday</strong><br />(9/13)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Tuesday</strong><br />(7/13)</td>
-                            <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a></td>
-                            <td>Object Oriented Programming</td>
+                            <td><strong>Tuesday</strong><br />(9/14)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/React-Hooks-Intro">React Hooks</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Wednesday</strong><br />(7/14)</td>
-                            <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a></td>
-                            <td>Object Oriented Programming</td>
+                            <td><strong>Wednesday</strong><br />(9/15)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Thursday</strong><br />(7/15)</td>
+                            <td><strong>Thursday</strong><br />(9/16)</td>
                             <td><a href="">Outcomes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/dom-events">Dom Events</a></td>
-                            <td><a href="https://getbootstrap.com/docs/5.0/components/carousel/#with-controls">DOM Challenge: Build a Caoursel</a></td>
-                            <td>Dom Manipulation</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Friday</strong><br />(7/16)</td>
-                            <!-- <td><a href="https://github.com/SEIR-7-06/css-animation">CSS Animation</a></td> -->
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Introduce Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td>Project: Tamagotchi</td>
+                            <td><strong>Friday</strong><br />(9/17)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                     </tbody>
                 </table>
-                <h2>Week 2 - Deliverables</h2>
+                <h2>Week 11 - Deliverables</h2>
                 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
                 <!-- Deliverable Table -->
                 <table>
@@ -1192,20 +1106,24 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td>7/12</td>
-                            <td><a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a></td>
-                            <td>7/19</td>
+                            <td>6/14</td>
+                            <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+                            <td>6/17</td>
                         </tr>
                     </tbody>
                 </table>
             </details>
         </li>
-        <!-- Week 3 Dropdown -->
+        <!-- Week 12 Dropdown -->
         <li>
             <details>
-                <summary>Week 3 - Project Zero: Tamagotchi</summary>
+                <summary>Week 12 - Final Project and Optional Lessons</summary>
                 <!-- Schedule Table -->
-                <h2>Week 3 - Schedule</h2>
+                <a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Express API Deploy</a><br/>
+                <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">Heroku React Deploy</a><br/>
+                <a href="https://github.com/SEIR-7-06/Django-Heroku-Deployment">Herou Django Deploy</a><br/>
+                <a href="https://github.com/SEIR-7-06/wayfarer-w-hooks">Hooks Demo Code</a><br/>
+                <h2>Week 12 - Schedule</h2>
                 <table>
                     <thead>
                         <tr>
@@ -1219,48 +1137,51 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Monday</strong><br />(7/19)</td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td>Project 0</td>
+                            <td><strong>Monday</strong><br />(9/20)</td>
+                            <td><a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React App Deployment</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Tuesday</strong><br />(7/20)</td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td>Project 0</td>
+                            <td><strong>Tuesday</strong><br />(9/21)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Wednesday</strong><br />(7/21)</td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td>Project 0</td>
+                            <td><strong>Wednesday</strong><br />(9/22)</td>
+                            <td><a href="https://github.com/SEIR-7-06/json-web-tokens">JWT</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/gamelib-api">MERN Auth Backend</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/gamelib-app">MERN Auth Frontend</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Thursday</strong><br />(7/22)</td>
+                            <td><strong>Thursday</strong><br />(9/23)</td>
                             <td><a href="">Outcomes</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/deploy-to-github-pages">GitHub Pages Deployment</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-                            <td>Project 0</td>
+                            <td>
+                            - <a href="https://github.com/SEIR-7-06/intro-to-redux-and-state-management">Intro to Redux</a>
+                            - <a href="https://github.com/SEIR-7-06/react-and-redux">React Redux</a>
+                            </td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                         <tr>
-                            <td><strong>Friday</strong><br />(7/23)</td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
-                            <td>Project: Tamagotchi</td>
+                            <td><strong>Friday</strong><br />(9/24)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>Final Project</td>
                         </tr>
                     </tbody>
                 </table>
-                <h2>Week 3 - Deliverables</h2>
+                <h2>Week 12 - Deliverables</h2>
                 <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
                 <!-- Deliverable Table -->
                 <table>
@@ -1273,9 +1194,94 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                     </thead>
                     <tbody>
                         <tr>
-                            <td>7/19</td>
-                            <td><a href="https://github.com/SEIR-7-06/project-zero">Project: Tamagotchi</a></td>
-                            <td>7/23</td>
+                            <td>6/21</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>6/28</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </details>
+        </li>
+        <!-- Week 13 Dropdown -->
+        <li>
+            <details>
+                <summary>Week 13 - Final Project Presentations</summary>
+                <!-- Schedule Table -->
+                <a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Express API Deploy</a><br/>
+                <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">Heroku React Deploy</a><br/>
+                <a href="https://github.com/SEIR-7-06/Django-Heroku-Deployment">Herou Django Deploy</a><br/>
+                <a href="https://github.com/SEIR-7-06/wayfarer-w-hooks">Hooks Demo Code</a><br/>
+                <h2>Week 12 - Schedule</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <td></td>
+                            <th>Morning Exercise</th>
+                            <th>Module 1</th>
+                            <th>Module 2</th>
+                            <th>HW &amp; Extras</th>
+                            <th>Focus</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Monday</strong><br />(9/27)</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td><a href="https://git.generalassemb.ly/ws-seir-1207/final-project">Final Project Presentations</a></td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentations</a></td>
+                            <td>Final Project</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tuesday</strong><br />(9/28)</td>
+                            <td>Graduation!</td>
+                            <td>Graduation!</td>
+                            <td>Graduation!</td>
+                            <td>Graduation!</td>
+                            <td>Graduation!</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Wednesday</strong><br />(6/30)</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Thursday</strong><br />(7/1)</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Friday</strong><br />(7/2)</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                            <td>REST!</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h2>Week 13 - Deliverables</h2>
+                <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+                <!-- Deliverable Table -->
+                <table>
+                    <thead>
+                        <tr>
+                            <td>Date Assigned</td>
+                            <td>Deliverable</td>
+                            <td>Final Due Date</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>6/21</td>
+                            <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+                            <td>6/28</td>
                         </tr>
                     </tbody>
                 </table>
