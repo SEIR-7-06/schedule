@@ -896,7 +896,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 
 <!-- Unit 4 Dropdown -->
 <details>
-  <summary><strong>Unit 4</strong> - Python and CS Topics</summary>
+  <summary><strong>Unit 4</strong> - Python, CS Topics, and Final Project</summary>
   <ul type="none">
     <!-- Week 10 Dropdown -->
     <li>
