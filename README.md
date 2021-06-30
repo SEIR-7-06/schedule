@@ -463,9 +463,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <li>
       <details>
         <summary>Week 5 - Servers & Databases Continued</summary>
-        <!-- <a href="https://github.com/SEIR-7-06/express-fruits">Express Fruit App (class repo)</a><br />
-        <a href="https://github.com/SEIR-7-06/express-blog">Express Blog (class Repo)</a><br />
-        <a href="https://github.com/SEIR-7-06/express-bookmarks">Express Bookmarks (class Repo)</a> -->
         <h2>Week 5 - Schedule</h2>
         <!-- Schedule Table -->
         <table>
@@ -728,7 +725,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <!-- Week 8 Dropdown -->
     <li>
       <details>
-        <summary>Week 8 - Project Wayfarer</summary>
+        <summary>Week 8 - React Continued</summary>
         <h2>Week 8 - Schedule</h2>
         <!-- Schedule Table -->
         <table>
@@ -808,18 +805,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
-  </ul>
-</details>
-<hr />
-
-<!-- Unit 4 Dropdown -->
-<details>
-  <summary><strong>Unit 4</strong> - Python and CS Topics</summary>
-  <ul type="none">
     <!-- Week 9 Dropdown -->
     <li>
       <details>
-        <summary>Week 9 - Python & Intro to CS</summary>
+        <summary>Week 9 - Project Wayfarer</summary>
         <!-- Schedule Table -->
         <strong>No Outcomes this Week</strong>
         <h2>Week 9 - Schedule</h2>
@@ -903,10 +892,18 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+  </ul>
+</details>
+<hr />
+
+<!-- Unit 4 Dropdown -->
+<details>
+  <summary><strong>Unit 4</strong> - Python and CS Topics</summary>
+  <ul type="none">
     <!-- Week 10 Dropdown -->
     <li>
       <details> 
-        <summary>Week 10 - SQL and Flask</summary>
+        <summary>Week 10 - Python and SQL</summary>
         <!-- Schedule Table -->
         <h2>Week 10 Schedule</h2>
         <table>
@@ -1017,7 +1014,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <!-- Week 11 Dropdown -->
     <li>
       <details>
-        <summary>Week 11 - Final Project</summary>
+        <summary>Week 11 - Flask, Final Project, and Optional Lessons</summary>
         <h2>Week 11 - Schedule</h2>
         <!-- Schedule Table -->
         <table>
@@ -1099,11 +1096,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <li>
       <details>
         <summary>Week 12 - Final Project and Optional Lessons</summary>
-        <!-- Schedule Table -->
-        <!-- <a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Express API Deploy</a><br/>
-        <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">Heroku React Deploy</a><br/>
-        <a href="https://github.com/SEIR-7-06/Django-Heroku-Deployment">Herou Django Deploy</a><br/>
-        <a href="https://github.com/SEIR-7-06/wayfarer-w-hooks">Hooks Demo Code</a><br/> -->
         <h2>Week 12 - Schedule</h2>
         <table>
           <thead>
@@ -1187,10 +1179,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       <details>
         <summary>Week 13 - Final Project Presentations</summary>
         <!-- Schedule Table -->
-        <!-- <a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Express API Deploy</a><br/>
-        <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">Heroku React Deploy</a><br/>
-        <a href="https://github.com/SEIR-7-06/Django-Heroku-Deployment">Herou Django Deploy</a><br/>
-        <a href="https://github.com/SEIR-7-06/wayfarer-w-hooks">Hooks Demo Code</a><br/> -->
         <h2>Week 12 - Schedule</h2>
         <table>
           <thead>
