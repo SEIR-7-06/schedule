@@ -133,7 +133,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/semantic-html">Semantic HTML</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/intro-to-programming">Intro To Programming</a>
-              - <td><a href="https://github.com/SEIR-7-06/Scope">Scope</a></td>
+              - <a href="https://github.com/SEIR-7-06/Scope">Scope</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/github">Github</a></td>
               <td><a href="https://github.com/SEIR-7-06/git-github-lab">Github Lab</a></td>
@@ -369,11 +369,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 4 - Node, Express, & MongoDB</summary>
         <!-- Schedule Table -->
         <h2>Week 4 Schedule</h2>
-        <a href="https://github.com/SEIR-7-06/express-fruits">Express Fruit App (class repo)</a>
         <table>
           <thead>
             <tr>
-              <td></td>Project Zero: Tamagotchi
+              <td></td>
               <th>Morning Exercise</th>
               <th>Module 1</th>
               <th>Module 2</th>
@@ -596,7 +595,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Thursday</strong><br />(8/12)</td>
               <td><a href="">Outcomes</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Deployment</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
@@ -1111,10 +1109,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tbody>
             <tr>
               <td><strong>Monday</strong><br />(9/20)</td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/intro-to-redux-and-state-management">Intro to Redux</a>
-              - <a href="https://github.com/SEIR-7-06/react-and-redux">React Redux</a>
-              </td>
+              <td><a href="https://github.com/SEIR-7-06/intro-to-redux-and-state-management">Intro to Redux</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>Final Project</td>
