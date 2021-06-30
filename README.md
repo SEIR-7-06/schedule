@@ -150,8 +150,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                             <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td>
                             <td>
                                 
-                            - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
-                            - <a href="https://github.com/SEIR-7-06/functions-lab">Functions Lab</a>
+                                - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
+                                - <a href="https://github.com/SEIR-7-06/functions-lab">Functions Lab</a>
                             </td>
                             <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
                             <td>JavaScript Functions</td>
