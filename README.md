@@ -143,21 +143,27 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Thursday</strong><br />(7/8)</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td> -->
               <td><a href="">Outcomes</a></td>
-              <td><a href="https://github.com/SEIR-7-06/css-selector-basics">Intro to CSS</a></td>
+              <td><a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a></td>
               <td>
-              - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
-              - <a href="https://github.com/SEIR-7-06/functions-lab">Functions Lab</a>
+              - <a href="https://git.generalassemb.ly/wc-seir-405/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
+              - <a href="https://git.generalassemb.ly/wc-seir-405/loop-lab">Loop Lab</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
-              <td>JavaScript Functions</td>
+              <td><a href="https://git.generalassemb.ly/wc-seir-405/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a></td>
+              <td>JavaScript Arrays</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(7/9)</td>
-              <td>CSS: Landing Page</td>
-              <td><a href="https://github.com/SEIR-7-06/Objects">Objects</a></td>
-              <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
-              <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
-              <td>JavaScript Objects</td>
+              <td>
+              - <a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a>
+              - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/css-selector-basics">Intro to CSS</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
+              - <a href="https://github.com/SEIR-7-06/functions-lab">Functions lab</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions Deliverable</a></td>
+              <td>JavaScript Functions</td>
             </tr>
           </tbody>
         </table>
@@ -174,14 +180,14 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>7/7</td>
+              <td>7/8</td>
               <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals</a></td>
-              <td>7/14</td>
+              <td>7/15</td>
             </tr>
             <tr>
-              <td>7/8</td>
+              <td>7/9</td>
               <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions</a></td>
-              <td>7/15</td>
+              <td>7/16</td>
             </tr>
           </tbody>
         </table>
@@ -190,7 +196,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <!-- Week 2 Dropdown -->
     <li>
       <details>
-        <summary>Week 2 - Advanced Objects, The DOM, jQuery...!</summary>
+        <summary>Week 2 - Advanced Objects, The DOM</summary>
         <h2>Week 2 - Schedule</h2>
         <!-- Schedule Table -->
         <table>
@@ -207,6 +213,17 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tbody>
             <tr>
               <td><strong>Monday</strong><br />(7/12)</td>
+              <td>CSS: Landing Page</td>
+              <td><a href="https://github.com/SEIR-7-06/Objects">Objects</a> </td>
+              <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
+              - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
+              </td>
+              <td>JavaScript Objects</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(7/13)</td>
               <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
               <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
               <td><a href="https://github.com/SEIR-7-06/dom-events">Dom Events</a></td>
@@ -214,42 +231,30 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>Dom Manipulation</td>
             </tr>
             <tr>
-              <td><strong>Tuesday</strong><br />(7/13)</td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-            </tr>
-            <tr>
               <td><strong>Wednesday</strong><br />(7/14)</td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(7/15)</td>
               <td><a href="">Outcomes</a></td>
-              <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
-              - <a href="https://github.com/SEIR-7-06/weather-object-lab">Weather Object Lab</a>
-              </td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
-              - <a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a>
-              </td>
-              <td>Objects and this</td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td>Tic Tac Toe</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(7/16)</td>
-              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
-              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
-              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
-              <td><a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a></td>
-              <td>Object Oriented Programming</td>
+              <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
+              <td><a href="https://github.com/SEIR-7-06/weather-object-lab">Weather Object Lab</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a>
+              </td>
+              <td>Objects and this</td>
             </tr>
           </tbody>
         </table>
@@ -294,23 +299,23 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tbody>
             <tr>
               <td><strong>Monday</strong><br />(7/19)</td>
-              <td><a href="https://github.com/SEIR-7-06/classes">Review Classes and OOP</a></td>
-              <td><a href="https://github.com/SEIR-7-06/space-battle">Intro Space Battle</a></td>
+              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a></td>
+              <td>Object Oriented Programming</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(7/20)</td>
+              <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+              <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
               <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
               <td><a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a></td>
               <td>Object Oriented Programming</td>
             </tr>
             <tr>
-              <td><strong>Tuesday</strong><br />(7/20)</td>
-              <td><a href="https://github.com/SEIR-7-06/project-zero">Introduce Project 0</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-              <td>Project 0</td>
-            </tr>
-            <tr>
               <td><strong>Wednesday</strong><br />(7/21)</td>
-              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Introduce Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
@@ -347,9 +352,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>7/19</td>
+              <td>7/21</td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project: Tamagotchi</a></td>
-              <td>7/23</td>
+              <td>7/27</td>
             </tr>
           </tbody>
         </table>
@@ -417,7 +422,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             - <a href="https://github.com/SEIR-7-06/express-lab-params">Params lab</a>
             - <a href="https://github.com/SEIR-7-06/intro_to_Rest">Intro To Rest</a>
             </td>
-            <td><a href="https://github.com/SEIR-7-06/express-space-homework">Express Space <strong></a></td>
+            <td><a href="https://github.com/SEIR-7-06/express-space-homework">Express Space<strong></a></td>
             <td>Node/Express</td>
           </tr>
           <tr>
@@ -445,15 +450,15 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>4/26</td>
+              <td>7/29</td>
               <td><a href="https://github.com/SEIR-7-06/express-space-homework">Express Space</a></td>
-              <td>5/3</td>
+              <td>8/5</td>
             </tr>
-            <tr>
+            <!-- <tr>
               <td>4/29</td>
               <td><a href="https://github.com/SEIR-7-06/mongoose-vampires-hw">Mongoose Vampires</a></td>
               <td>5/6</td>
-            </tr>
+            </tr> -->
           </tbody>
         </table>
       </details>
@@ -537,14 +542,14 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>5/11</td>
-              <td><a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack</a></td>
-              <td>5/18</td>
+              <td>8/3</td>
+              <td><a href="https://github.com/SEIR-7-06/mongoose-vampires-hw">Mongoose Vampires</a></td>
+              <td>8/10</td>
             </tr>
             <tr>
-              <td>5/15</td>
-              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
-              <td>5/22</td>
+              <td>8/4</td>
+              <td><a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack</a></td>
+              <td>8/11</td>
             </tr>
           </tbody>
         </table>
@@ -571,7 +576,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Monday</strong><br />(8/9)</td>
               <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Git Collaboration</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-one">Project One Planning</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Intro Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One Planning</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One Planning</a></td>
               <td>Project One</td>
@@ -623,9 +628,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>5/10</td>
+              <td>8/9</td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
-              <td>5/14</td>
+              <td>8/16</td>
             </tr>
           </tbody>
         </table>
@@ -712,9 +717,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>5/21</td>
-              <td><a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a></td>
-              <td>5/28</td>
+              <td>8/20</td>
+              <td><a href="https://github.com/SEIR-7-06/react-burger-stacker">React Burger Builder</a></td>
+              <td>8/27</td>
             </tr>
           </tbody>
         </table>
@@ -795,9 +800,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>5/24</td>
-              <td><a href="https://github.com/SEIR-7-06/Finch-collector-lab-views">Finch Collector</a></td>
-              <td>5/31</td>
+              <td>8/25</td>
+              <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React TODO Walkthrough</a></td>
+              <td>9/1</td>
             </tr>
           </tbody>
         </table>
@@ -877,14 +882,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>6/2</td>
-              <td><a href="https://github.com/SEIR-7-06/monument-react-refactor">React Monument Refactor</a></td>
-              <td>6/9</td>
-            </tr>
-            <tr>
-              <td>6/4</td>
-              <td><a href="https://github.com/SEIR-7-06/react-geoquakes">React GeoQuakes</a></td>
-              <td>6/11</td>
+              <td>8/27</td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td>9/3</td>
             </tr>
           </tbody>
         </table>
@@ -917,7 +917,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td><strong>Monday</strong><br />(7/5)</td>
+              <td><strong>Monday</strong><br />(9/6)</td>
               <td>Coding Challenge
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
@@ -1001,9 +1001,14 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>6/8</td>
+              <td>9/6</td>
               <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-              <td>6/9</td>
+              <td>6/7</td>
+            </tr>
+            <tr>
+              <td>9/8</td>
+              <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
+              <td>9/15</td>
             </tr>
           </tbody>
         </table>
@@ -1082,9 +1087,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>6/14</td>
-              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-              <td>6/17</td>
+              <td>9/14</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>9/27</td>
             </tr>
           </tbody>
         </table>
@@ -1162,9 +1167,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>6/21</td>
+              <td>9/14</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-              <td>6/28</td>
+              <td>9/27</td>
             </tr>
           </tbody>
         </table>
@@ -1192,7 +1197,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Monday</strong><br />(9/27)</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentation</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentation</a></td>
-              <td><a href="https://git.generalassemb.ly/ws-seir-1207/final-project">Final Project Presentations</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentation</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentations</a></td>
               <td>Final Project</td>
             </tr>
@@ -1243,9 +1248,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>6/21</td>
+              <td>9/14</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-              <td>6/28</td>
+              <td>9/27</td>
             </tr>
           </tbody>
         </table>
