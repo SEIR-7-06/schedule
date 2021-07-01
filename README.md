@@ -147,7 +147,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Thursday</strong><br />(7/8)</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td> -->
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/conditionals-and-loops">Loops & Conditionals</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
@@ -254,7 +254,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(7/15)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
               <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
               <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
@@ -345,7 +345,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(7/22)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/deploy-to-github-pages">GitHub Pages Deployment</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
@@ -434,7 +434,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </tr>
           <tr>
             <td><strong>Thursday</strong><br />(7/29)</td>
-            <td><a href="">Outcomes</a></td>
+            <td>Outcomes</td>
             <td>
             - <a href="https://github.com/SEIR-7-06/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
             <br>
@@ -541,7 +541,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(8/5)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
               <td><a href="https://github.com/SEIR-7-06/two-model-second-model-crud">Express Blog (2nd Model)</a></td>
               <td><a href="https://github.com/SEIR-7-06/two-model-lab">Two Model lab</a></td>
@@ -627,7 +627,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(8/12)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Deployment</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
@@ -716,7 +716,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(8/19)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/react-simple-calc-lab">React State Calculator</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-todo-list">React State Todo List</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-todo-list">React State Todo List</a></td>
@@ -799,7 +799,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(8/26)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
               <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">Building a MERN App</a></td>
               <td>Add a new feature to GameLib App</td>
@@ -1095,7 +1095,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(9/16)</td>
-              <td><a href="">Outcomes</a></td>
+              <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
