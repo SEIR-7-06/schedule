@@ -134,6 +134,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/semantic-html">Semantic HTML</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/intro-to-programming">Intro To Programming</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/Scope">Scope</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/github">Github</a></td>
@@ -144,20 +145,22 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Thursday</strong><br />(7/8)</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td> -->
               <td><a href="">Outcomes</a></td>
-              <td><a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a></td>
+              <td><a href="https://git.generalassemb.ly/SEIR-7-06/conditionals-and-loops">Loops & Conditionals</a></td>
               <td>
-              - <a href="https://git.generalassemb.ly/wc-seir-405/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
-              - <a href="https://git.generalassemb.ly/wc-seir-405/loop-lab">Loop Lab</a>
+              - <a href="https://git.generalassemb.ly/SEIR-7-06/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
+              <br>
+              - <a href="https://git.generalassemb.ly/SEIR-7-06/loop-lab">Loop Lab</a>
               </td>
-              <td><a href="https://git.generalassemb.ly/wc-seir-405/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a></td>
+              <td><a href="https://git.generalassemb.ly/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a></td>
               <td>JavaScript Arrays</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(7/9)</td>
-              <td><a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a></td>
+              <td><a href="https://git.generalassemb.ly/SEIR-7-06/css-selector-basics">CSS Intro</a></td>
               <td><a href="https://github.com/SEIR-7-06/css-selector-basics">Intro to CSS</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/functions-lab">Functions lab</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions Deliverable</a></td>
@@ -216,6 +219,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
               </td>
               <td>JavaScript Objects</td>
@@ -253,9 +257,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
               <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
               <td><a href="https://github.com/SEIR-7-06/weather-object-lab">Weather Object Lab</a></td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a>
-              </td>
+              <td><a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a></td>
               <td>Objects and this</td>
             </tr>
           </tbody>
@@ -275,7 +277,17 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td>7/12</td>
               <td><a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a></td>
+              <td>7/14</td>
+            </tr>
+            <tr>
+              <td>7/12</td>
+              <td><a href="https://github.com/SEIR-7-06/flexbox-froggy-hw">Flexbox Froggy</a></td>
               <td>7/19</td>
+            </tr>
+            <tr>
+              <td>7/14</td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Toc Toe</a></td>
+              <td>7/15</td>
             </tr>
           </tbody>
         </table>
@@ -417,11 +429,14 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <td><a href="">Outcomes</a></td>
             <td>
             - <a href="https://github.com/SEIR-7-06/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
+            <br>
             - <a href="https://github.com/SEIR-7-06/intro_to_Express">Intro To Express</a>
             </td>
             <td>
             - <a href="https://github.com/SEIR-7-06/url_and_query_params">Url & Params</a>
+            <br>
             - <a href="https://github.com/SEIR-7-06/express-lab-params">Params lab</a>
+            <br>
             - <a href="https://github.com/SEIR-7-06/intro_to_Rest">Intro To Rest</a>
             </td>
             <td><a href="https://github.com/SEIR-7-06/express-space-homework">Express Space<strong></a></td>
@@ -433,6 +448,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <td><a href="https://github.com/SEIR-7-06/mvc-intro-lab">MVC Intro Lab</a></td>
             <td>
             - <a href="https://github.com/SEIR-7-06/NEW_Create_Express">New & Create</a>
+            <br>
             - <a href="https://github.com/SEIR-7-06/Express-Create-Lab">Lab: Products App</a>
             </td>
             <td><a href="https://github.com/SEIR-7-06/Pokemon-Express">Pokemon Express</a></td>
@@ -497,6 +513,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/mongo-lab">Mongo Lab</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/mongoose-lesson">Intro to Mongoose</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/Mongoose-Lab">Mongoose Lab</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/mongoose-vampires-hw">Mongoose Vampires <strong></a></td>
@@ -508,6 +525,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/express-adding-models">Fruits App with Database</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack Lab (CR)</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack Lab (UD)</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack</a></td>
@@ -922,10 +940,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Monday</strong><br />(9/6)</td>
               <td>Coding Challenge
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
               </td>
               <td>Coding Challenge
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
               </td>
               <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
@@ -947,10 +967,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Wednesday</strong><br />(9/8)</td>
               <td>
               - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
+              <br>
               - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
               </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/lists-ranges/blob/master/main.py">Lists & Ranges Demo Code</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
@@ -961,18 +983,22 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Thursday</strong><br />(9/9)</td>
               <td>
               - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
               </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
               </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
               </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/codebar">Codebar</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
               </td>
               <td>Python OOP</td>
@@ -984,6 +1010,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a>
+              <br>
               - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
               </td>
               <td>SQL</td>
