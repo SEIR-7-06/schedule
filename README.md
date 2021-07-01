@@ -126,8 +126,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/welcome-to-sei">Welcome to GA</a></td>
               <td><a href="https://github.com/SEIR-7-06/installfest">Installfest</a></td>
               <td><a href="https://github.com/SEIR-7-06/intro-terminal">Terminal Intro</a></td>
-              <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Deliverable</a></td>
-              <td><a href="https://github.com/SEIR-7-06/hw-unix-cli-practice">Terminal Extra Practice</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Deliverable</a></td>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/hw-unix-cli-practice">Terminal Extra Practice</a>
+              <td>Welcome and Getting Set Up</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(7/7)</td>
@@ -145,18 +148,18 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Thursday</strong><br />(7/8)</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/profile-cards">CSS Profile Card</a></td> -->
               <td><a href="">Outcomes</a></td>
-              <td><a href="https://git.generalassemb.ly/SEIR-7-06/conditionals-and-loops">Loops & Conditionals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/conditionals-and-loops">Loops & Conditionals</a></td>
               <td>
-              - <a href="https://git.generalassemb.ly/SEIR-7-06/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
+              - <a href="https://github.com/SEIR-7-06/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
               <br>
-              - <a href="https://git.generalassemb.ly/SEIR-7-06/loop-lab">Loop Lab</a>
+              - <a href="https://github.com/SEIR-7-06/loop-lab">Loop Lab</a>
               </td>
-              <td><a href="https://git.generalassemb.ly/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a></td>
+              <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a></td>
               <td>JavaScript Arrays</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(7/9)</td>
-              <td><a href="https://git.generalassemb.ly/SEIR-7-06/css-selector-basics">CSS Intro</a></td>
+              <td><a href="https://github.com/SEIR-7-06/css-selector-basics">CSS Intro</a></td>
               <td><a href="https://github.com/SEIR-7-06/css-selector-basics">Intro to CSS</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
