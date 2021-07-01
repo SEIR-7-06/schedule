@@ -9,6 +9,7 @@
 - [Course Curriculum](https://github.com/SEIR-7-06/schedule/blob/master/course-curriculum.md)
 - [Class Culture/Expectations](https://github.com/SEIR-7-06/welcome-to-sei)
 - [Remote Class Expectations](https://github.com/SEIR-7-06/remote-class-expectations)
+- [How to Submit Deliverables](https://github.com/SEIR-7-06/deliverable-submissions)
 - [Installfest](https://github.com/SEIR-7-06/installfest)
 
 <br/>
