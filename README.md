@@ -153,10 +153,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(7/9)</td>
-              <td>
-              - <a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a>
-              - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
-              </td>
+              <td><a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a></td>
               <td><a href="https://github.com/SEIR-7-06/css-selector-basics">Intro to CSS</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/functions">Functions</a>
