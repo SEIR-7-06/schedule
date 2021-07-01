@@ -282,7 +282,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td>7/12</td>
               <td><a href="https://github.com/SEIR-7-06/flexbox-froggy-hw">Flexbox Froggy</a></td>
-              <td>7/19</td>
+              <td>7/14</td>
             </tr>
             <tr>
               <td>7/14</td>
