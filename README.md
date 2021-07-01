@@ -126,8 +126,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/welcome-to-sei">Welcome to GA</a></td>
               <td><a href="https://github.com/SEIR-7-06/installfest">Installfest</a></td>
               <td><a href="https://github.com/SEIR-7-06/intro-terminal">Terminal Intro</a></td>
-              <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Lab</a></td>
-              <td><a href="https://github.com/SEIR-7-06/hw-unix-cli-practice">Terminal Practice</a></td>
+              <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Deliverable</a></td>
+              <td><a href="https://github.com/SEIR-7-06/hw-unix-cli-practice">Terminal Extra Practice</a></td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(7/7)</td>
@@ -180,6 +180,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
           </thead>
           <tbody>
+            <tr>
+              <td>7/6</td>
+              <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Lab</a></td>
+              <td>7/8</td>
+            </tr>
             <tr>
               <td>7/8</td>
               <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals</a></td>
