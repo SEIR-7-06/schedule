@@ -247,10 +247,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Wednesday</strong><br />(7/14)</td>
               <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tac Toe</a></td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(7/15)</td>
