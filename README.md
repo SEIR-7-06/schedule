@@ -4,7 +4,7 @@
 
 ## Important Links
 
-- [Zoom Classroom](https://generalassembly.zoom.us/j/95974443973)
+- [Zoom Classroom](https://generalassembly.zoom.us/j/95974443973?pwd=cVdXUHdWeURKZlJSMG15d0FoRUpZQT09)
 - [Class Recordings](https://github.com/SEIR-7-06/schedule/blob/master/class-recordings.md)
 - [Course Curriculum](https://github.com/SEIR-7-06/schedule/blob/master/course-curriculum.md)
 - [Class Culture/Expectations](https://github.com/SEIR-7-06/welcome-to-sei)
