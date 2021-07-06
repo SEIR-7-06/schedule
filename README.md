@@ -51,12 +51,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
   <a href="https://www.codewars.com">Codewars</a> is an excellent source of coding challenges for numerous programming languages.
   <p>It's free, so be sure to create an account so that you can track your progress.
     Code challenges (called _Kata_) vary in difficulty from "8kyu" (easiest) to "1kyu".</p>
-  <h3>Interview Cake</h3>
+<!--   <h3>Interview Cake</h3>
   <p>Designed to prep you technical interviews, <a href="https://www.interviewcake.com">Interview Cake</a> comes highly recommended.</p>
   <p>It's not free, however, you should take advantage of its free 7-day email crash course and decide to if its worth the bucks to you.</p>
   <h3>Advent of Code</h3>
   <p><a href="https://adventofcode.com/">Advent of Code</a> has special puzzles during the month of December (only).</p>
-  <p>However, you can access past year's puzzles!</p>
+  <p>However, you can access past year's puzzles!</p> -->
 </details>
 
 <br/>
