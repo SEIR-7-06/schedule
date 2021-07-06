@@ -192,7 +192,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td>7/8</td>
               <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals</a></td>
-              <td>7/15</td>
+              <td>7/12</td>
             </tr>
             <tr>
               <td>7/9</td>
