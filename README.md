@@ -125,7 +125,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Tuesday</strong><br />(7/6)</td>
               <td><a href="https://github.com/SEIR-7-06/welcome-to-sei">Welcome to GA</a></td>
               <td><a href="https://github.com/SEIR-7-06/installfest">Installfest</a></td>
-              <td><a href="https://github.com/SEIR-7-06/intro-terminal">Terminal Intro</a></td>
+              <td>
+                - <a href="https://github.com/SEIR-7-06/intro-terminal">Terminal Intro</a>
+                - <a href="https://github.com/SEIR-7-06/intro_to_command_line-main">Terminal Cont.</a>
+              </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Deliverable</a>
               <br>
