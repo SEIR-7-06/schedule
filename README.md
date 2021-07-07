@@ -147,9 +147,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               </td>
               <td><a href="https://github.com/SEIR-7-06/github">Github</a></td>
               <td>
-              - <a href="https://github.com/SEIR-7-06/git-github-lab">Github Lab</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/Intro-to-Semantic-HTML">Semantic HTML Extra Practice</a>
+                - <a href="https://github.com/SEIR-7-06/JS-Basic-Loops">JS Basic Loops Lab</a>
+                <br>
+                - <a href="https://github.com/SEIR-7-06/git-github-lab">Github Lab</a>
+                <br>
+                - <a href="https://github.com/SEIR-7-06/Intro-to-Semantic-HTML">Semantic HTML Extra Practice</a>
               </td>
               <td>Intro to Programming</td>
             </tr>
