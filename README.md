@@ -139,7 +139,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(7/7)</td>
-              <td><a href="https://github.com/SEIR-7-06/semantic-html">Semantic HTML</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Intro-to-Semantic-HTML">Semantic HTML</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/intro-to-programming">Intro To Programming</a>
               <br>
