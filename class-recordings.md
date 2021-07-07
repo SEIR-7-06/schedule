@@ -7,7 +7,7 @@
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
 **7/5** | **7/6** | **7/7** | **7/8** | **7/9**
-Coming Soon | Coming Soon | Coming Soon | Coming Soon | Coming Soon |
+ | <a href="https://generalassembly.zoom.us/rec/share/S5O_lpiyUEAfph0DTICUulUnn9R1Rki_exA4cn3fiG838irRv83_B7ca-6Va2ula.lsOtGkAH3Z2J8HcR?startTime=1625587309000">Introduction</a> <br /> <a href="https://generalassembly.zoom.us/rec/share/S5O_lpiyUEAfph0DTICUulUnn9R1Rki_exA4cn3fiG838irRv83_B7ca-6Va2ula.lsOtGkAH3Z2J8HcR?startTime=1625595605000">Intro to Terminal</a>| Coming Soon | Coming Soon | Coming Soon |
 
 <br />
 <br />
