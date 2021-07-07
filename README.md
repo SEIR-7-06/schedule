@@ -190,7 +190,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tbody>
             <tr>
               <td>7/6</td>
-              <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal Lab</a></td>
+              <td><a href="https://github.com/SEIR-7-06/command-line-lab">Terminal</a></td>
               <td>7/8</td>
             </tr>
             <tr>
