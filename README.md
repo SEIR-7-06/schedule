@@ -165,7 +165,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br>
               - <a href="https://github.com/SEIR-7-06/loop-lab">Loop Lab</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a></td>
+              <td><a href="https://github.com/SEIR-7-06/js-arrays-lab">Arrays Extra Practice</a></td>
               <td>JavaScript Arrays</td>
             </tr>
             <tr>
@@ -177,7 +177,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br>
               - <a href="https://github.com/SEIR-7-06/functions-lab">Functions lab</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/functions-scope-hw">Functions Deliverable</a></td>
+              <td><a href="https://github.com/SEIR-7-06/functions-practice">Functions Extra Practice</a></td>
               <td>JavaScript Functions</td>
             </tr>
           </tbody>
