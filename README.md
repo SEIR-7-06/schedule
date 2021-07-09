@@ -99,7 +99,13 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <li>
       <details> 
         <summary>Week 1 - FUNdamentals!</summary>
+        <br>
+        <href="https://github.com/h64/loops-inclass-notes">Loops Demo Code</a>
+        <br>
+        <a href="https://github.com/SEIR-7-06/arrays-iteration-demo-code">Array & Iteration Demo Code</a>
+        <br>
         <a href="https://github.com/SEIR-7-06/functions-code-along">Function Lesson Demo Code</a>
+        <br>
         <!-- Schedule Table -->
         <h2>Week 1 Schedule</h2>
         <table>
