@@ -99,6 +99,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     <li>
       <details> 
         <summary>Week 1 - FUNdamentals!</summary>
+        <a href="https://github.com/SEIR-7-06/functions-code-along">Function Lesson Demo Code</a>
         <!-- Schedule Table -->
         <h2>Week 1 Schedule</h2>
         <table>
