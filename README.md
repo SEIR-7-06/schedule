@@ -215,6 +215,95 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <li>
+      <details>
+        <summary>Week 2 - Advanced Objects, The DOM</summary>
+        <h2>Week 2 - Schedule</h2>
+        <!-- Schedule Table -->
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(7/12)</td>
+              <td>CSS: Flexbox</td>
+              <td><a href="https://github.com/SEIR-7-06/Objects">Objects</a> </td>
+              <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
+              </td>
+              <td>JavaScript Objects</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(7/13)</td>
+              <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
+              <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
+              <td><a href="https://github.com/SEIR-7-06/dom-events">Dom Events</a></td>
+              <td><a href="https://github.com/SEIR-7-06/temperature-converter-dom">Temperature Converter</a></td>
+              <td>Dom Manipulation</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(7/14)</td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Intro Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/etch_a_sketch">Etch a Sketch</a></td>
+              <td>Tic Tac Toe</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(7/15)</td>
+              <td>Outcomes</td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/sei-tic-tac-toe">Tic Tac Toe</a></td>
+              <td><a href="https://github.com/SEIR-7-06/etch_a_sketch">Etch a Sketch</a></td>
+              <td>Tic Tac Toe</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(7/16)</td>
+              <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Combining-datatypes">Objects & this!</a></td>
+              <td><a href="https://github.com/SEIR-7-06/weather-object-lab">Weather Object Lab</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Combining-Data-Types-Lab">Avengers Mixed Types</a></td>
+              <td>Objects and this</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 2 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>7/12</td>
+              <td><a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a></td>
+              <td>7/14</td>
+            </tr>
+            <tr>
+              <td>7/12</td>
+              <td><a href="https://github.com/SEIR-7-06/flexbox-froggy-hw">Flexbox Froggy</a></td>
+              <td>7/14</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
