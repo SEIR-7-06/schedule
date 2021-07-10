@@ -46,7 +46,12 @@
                 - <a href="https://generalassembly.zoom.us/rec/share/0bfO79lXbRWh5N3L-711OXKbBFLWKl9ranPd3QMTGFca7QkZIulJHdVGVrGCQ26e.bqIChB0Zi92cqlkC?startTime=1625777145000">Review, Arrays & Iteration</a>
             </td>
             <td>
-                Coming Soon 
+                - <a href="https://generalassembly.zoom.us/rec/share/flVO3Bf-PztINawxteL62iQCdULQT0qLHSvuZVL_8y4EVjGhjflAqTePo78iqks.9GRxpX6IPeFDK2Iv?startTime=1625846752000">Intro to CSS</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/flVO3Bf-PztINawxteL62iQCdULQT0qLHSvuZVL_8y4EVjGhjflAqTePo78iqks.9GRxpX6IPeFDK2Iv?startTime=1625860871000">Functions</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/flVO3Bf-PztINawxteL62iQCdULQT0qLHSvuZVL_8y4EVjGhjflAqTePo78iqks.9GRxpX6IPeFDK2Iv?startTime=1625866546000">Functions Cont.</a>
+                <br>
             </td>
         </tr>
     </tbody>
