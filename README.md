@@ -33,7 +33,7 @@ Mon - Fri: 8:00am - 9:00am Pacific Time<br />
 Mon - Thr: 6:00pm - 9:00pm Pacific Time<br />
 Sat + Sun: 11:00am - 3:00pm Pacific Time
 
-[TA Office Hours Signup Form](#)
+[TA Office Hours Info](https://docs.google.com/spreadsheets/d/12TwqBUTNP1L1NYdpuwZBOF9_fQqLInQKCp6buGhriL8/edit?ts=6014bec6#gid=983588)
 
 <br/>
 
