@@ -218,6 +218,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       <details>
         <summary>Week 2 - Advanced Objects, The DOM</summary>
         <h2>Week 2 - Schedule</h2>
+        <p><a href="https://github.com/SEIR-7-06/objects-demo-code">Objects Demo Code</a></p>
         <!-- Schedule Table -->
         <table>
           <thead>
