@@ -54,5 +54,35 @@
                 <br>
             </td>
         </tr>
+        <!-- Week 2 -->
+        <tr>
+            <td>7/12</td>
+            <td>7/13</td>
+            <td>7/14</td>
+            <td>7/15</td>
+            <td>7/16</td>
+        </tr>
+        <tr>
+            <td>
+                - <a href="#">Coming Soon!</a>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!</a>
+                <br>
+            </td>
+        </tr>
     </tbody>
 </table>
