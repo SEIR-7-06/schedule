@@ -296,9 +296,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>7/14</td>
             </tr>
             <tr>
-              <td>7/12</td>
-              <td><a href="https://github.com/SEIR-7-06/flexbox-froggy-hw">Flexbox Froggy</a></td>
               <td>7/14</td>
+              <td><a href="https://github.com/SEIR-7-06/css-airbnb">CSS AirBnb</a></td>
+              <td>7/16</td>
             </tr>
           </tbody>
         </table>
