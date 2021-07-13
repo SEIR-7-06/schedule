@@ -64,8 +64,9 @@
         </tr>
         <tr>
             <td>
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/26DH0VQ3CzmWWkVjNbSi9KYykLaWDGMZa1zprc1Gbb8Th_DvE3EhgiGKTRgjee-g.wJXxSFRrgRzRFHb5?startTime=1626105811000">CSS Flexbox</a>
                 <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/26DH0VQ3CzmWWkVjNbSi9KYykLaWDGMZa1zprc1Gbb8Th_DvE3EhgiGKTRgjee-g.wJXxSFRrgRzRFHb5?startTime=1626114358000">Objects</a>
             </td>
             <td> 
                 - <a href="#">Coming Soon!</a>
