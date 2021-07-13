@@ -249,7 +249,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
               <td><a href="https://github.com/SEIR-7-06/intro-to-the-dom">Intro to Dom</a></td>
               <td><a href="https://github.com/SEIR-7-06/dom-events">Dom Events</a></td>
-              <td><a href="https://github.com/SEIR-7-06/temperature-converter-dom">Temperature Converter</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/temperature-converter-dom">Temperature Converter</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/etch_a_sketch">Etch a Sketch</a>
+              </td>
               <td>Dom Manipulation</td>
             </tr>
             <tr>
