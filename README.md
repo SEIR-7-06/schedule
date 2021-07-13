@@ -219,6 +219,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 2 - Advanced Objects, The DOM</summary>
         <h2>Week 2 - Schedule</h2>
         <p><a href="https://github.com/SEIR-7-06/objects-demo-code">Objects Demo Code</a></p>
+        <p><a href="https://github.com/h64/intro-to-dom-demo-code">Intro to DOM Demo Code</a></p>
+        <p><a href="https://github.com/SEIR-7-06/dom-events-demo-code">DOM Events Demo Code</a></p>
         <!-- Schedule Table -->
         <table>
           <thead>
@@ -239,8 +241,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/Objects-lab">Objects Lab</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/solar-system-lab">Solar System Lab</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/mixed-data-types-hw">Mixed Data Types</a>
               </td>
               <td>JavaScript Objects</td>
             </tr>
