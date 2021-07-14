@@ -218,9 +218,13 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       <details>
         <summary>Week 2 - Advanced Objects, The DOM</summary>
         <h2>Week 2 - Schedule</h2>
-        <p><a href="https://github.com/SEIR-7-06/objects-demo-code">Objects Demo Code</a></p>
-        <p><a href="https://github.com/h64/intro-to-dom-demo-code">Intro to DOM Demo Code</a></p>
-        <p><a href="https://github.com/SEIR-7-06/dom-events-demo-code">DOM Events Demo Code</a></p>
+        <br>
+        <a href="https://github.com/SEIR-7-06/objects-demo-code">Objects Demo Code</a>
+        <br>
+        <a href="https://github.com/h64/intro-to-dom-demo-code">Intro to DOM Demo Code</a>
+        <br>
+        <a href="https://github.com/SEIR-7-06/dom-events-demo-code">DOM Events Demo Code</a>
+        <br>
         <!-- Schedule Table -->
         <table>
           <thead>
