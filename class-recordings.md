@@ -69,8 +69,11 @@
                 - <a href="https://generalassembly.zoom.us/rec/share/26DH0VQ3CzmWWkVjNbSi9KYykLaWDGMZa1zprc1Gbb8Th_DvE3EhgiGKTRgjee-g.wJXxSFRrgRzRFHb5?startTime=1626114358000">Objects</a>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/4s1NNFFN8Cuu0bbW-rWZUsB7wB42XoQOJhGbkV_hg8n4c17hbs0QLubsHH_3p_Po.VCkV6Gwy0dJGsdap?startTime=1626192126000">Intro to DOM</a>
                 <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/4s1NNFFN8Cuu0bbW-rWZUsB7wB42XoQOJhGbkV_hg8n4c17hbs0QLubsHH_3p_Po.VCkV6Gwy0dJGsdap?startTime=1626206489000">DOM Events</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/4s1NNFFN8Cuu0bbW-rWZUsB7wB42XoQOJhGbkV_hg8n4c17hbs0QLubsHH_3p_Po.VCkV6Gwy0dJGsdap?startTime=1626212429000">DOM Events Cont.</a>
             </td>
             <td> 
                 - <a href="#">Coming Soon!</a>
