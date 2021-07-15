@@ -76,7 +76,9 @@
                 - <a href="https://generalassembly.zoom.us/rec/share/4s1NNFFN8Cuu0bbW-rWZUsB7wB42XoQOJhGbkV_hg8n4c17hbs0QLubsHH_3p_Po.VCkV6Gwy0dJGsdap?startTime=1626212429000">DOM Events Cont.</a>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/524EPI3YUtDzqQqhdHzhYgGoyts1Hi2-MoCmtIr8jhWGkYOfiav6kRzoUwOZa-yO.Yp4YpRzkfzMvtI-K?startTime=1626278627000">Tic Tac Toe Intro</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/524EPI3YUtDzqQqhdHzhYgGoyts1Hi2-MoCmtIr8jhWGkYOfiav6kRzoUwOZa-yO.Yp4YpRzkfzMvtI-K?startTime=1626292937000">TTT Mini-lesson</a>
                 <br>
             </td>
             <td> 
