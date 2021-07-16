@@ -82,7 +82,9 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/-RP2NY3m_DxRrrSPd643S-f3oZYJ1nXOSNq44kqst0rraslRcXjA5AvVFpn7KZbr.Y9Wb2EVCF--BYLzf?startTime=1626379237000">TTT Mini-lesson</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/-RP2NY3m_DxRrrSPd643S-f3oZYJ1nXOSNq44kqst0rraslRcXjA5AvVFpn7KZbr.Y9Wb2EVCF--BYLzf?startTime=1626390077000">TTT Show & Tell</a>
                 <br>
             </td>
             <td>
