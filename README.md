@@ -379,7 +379,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>Project 0</td>
               <td>Project 0</td>
               <td>Project 0</td>
-              <td>Project: Tamagotchi</td>
+              <td>Project 0</td>
             </tr>
           </tbody>
         </table>
