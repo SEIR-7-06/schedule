@@ -312,6 +312,98 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <li>
+      <details>
+        <summary>Week 3 - Project Zero</summary>
+        <!-- Schedule Table -->
+        <h2>Week 3 - Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(7/19)</td>
+              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a></td>
+              <td>Object Oriented Programming</td>
+            </tr>
+            <!-- <tr>
+              <td><strong>Tuesday</strong><br />(7/20)</td>
+              <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+              <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+              <td><a href="https://github.com/SEIR-7-06/space-battle">Space Battle</a></td>
+              <td><a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a></td>
+              <td>Object Oriented Programming</td>
+            </tr> -->
+            <tr>
+              <td><strong>Tuesday</strong><br />(7/20)</td>
+              <td>Introduce Project</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(7/21)</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(7/22)</td>
+              <td>Outcomes</td>
+              <td>Project 0</td>
+              <td><a href="https://github.com/SEIR-7-06/deploy-to-github-pages">GitHub Pages Deployment</a></td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(7/23)</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project 0</td>
+              <td>Project: Tamagotchi</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 3 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>7/21</td>
+              <td>Project 0</td>
+              <td>7/27</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
