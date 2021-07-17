@@ -90,8 +90,6 @@
             <td>
                 - <a href="https://generalassembly.zoom.us/rec/share/fp5ThvHhhVbbXrL2VFsT7c5FjOoHlWuVxiKbVpF5OW97GtTHQ1263qez6iuoK2Ic.znw4m4KWOkVJ8mie?startTime=1626451331000">Objects & This</a>
                 <br>
-                - <a href="https://generalassembly.zoom.us/rec/share/fp5ThvHhhVbbXrL2VFsT7c5FjOoHlWuVxiKbVpF5OW97GtTHQ1263qez6iuoK2Ic.znw4m4KWOkVJ8mie?startTime=1626465701000">Weather Object Lab mini-review</a>
-                <br>
             </td>
         </tr>
         <!-- Week 3 -->
