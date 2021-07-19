@@ -336,9 +336,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>
               - <a href="https://github.com/SEIR-7-06/classes">OOP & Classes</a>
               <br>
-              - <a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a>
+              - <a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/classes-lab">Classes Lab</a></td>
+              <td><a href="https://github.com/SEIR-7-06/oop-pokemon">OOP Pokemon</a></td>
               <td>Object Oriented Programming</td>
             </tr>
             <!-- <tr>
