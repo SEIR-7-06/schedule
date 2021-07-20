@@ -396,7 +396,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>7/21</td>
+              <td>7/20</td>
               <td>Project 0</td>
               <td>7/27</td>
             </tr>
