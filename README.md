@@ -317,6 +317,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 3 - Project Zero</summary>
         <!-- Schedule Table -->
         <h2>Week 3 - Schedule</h2>
+        <a href="https://github.com/SEIR-7-06/stopwatch-demo-code">Stopwatch / setInterval Demo Code</a>
         <table>
           <thead>
             <tr>
