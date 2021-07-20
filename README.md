@@ -351,8 +351,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr> -->
             <tr>
               <td><strong>Tuesday</strong><br />(7/20)</td>
+              <td>Stopwatch Activity</td>
               <td>Introduce Project 0</td>
-              <td>Project 0</td>
               <td>Project 0</td>
               <td>Project 0</td>
               <td>Project 0</td>
