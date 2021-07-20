@@ -351,35 +351,35 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr> -->
             <tr>
               <td><strong>Tuesday</strong><br />(7/20)</td>
-              <td>Stopwatch Activity</td>
-              <td>Introduce Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Introduce Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(7/21)</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(7/22)</td>
               <td>Outcomes</td>
-              <td>Project 0</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/deploy-to-github-pages">GitHub Pages Deployment</a></td>
-              <td>Project 0</td>
-              <td>Project 0</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(7/23)</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
-              <td>Project 0</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+              <td>Project: Tamagotchi</td>
             </tr>
           </tbody>
         </table>
@@ -396,8 +396,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>7/20</td>
-              <td>Project 0</td>
+              <td>7/21</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td>7/27</td>
             </tr>
           </tbody>
