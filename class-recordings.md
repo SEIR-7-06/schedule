@@ -102,7 +102,9 @@
         </tr>
         <tr>
             <td>
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/73ffjr56vreqZ2orBc9_iXPoR9bqrybpyO5oRpaF2_IIP6jPWdSkACETHn5tQx7p.v0oQ_7SoxA9XT0Ie?startTime=1626710498000">OOP & Classes</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/-q5R4q7yvFVnE8KOPyQGTP7dEof1esiFrWgs0ZjHxa7ihErq0-bg-Tg5rIp_Mg9D.aPclJZN_0waK_Uuz?startTime=1626724846000">OOP & Classes cont.</a>
                 <br>
             </td>
             <td> 
