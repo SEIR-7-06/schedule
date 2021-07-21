@@ -108,7 +108,9 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/cm_Xk1C1c0af98PjL3_VlguvhO5WkCbiBeULChqoh4KGPx3VwYe_aK0BiM1k2TMS.gXYZLye_FHGIcVaC?startTime=1626796923000">Stopwatch Exercise</a>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/cm_Xk1C1c0af98PjL3_VlguvhO5WkCbiBeULChqoh4KGPx3VwYe_aK0BiM1k2TMS.gXYZLye_FHGIcVaC?startTime=1626801385000">Project Zero Intro</a>
                 <br>
             </td>
             <td> 
