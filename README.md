@@ -352,8 +352,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr> -->
             <tr>
               <td><strong>Tuesday</strong><br />(7/20)</td>
+              <td><a href="https://github.com/SEIR-7-06/stopwatch-demo-code">Stopwatch Activity</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Introduce Project</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
