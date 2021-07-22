@@ -380,7 +380,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
-              <td>Project: Tamagotchi</td>
+              <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
             </tr>
           </tbody>
         </table>
