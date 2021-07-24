@@ -514,3 +514,4 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
     </li>
   </ul>
 </details>
+<hr>
