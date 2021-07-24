@@ -408,3 +408,109 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
   </ul>
 </details>
 <hr />
+<details>
+  <summary><strong>Unit 2</strong> - JS Servers & NOSQL Databases</summary>
+  <ul type="none">
+    <!-- Week 4 Dropdown -->
+    <li>
+      <details> 
+        <summary>Week 4 - Node, Express, & MongoDB</summary>
+        <!-- Schedule Table -->
+        <h2>Week 4 Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+        <tbody>
+          <tr>
+            <td><strong>Monday</strong><br />(7/26)</td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0</a></td>
+            <td>Project 0</td>
+          </tr>
+          <tr>
+            <td><strong>Tuesday</strong><br />(7/27)</td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+            <td><a href="https://github.com/SEIR-7-06/project-zero">Project 0 Presentations</a></td>
+            <td>Project 0</td>
+          </tr>
+          <tr>
+            <td><strong>Wednesday</strong><br />(7/28)</td>
+            <td><a href="https://github.com/SEIR-7-06/jquery-ajax-apis">AJAX & API's</a></td>
+            <td><a href="https://github.com/SEIR-7-06/jquery-ajax-apis">AJAX & API's</a></td>
+            <td><a href="https://github.com/SEIR-7-06/jquery-ajax-apis">AJAX & API's</a></td>
+            <td><a href="https://github.com/SEIR-7-06/jquery-ajax-apis">AJAX & API's</a></td>
+            <td>AJAX/API's</td>
+          </tr>
+          <tr>
+            <td><strong>Thursday</strong><br />(7/29)</td>
+            <td>Outcomes</td>
+            <td>
+            - <a href="https://github.com/SEIR-7-06/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
+            <br>
+            - <a href="https://github.com/SEIR-7-06/intro_to_Express">Intro To Express</a>
+            </td>
+            <td>
+            - <a href="https://github.com/SEIR-7-06/url_and_query_params">Url & Params</a>
+            <br>
+            - <a href="https://github.com/SEIR-7-06/express-lab-params">Params lab</a>
+            </td>
+            <td><a href="https://github.com/SEIR-7-06/express-lab-params">Params lab</a></td>
+            <td>Node/Express</td>
+          </tr>
+          <tr>
+            <td><strong>Friday</strong><br />(7/30)</td>
+            <td><a href="https://github.com/SEIR-7-06/intro_to_Rest">Intro To Rest</a></td>
+            <td>
+            - <a href="https://github.com/SEIR-7-06/MVC">MVC</a>
+              <br>
+            - <a href="https://github.com/SEIR-7-06/mvc-intro-lab">MVC Intro Lab</a>
+            </td>
+            <td>
+            - <a href="https://github.com/SEIR-7-06/NEW_Create_Express">New & Create</a>
+            <br>
+            - <a href="https://github.com/SEIR-7-06/Express-Create-Lab">Lab: Products App</a>
+            </td>
+            <td><a href="https://github.com/SEIR-7-06/Pokemon-Express">Pokemon Express</a></td>
+            <td>Node/Express</td>
+          </tr>
+          </tbody>
+        </table>
+        <h2>Week 4 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>7/29</td>
+              <td><a href="https://github.com/SEIR-7-06/express-routes-calc">Express Calculator</a></td>
+              <td>8/2</td>
+            </tr>
+            <tr>
+              <td>7/30</td>
+              <td><a href="https://github.com/SEIR-7-06/express-space-homework">Express Space</a></td>
+              <td>8/2</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
+  </ul>
+</details>
