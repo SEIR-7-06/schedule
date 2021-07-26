@@ -2,7 +2,7 @@
 
 <br />
 
-### Week 1 - FUNdamentals
+### Unit 1 - HTML / CSS / JavaScript
 
 <table>
     <!-- Monday - Friday -->
@@ -114,15 +114,62 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a>
+                - Project Zero!
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a>
+                - <a href="https://generalassembly.zoom.us/rec/share/0UDmYPChS8oo7VgpyhMLMrMQaOowIr-EuaDxKYZeJK9dwb5gu6DAQAC3KykW6JD8.fLe8goXvYRzt0QT2?startTime=1626984158000">Github Pages Deploy</a>
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!</a>
+                - Project Zero!
+                <br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Unit 2 - JS Servers & NOSQL Databases
+
+<table>
+    <!-- Monday - Friday -->
+    <thead>
+        <tr>
+            <td><strong>Monday</strong></td>
+            <td><strong>Tuesday</strong></td>
+            <td><strong>Wednesday</strong></td>
+            <td><strong>Thursday</strong></td>
+            <td><strong>Friday</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Week 4 -->
+        <tr>
+            <td>7/26</td>
+            <td>7/27</td>
+            <td>7/28</td>
+            <td>7/29</td>
+            <td>7/30</td>
+        </tr>
+        <tr>
+            <td>
+                - Project Zero!
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
                 <br>
             </td>
         </tr>
