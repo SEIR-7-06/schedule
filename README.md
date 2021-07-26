@@ -506,7 +506,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td>7/30</td>
               <td><a href="https://github.com/SEIR-7-06/express-space-homework">Express Space</a></td>
-              <td>8/2</td>
+              <td>8/4</td>
             </tr>
           </tbody>
         </table>
