@@ -126,6 +126,24 @@
                 <br>
             </td>
         </tr>
+        <!-- First half of Week 4 -->
+        <tr>
+            <td>7/26</td>
+            <td>7/27</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                - Project Zero!
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -143,22 +161,18 @@
         </tr>
     </thead>
     <tbody>
-        <!-- Week 4 -->
+        <!-- Second half of Week 4 -->
         <tr>
-            <td>7/26</td>
-            <td>7/27</td>
+            <td></td>
+            <td></td>
             <td>7/28</td>
             <td>7/29</td>
             <td>7/30</td>
         </tr>
         <tr>
             <td>
-                - Project Zero!
-                <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!<a/>
-                <br>
             </td>
             <td> 
                 - <a href="#">Coming Soon!<a/>
