@@ -417,6 +417,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 4 - Node, Express, & MongoDB</summary>
         <!-- Schedule Table -->
         <h2>Week 4 Schedule</h2>
+        <a href="https://github.com/h64/ajax-and-apis-demo-code">AJAX & APIs Demo Code</a>
         <table>
           <thead>
             <tr>
