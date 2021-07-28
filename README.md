@@ -449,7 +449,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <td><strong>Wednesday</strong><br />(7/28)</td>
             <td><a href="https://github.com/SEIR-7-06/ajax-and-apis">AJAX & API's</a></td>
             <td><a href="https://github.com/SEIR-7-06/ajax-and-apis">AJAX & API's</a></td>
-            <td><a href="https://github.com/SEIR-7-06/ajax-and-apis">AJAX & API's</a></td>
+            <td><a href="https://github.com/SEIR-7-06/fetch-reddit-slideshow">Fetch Reddit Slideshow</a></td>
             <td><a href="https://github.com/SEIR-7-06/ajax-and-apis">AJAX & API's</a></td>
             <td>AJAX/API's</td>
           </tr>
