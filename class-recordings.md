@@ -140,7 +140,7 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/xiWH4Iv6SpUBRzQlVyWE2O0ULsLvH8CXvtTqd64fAmjVMf8_M8VgqtlBhDQsuZOr.YAEQxT34bA2FT3O0?startTime=1627401707000">Project Zero Presentations<a/>
                 <br>
             </td>
         </tr>
