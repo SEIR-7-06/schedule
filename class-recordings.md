@@ -175,7 +175,9 @@
             <td> 
             </td>
             <td> 
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/56oc0K2P3HSS6fgMN2Q3pFb51C7NfNkXH5VNPFLirAB51XrWb2gxcwNX7JWqVF0X.5PM82P-RgVy9Lfut?startTime=1627489919000">AJAX & APIs<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/56oc0K2P3HSS6fgMN2Q3pFb51C7NfNkXH5VNPFLirAB51XrWb2gxcwNX7JWqVF0X.5PM82P-RgVy9Lfut?startTime=1627515112000">Lab: Fetch Reddit<a/>
                 <br>
             </td>
             <td> 
