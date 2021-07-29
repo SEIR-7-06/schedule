@@ -473,15 +473,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tr>
             <td><strong>Friday</strong><br />(7/30)</td>
             <td><a href="https://github.com/SEIR-7-06/intro_to_Rest">Intro To Rest</a></td>
+            <td><a href="https://github.com/SEIR-7-06/MVC">MVC</a></td>
+            <td><a href="https://github.com/SEIR-7-06/NEW_Create_Express">New & Create</a></td>
             <td>
-            - <a href="https://github.com/SEIR-7-06/MVC">MVC</a>
-              <br>
-            - <a href="https://github.com/SEIR-7-06/mvc-intro-lab">MVC Intro Lab</a>
-            </td>
-            <td>
-            - <a href="https://github.com/SEIR-7-06/NEW_Create_Express">New & Create</a>
-            <br>
             - <a href="https://github.com/SEIR-7-06/Express-Create-Lab">Lab: Products App</a>
+            - <a href="https://github.com/SEIR-7-06/mvc-intro-lab">MVC Intro Lab</a>
             </td>
             <td><a href="https://github.com/SEIR-7-06/Pokemon-Express">Pokemon Express</a></td>
             <td>Node/Express</td>
