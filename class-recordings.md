@@ -181,7 +181,9 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/oP8lTeZx0zN_hrnym6YzBHmmJuzlsDtW3RCAcEbDx_kfKo-hTqFsB3qhYgz4Ricx.5UL4IrFLjFi7JImu?startTime=1627580804000">Intro to Node.js & Installfest<a/>
+                <br>
+                 - <a href="https://generalassembly.zoom.us/rec/share/oP8lTeZx0zN_hrnym6YzBHmmJuzlsDtW3RCAcEbDx_kfKo-hTqFsB3qhYgz4Ricx.5UL4IrFLjFi7JImu?startTime=1627588822000">Intro to Express<a/>
                 <br>
             </td>
             <td>
