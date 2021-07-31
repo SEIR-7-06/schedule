@@ -514,6 +514,114 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <!-- Week 5 Dropdown -->
+    <li>
+      <details>
+        <summary>Week 5 - Servers & Databases Continued</summary>
+        <h2>Week 5 - Schedule</h2>
+        <!-- Schedule Table -->
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(8/2)</td>
+              <td><a href="https://github.com/SEIR-7-06/Delete-Express">Delete & Edit</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/Delete-Express">Delete & Edit</a>
+                <br>
+              - <a href="https://github.com/SEIR-7-06/express-partner-lab">Delete & Edit Lab</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/express-controllers">Controllers</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Pokemon-Express">Pokemon Express</a></td>
+              <td>Node/Express</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(8/3)</td>
+              <td>Install Mongo</td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/mongo-lesson">Intro to Mongo</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/mongo-lab">Mongo Lab</a>
+              </td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/mongoose-lesson">Intro to Mongoose</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/Mongoose-Lab">Mongoose Lab</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/mongoose-vampires-hw">Mongoose Vampires <strong></a></td>
+              <td>Databases</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(8/4)</td>
+              <td>Morning Activity</td>
+              <td>
+<!--               <a href="https://github.com/SEIR-7-06/Scope">Scope</a>
+              <br> -->
+              <a href="https://github.com/SEIR-7-06/express-adding-models">Fruits App with Database</a>
+              </td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack HW</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack HW</a></td>
+              <td>Full Stack</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(8/5)</td>
+              <td>Outcomes</td>
+              <td><a href="https://github.com/SEIR-7-06/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/two-model-second-model-crud">Express Blog (2nd Model)</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/two-model-lab">Two Model lab</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/two-model-lab">Two Model lab</a></td>
+              <td>Full Stack</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(8/6)</td>
+              <td><a href="https://github.com/SEIR-7-06/two-model-relationship-build">Blog Related Models</a></td>
+              <td><a href="https://github.com/SEIR-7-06/two-model-relationship-build">Blog Related Models</a></td>
+              <td><a href="https://github.com/SEIR-7-06/two-model-relationship-build">Blog Related Models</a></td>
+              <td><a href="https://github.com/SEIR-7-06/photo-app-hw">Photo App</a></td>
+              <td>Full Stack</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 5 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>8/3</td>
+              <td><a href="https://github.com/SEIR-7-06/mongoose-vampires-hw">Mongoose Vampires</a></td>
+              <td>8/10</td>
+            </tr>
+            <tr>
+              <td>8/4</td>
+              <td><a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack</a></td>
+              <td>8/11</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr>
