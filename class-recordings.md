@@ -187,7 +187,9 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/gMYLGEcFszjIhJatPhnjAZ3ohDWh3L2LA4Up-CSrnp_iGOY5IlaPT214QuReAN0O._ueHVXkCLrbfPDs_?startTime=1627660873000">Intro to REST & MVC<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/gMYLGEcFszjIhJatPhnjAZ3ohDWh3L2LA4Up-CSrnp_iGOY5IlaPT214QuReAN0O._ueHVXkCLrbfPDs_?startTime=1627675326000">New & Create<a/>
                 <br>
             </td>
         </tr>
