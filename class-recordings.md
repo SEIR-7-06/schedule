@@ -191,6 +191,8 @@
                 <br>
                 - <a href="https://generalassembly.zoom.us/rec/share/gMYLGEcFszjIhJatPhnjAZ3ohDWh3L2LA4Up-CSrnp_iGOY5IlaPT214QuReAN0O._ueHVXkCLrbfPDs_?startTime=1627675326000">New & Create<a/>
                 <br>
+                - <a href="https://www.youtube.com/watch?v=mrq-Lw0ilqE">Express Space Deliverable Setup</a>
+                <br>
             </td>
         </tr>
     </tbody>
