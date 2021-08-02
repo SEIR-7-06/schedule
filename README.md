@@ -535,13 +535,13 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tbody>
             <tr>
               <td><strong>Monday</strong><br />(8/2)</td>
-              <td><a href="https://github.com/SEIR-7-06/Delete-Express">Delete & Edit</a></td>
+              <td>Review</td>
+              <td><a href="https://github.com/SEIR-7-06/express-controllers">Controllers</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/Delete-Express">Delete & Edit</a>
                 <br>
               - <a href="https://github.com/SEIR-7-06/express-partner-lab">Delete & Edit Lab</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/express-controllers">Controllers</a></td>
               <td><a href="https://github.com/SEIR-7-06/Pokemon-Express">Pokemon Express</a></td>
               <td>Node/Express</td>
             </tr>
