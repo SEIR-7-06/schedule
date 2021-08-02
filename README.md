@@ -519,6 +519,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       <details>
         <summary>Week 5 - Servers & Databases Continued</summary>
         <h2>Week 5 - Schedule</h2>
+        <p><a href="https://github.com/SEIR-7-06/express-fruits-demo-code">Express Fruits App</a></p>
         <!-- Schedule Table -->
         <table>
           <thead>
