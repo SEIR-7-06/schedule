@@ -567,7 +567,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>
 <!--               <a href="https://github.com/SEIR-7-06/Scope">Scope</a>
               <br> -->
-              <a href="https://github.com/SEIR-7-06/express-adding-models">Fruits App with Database</a>
+              <a href="https://github.com/SEIR-7-06/express-adding-models">Fruits App w/db</a>
               </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack HW</a>
