@@ -558,7 +558,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br>
               - <a href="https://github.com/SEIR-7-06/Mongoose-Lab">Mongoose Lab</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/mongoose-vampires-hw">Mongoose Vampires <strong></a></td>
+              <td><a href="https://github.com/SEIR-7-06/Mongo-Bounty-Hunters">Mongo Bounty Hunters<strong></a></td>
               <td>Databases</td>
             </tr>
             <tr>
