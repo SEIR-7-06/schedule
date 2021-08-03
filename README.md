@@ -548,6 +548,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Tuesday</strong><br />(8/3)</td>
               <td>Install Mongo</td>
+<!--               <td><a href="https://github.com/SEIR-7-06/mongo-install">Install MongoDB</a></td> -->
               <td>
               - <a href="https://github.com/SEIR-7-06/mongo-lesson">Intro to Mongo</a>
               <br>
