@@ -195,5 +195,35 @@
                 <br>
             </td>
         </tr>
+        <!-- Week 5 -->
+        <tr>
+            <td>8/2</td>
+            <td>8/3</td>
+            <td>8/4</td>
+            <td>8/5</td>
+            <td>8/6</td>
+        </tr>
+        <tr>
+            <td> 
+                - <a href="https://generalassembly.zoom.us/rec/share/QGqNWFAP6-jQkSxYoVGJD7m2xLgZCZGmzRjMKizotE1TwjsiYwvXytd0yBCAzWMA.TCYbyTALJfmxXOYo?startTime=1627920114000">Controllers, Delete & Edit<a/>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+        </tr>
     </tbody>
 </table>
