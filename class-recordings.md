@@ -209,7 +209,11 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/p4IyWZpOBipemSh6Fnth1it7AbKOcsODmZXmVH68UhmTOxBB1bkWBklUlvCHX-7H.uH85y9lEdnCC6Wly?startTime=1628007883000">MongoDB Installfest<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/p4IyWZpOBipemSh6Fnth1it7AbKOcsODmZXmVH68UhmTOxBB1bkWBklUlvCHX-7H.uH85y9lEdnCC6Wly?startTime=1628009540000">Intro to MongoDB<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/p4IyWZpOBipemSh6Fnth1it7AbKOcsODmZXmVH68UhmTOxBB1bkWBklUlvCHX-7H.uH85y9lEdnCC6Wly?startTime=1628020852000">Intro to Mongoose<a/>
                 <br>
             </td>
             <td>
