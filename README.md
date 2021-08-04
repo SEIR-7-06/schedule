@@ -564,7 +564,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(8/4)</td>
-              <td>Morning Activity</td>
+              <td><a href="https://github.com/SEIR-7-06/js-stacks-queues">CS Topics: Stacks & Queues</a></td>
               <td>
 <!--               <a href="https://github.com/SEIR-7-06/Scope">Scope</a>
               <br> -->
