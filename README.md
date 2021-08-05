@@ -583,7 +583,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>
               - <a href="https://github.com/SEIR-7-06/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a>
               <br>
-              - Review Time!
+              - Review & Free Grazing Time
               </td>
               <td><a href="https://github.com/SEIR-7-06/first-full-stack-homework">MEN Stack HW</a></td>
               <td>Full Stack</td>
@@ -595,7 +595,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>
               <a href="https://github.com/SEIR-7-06/two-model-second-model-crud">Express Blog (2nd Model)</a>
               <br/>
-              - Review Time!
+              - Review & Free Grazing Time
               </td>
               <td><a href="https://github.com/SEIR-7-06/two-model-lab">Two Model lab</a></td>
 <!--               <td><a href="https://github.com/SEIR-7-06/photo-app-hw">Photo App</a></td> -->
