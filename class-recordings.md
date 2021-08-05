@@ -217,7 +217,9 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/KTdaot7z8r314VHinKuftMFZ7_55hhUdXez4CHUb61oWY-MiG6_npE0eRnOiNYna.-gBuIPhJiIkJLeqJ?startTime=1628093000000">CS Topics: Stacks & Queues<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/KTdaot7z8r314VHinKuftMFZ7_55hhUdXez4CHUb61oWY-MiG6_npE0eRnOiNYna.-gBuIPhJiIkJLeqJ?startTime=1628098524000">Fruits App w/ DB<a/>
                 <br>
             </td>
             <td>
