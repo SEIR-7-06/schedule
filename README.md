@@ -601,7 +601,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br/>
               - Review & <a href="https://github.com/SEIR-7-06/first-full-stack-homework">HW Time</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/two-model-lab">Two Model lab</a></td>
+              <td><a href="https://github.com/SEIR-7-06/two-model-lab">Two Model Practice</a></td>
 <!--               <td><a href="https://github.com/SEIR-7-06/photo-app-hw">Photo App</a></td> -->
               <td>Full Stack</td>
             </tr>
