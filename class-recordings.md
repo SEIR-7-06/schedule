@@ -223,7 +223,7 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/_coDMlN8EuBUqXkTkKda0QXMUt91RpqRPOAPNzXUDDGWZz-lTU4qY3-r_XLwuniX.iX1TKxFZHChG8yBA?startTime=1628185616000">Express Blog (1st Model)<a/>
                 <br>
             </td>
             <td>
