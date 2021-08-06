@@ -520,8 +520,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 5 - Servers & Databases Continued</summary>
         <h2>Week 5 - Schedule</h2>
         <a href="https://github.com/SEIR-7-06/express-blog-706">Express Blog App</a>
+        <br>
         <a href="https://github.com/SEIR-7-06/express-fruits-demo-code">Express Fruits App</a>
+        <br>
         <a href="https://github.com/SEIR-7-06/intro-to-mongoose-demo-code">Mongoose Demo Code</a>
+        <br>
         <!-- Schedule Table -->
         <table>
           <thead>
