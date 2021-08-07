@@ -227,7 +227,9 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/POYl9rYD4uwUbJNt1khVbKkuOb9_AJSss9v7gZKB4_aN_96CUrTD0zlQ7WlrQ4rv.i-vhuUmcqlDq6AuE?startTime=1628265758000">Express Blog (2nd Model)<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/POYl9rYD4uwUbJNt1khVbKkuOb9_AJSss9v7gZKB4_aN_96CUrTD0zlQ7WlrQ4rv.i-vhuUmcqlDq6AuE?startTime=1628280480000">Express Blog Review Session<a/>
                 <br>
             </td>
         </tr>
