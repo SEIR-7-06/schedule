@@ -633,6 +633,88 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <!-- Week 6 Dropdown -->
+    <li>
+      <details>
+        <summary>Week 6 - Project: Express, Mongo DB, and Node</summary>
+        <!-- Schedule Table -->
+        <h2>Week 6 - Schedule</h2>
+        <!-- <p><a href="https://github.com/SEIR-7-06/project-one">Project One</a></p> -->   
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(8/9)</td>
+              <td>MEN Stack Review</td>
+              <td>MEN Stack Review</td>
+              <td><a href="https://github.com/SEIR-7-06/two-model-relationship-build">Blog Related Models</a></td>
+              <td><a href="https://github.com/SEIR-7-06/photo-app-hw">Photo App</a></td>
+              <td>Full Stack</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(8/10)</td>
+              <td>Introduce Project One</td>
+              <td>Intro Project One</td>
+              <td>Project One Planning</td>
+              <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Git Collaboration</a></td>
+              <td>Project One</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(8/11)</td>
+              <td>Project One Approvals</td>
+              <td>Project One Approvals</td>
+              <td>Project One Approvals</td>
+              <td>Project One Approvals</td>
+              <td>Project One</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(8/12)</td>
+              <td>Outcomes</td>
+              <td><a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Deployment</a></td>
+              <td>Project One</td>
+              <td>Project One</td>
+              <td>Project One</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(8/13)</td>
+              <td>Project One</td>
+              <td>Project One</td>
+              <td>Project One</td>
+              <td>Project One</td>
+              <td>Project One</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 6 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>8/10</td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
+              <td>8/17</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr>
