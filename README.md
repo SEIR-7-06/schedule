@@ -678,8 +678,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Wednesday</strong><br />(8/11)</td>
               <td>Project One Approvals</td>
               <td>Project One Approvals</td>
-              <td>Project One Approvals</td>
-              <td>Project One Approvals</td>
+              <td>Project One</td>
+              <td>Project One</td>
               <td>Project One</td>
             </tr>
             <tr>
