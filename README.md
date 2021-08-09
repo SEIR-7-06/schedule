@@ -639,7 +639,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 6 - Project: Express, Mongo DB, and Node</summary>
         <!-- Schedule Table -->
         <h2>Week 6 - Schedule</h2>
-        <!-- <p><a href="https://github.com/SEIR-7-06/project-one">Project One</a></p> -->   
+        <!-- <p><a href="https://github.com/SEIR-7-06/project-one">Project One</a></p> --> 
+<!--         <br> -->
+        <a href="https://github.com/SEIR-7-06/express-blog-706">Express Blog App</a>
+        <br>
+        <a href="https://github.com/SEIR-7-06/express-fruits-demo-code">Express Fruits App</a>
+        <br>
         <table>
           <thead>
             <tr>
