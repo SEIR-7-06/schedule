@@ -645,6 +645,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <br>
         <a href="https://github.com/SEIR-7-06/express-fruits-demo-code">Express Fruits App</a>
         <br>
+        <br>
         <table>
           <thead>
             <tr>
