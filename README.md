@@ -669,7 +669,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Tuesday</strong><br />(8/10)</td>
               <td>Introduce Project One</td>
-              <td>Intro Project One</td>
+              <td>Project One Planning</td>
               <td>Project One Planning</td>
               <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Git Collaboration</a></td>
               <td>Project One</td>
