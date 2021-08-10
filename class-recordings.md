@@ -233,5 +233,37 @@
                 <br>
             </td>
         </tr>
+        <!-- Week 6 -->
+        <tr>
+            <td>8/9</td>
+            <td>8/10</td>
+            <td>8/11</td>
+            <td>8/12</td>
+            <td>8/13</td>
+        </tr>
+        <tr>
+            <td>
+                - <a href="https://generalassembly.zoom.us/rec/share/tqcepZPvJo_wAIqp40oklATDaFuwVIuVe0mHbAfYpHNwjRyO3nSUAL1GpEZwBRae.qmt9BkKzYaeXlc0H?startTime=1628524980000">Morning Review<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/tqcepZPvJo_wAIqp40oklATDaFuwVIuVe0mHbAfYpHNwjRyO3nSUAL1GpEZwBRae.qmt9BkKzYaeXlc0H?startTime=1628532050000">Related Models<a/>
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!<a/>
+                <br>
+            </td>
+        </tr>
     </tbody>
 </table>
