@@ -668,34 +668,34 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Tuesday</strong><br />(8/10)</td>
-              <td>Introduce Project One</td>
-              <td>Project One Planning</td>
-              <td>Project One Planning</td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Introduce Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One Planning</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One Planning</a></td>
               <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Git Collaboration</a></td>
               <td>Project One</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(8/11)</td>
-              <td>Project One Approvals</td>
-              <td>Project One Approvals</td>
-              <td>Project One</td>
-              <td>Project One</td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One Approvals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One Approvals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
               <td>Project One</td>
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(8/12)</td>
               <td>Outcomes</td>
-              <td>Project One</td>
-              <td>Project One</td>
-              <td>Project One</td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
               <td>Project One</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(8/13)</td>
               <td><a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Deployment</a></td>
-              <td>Project One</td>
-              <td>Project One</td>
-              <td>Project One</td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/schedule">Project One</a></td>
               <td>Project One</td>
             </tr>
           </tbody>
