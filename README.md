@@ -685,7 +685,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Thursday</strong><br />(8/12)</td>
               <td>Outcomes</td>
-              <td><a href="https://github.com/SEIR-7-06/Node-Heroku-Deployment">Heroku Deployment</a></td>
+              <td><a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Heroku Deployment</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td>Project One</td>
