@@ -249,7 +249,9 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/-53dExhRL58KjzhWHlpT0wluelsA91C6WyTwHLDc2JzircNtfQh4K8_GYvArE0Ks.RKkwyko1vETXxK7b?startTime=1628611367000">Project One Introduction<a/>
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/-53dExhRL58KjzhWHlpT0wluelsA91C6WyTwHLDc2JzircNtfQh4K8_GYvArE0Ks.RKkwyko1vETXxK7b?startTime=1628625628000">Prev Project One Showcase<a/>
                 <br>
             </td>
             <td>
