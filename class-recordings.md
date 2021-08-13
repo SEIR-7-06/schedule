@@ -255,11 +255,10 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
-                <br>
+                Project One!
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/Pw9d5Km6XwERvwUK3s3fYJq1-5bR8Td59W1rIT3oCKPCyvjiALwepHSEXiO1mNMM.uChhZz4UyXgUJ-i1?startTime=1628798488000">Heroku Deploy<a/>
                 <br>
             </td>
             <td>
