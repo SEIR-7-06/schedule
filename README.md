@@ -692,9 +692,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(8/13)</td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/sessions">Express Session</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
-              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
               <td>Project One</td>
             </tr>
