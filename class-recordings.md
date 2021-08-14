@@ -262,7 +262,7 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!<a/>
+                - <a href="https://generalassembly.zoom.us/rec/share/wbnHCDw3lZq-30s-sSgKD5Uwreij1_tgU0I9E393JQuCql3Gz-68Y6-H5B0LnaY3.vmVf79-w3Fs1FEm3?startTime=1628886036000">Session Authentication<a/>
                 <br>
             </td>
         </tr>
