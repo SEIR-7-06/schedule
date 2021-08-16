@@ -724,3 +724,111 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
   </ul>
 </details>
 <hr>
+
+<!-- Unit 3 Dropdown -->
+<details>
+  <summary><strong>Unit 3</strong> - React</summary>
+  <ul type="none">
+    <!-- Week 7 Dropdown -->
+    <li>
+      <details> 
+        <summary>Week 7 - React</summary>
+        <!-- Schedule Table -->
+        <h2>Week 7 Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(8/16)</td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One</a></td>
+              <td>Project One</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(8/17)</td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One Presentations</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One Presentations</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One Presentations</a></td>
+              <td><a href="https://github.com/SEIR-7-06/project-one">Project One Presentations</a></td>
+              <!-- <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-props">React Intro Props</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-dinos-intro">React Dino Blog</a></td> -->
+              <td>Project One</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(8/18)</td>
+              <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
+              <td>Practice Building Components</td>
+              <!-- <td><a href="https://github.com/SEIR-7-06/react-lotr-lab">LotR w/Props</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-props">React Props Recipe App</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-state-counter">React State Counter</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-state-counter">Rebuild the React State Counter</a></td> -->
+              <td>React Intro</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(8/19)</td>
+              <td>Outcomes</td>
+              <td><a href="https://github.com/SEIR-7-06/react-props">React Props</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/react-props">React Props</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/react-dinos-intro">React Dino Blog</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/react-lotr-lab">LotR w/Props</a>
+              <!-- <td><a href="https://github.com/SEIR-7-06/react-simple-calc-lab">React State Calculator</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-todo-list">React State Todo List</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-todo-list">React State Todo List</a></td> -->
+              <td>React State</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(8/20)</td>
+              <td><a href="https://github.com/SEIR-7-06/react-state-counter">React State Counter</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-state-counter">React State Counter</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-state-counter">React State Counter</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-stopwatch">React Stopwatch</a></td>
+              <!-- <td><a href="https://github.com/SEIR-7-06/react-state">React State Recipe App</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-state">React State Recipe App</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-stopwatch">React Stopwatch</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-burger-stacker">React Burger Builder</a></td> -->
+              <td>React State</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 7 Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+<!--         <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>8/20</td>
+              <td><a href="">Placeholder</a></td>
+              <td>8/27</td>
+            </tr>
+          </tbody>
+        </table> -->
+      </details>
+    </li>
+  </ul>
+</details>
+<hr />
