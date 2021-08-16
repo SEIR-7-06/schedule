@@ -808,8 +808,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
           </tbody>
         </table>
-        <h2>Week 7 Deliverables</h2>
-        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<!--         <h2>Week 7 Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p> -->
         <!-- Deliverable Table -->
 <!--         <table>
           <thead>
