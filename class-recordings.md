@@ -282,12 +282,6 @@
                 - <a href="https://generalassembly.zoom.us/rec/share/ZIy1O1R17vDAgGg4fgVYsS9UlNoJHKYIKt5wzyIgaWlb56CUdWAkUhwztJfNpjEX.BXg_gFqghj95i_IN?startTime=1629219659000">Project One Presentations<a/>
                 <br>
             </td>
-            <td>
-            </td>
-            <td>
-            </td>
-            <td>
-            </td>
         </tr>
     </tbody>
 </table>
