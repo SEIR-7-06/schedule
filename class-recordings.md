@@ -266,5 +266,70 @@
                 <br>
             </td>
         </tr>
+        <!-- Week 7 -->
+        <tr>
+            <td>8/16</td>
+            <td>8/17</td>
+            <td>8/18</td>
+            <td>8/19</td>
+            <td>8/20</td>
+        </tr>
+        <tr>
+            <td>
+                Project One!
+            </td>
+            <td> 
+                - <a href="https://generalassembly.zoom.us/rec/share/ZIy1O1R17vDAgGg4fgVYsS9UlNoJHKYIKt5wzyIgaWlb56CUdWAkUhwztJfNpjEX.BXg_gFqghj95i_IN?startTime=1629219659000">Project One Presentations<a/>
+                <br>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Unit 3 - React                
+<table>
+    <!-- Monday - Friday -->
+    <thead>
+        <tr>
+            <td><strong>Monday</strong></td>
+            <td><strong>Tuesday</strong></td>
+            <td><strong>Wednesday</strong></td>
+            <td><strong>Thursday</strong></td>
+            <td><strong>Friday</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Week 7 -->
+        <tr>
+            <td>8/16</td>
+            <td>8/17</td>
+            <td>8/18</td>
+            <td>8/19</td>
+            <td>8/20</td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td> 
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br> 
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br> 
+            </td>
+            <td>
+                - <a href="#">Coming Soon!</a> 
+                <br> 
+            </td>
+        </tr>
     </tbody>
 </table>
