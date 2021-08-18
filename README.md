@@ -771,7 +771,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Wednesday</strong><br />(8/18)</td>
               <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
-              <td><a href="https://github.com/SEIR-7-06/react-intro">React Intro</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-dashboard">Lab: React Dashboard</a></td>
               <td>Practice Building Components</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/react-lotr-lab">LotR w/Props</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-props">React Props Recipe App</a></td>
