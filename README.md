@@ -787,9 +787,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>
               - <a href="https://github.com/SEIR-7-06/react-props">React Props</a>
               <br>
-              - <a href="https://github.com/SEIR-7-06/react-dinos-intro">React Dino Blog</a>
+              - <a href="https://github.com/SEIR-7-06/react-lotr-lab">LotR w/Props</a>
               </td>
-              <td><a href="https://github.com/SEIR-7-06/react-lotr-lab">LotR w/Props</a>
+              <td><a href="https://github.com/SEIR-7-06/react-dinos-intro">React Dino Blog</a></td>
               <!-- <td><a href="https://github.com/SEIR-7-06/react-simple-calc-lab">React State Calculator</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-todo-list">React State Todo List</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-todo-list">React State Todo List</a></td> -->
