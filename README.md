@@ -735,7 +735,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 7 - React</summary>
         <!-- Schedule Table -->
         <h2>Week 7 Schedule</h2>
-        - <a href="https://github.com/SEIR-7-06/intro-to-react-demo-code">Intro to React Demo Code</a>
+        <p><a href="https://github.com/SEIR-7-06/intro-to-react-demo-code">Intro to React Demo Code</a></p>
+        <p><a href="https://github.com/SEIR-7-06/react-props-demo-code">React Props Demo Code</a></p>
         <table>
           <thead>
             <tr>
