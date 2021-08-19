@@ -809,10 +809,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
           </tbody>
         </table>
-<!--         <h2>Week 7 Deliverables</h2>
-        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p> -->
+        <h2>Week 7 Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
         <!-- Deliverable Table -->
-<!--         <table>
+        <table>
           <thead>
             <tr>
               <td>Date Assigned</td>
@@ -822,12 +822,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           </thead>
           <tbody>
             <tr>
-              <td>8/20</td>
-              <td><a href="">Placeholder</a></td>
-              <td>8/27</td>
+              <td>8/19</td>
+              <td><a href="https://github.com/SEIR-7-06/react-props-lotr">React LotR</a></td>
+              <td>8/26</td>
             </tr>
           </tbody>
-        </table> -->
+        </table>
       </details>
     </li>
   </ul>
