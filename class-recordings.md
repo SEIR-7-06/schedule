@@ -313,7 +313,11 @@
             <td> 
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/BhE-f6zmqoOB83CiYHU8LW7hWddxAPdYHLE8x-VNqNFaILlZtONjeQ0uiFUswycP.v6VcHkJD2X_Jtacv?startTime=1629302553000">Intro to React</a> 
+                <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/BhE-f6zmqoOB83CiYHU8LW7hWddxAPdYHLE8x-VNqNFaILlZtONjeQ0uiFUswycP.v6VcHkJD2X_Jtacv?startTime=1629316904000">Lab: Dashboard</a> 
+                <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/BhE-f6zmqoOB83CiYHU8LW7hWddxAPdYHLE8x-VNqNFaILlZtONjeQ0uiFUswycP.v6VcHkJD2X_Jtacv?startTime=1629327678000">Review</a>
                 <br> 
             </td>
             <td> 
