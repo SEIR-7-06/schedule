@@ -823,7 +823,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
           <tbody>
             <tr>
               <td>8/19</td>
-              <td><a href="https://github.com/SEIR-7-06/react-props-lotr">React LotR</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-props-lotr">LotR w/Props</a></td>
               <td>8/26</td>
             </tr>
           </tbody>
