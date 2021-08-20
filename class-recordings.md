@@ -321,8 +321,8 @@
                 <br> 
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
-                <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/kyfF1X9TE0D58eKPSt7nz5lppj5V54mccniRsBRDfHW1zSSFrF4QeOoZ2Py14WjN.nToYCLguEaerEd1q?startTime=1629395177000">React Props</a> 
+                <br>
             </td>
             <td>
                 - <a href="#">Coming Soon!</a> 
