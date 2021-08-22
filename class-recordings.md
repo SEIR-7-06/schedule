@@ -325,8 +325,9 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/AnvfTkj7tA54WeKNEjDFObFY1_iHIr3cB4hZjcMykdJedW0ReUMJ2dMAZmLssKVa.J2S3GVWg4vH82gxL?startTime=1629475977000">React State Counter</a> 
                 <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/AnvfTkj7tA54WeKNEjDFObFY1_iHIr3cB4hZjcMykdJedW0ReUMJ2dMAZmLssKVa.J2S3GVWg4vH82gxL?startTime=1629489653000">React State Counter Cont.</a> 
             </td>
         </tr>
         <!-- Week 8 -->
@@ -339,10 +340,6 @@
         </tr>
         <tr>
             <td> 
-                - <a href="https://generalassembly.zoom.us/rec/share/AnvfTkj7tA54WeKNEjDFObFY1_iHIr3cB4hZjcMykdJedW0ReUMJ2dMAZmLssKVa.J2S3GVWg4vH82gxL?startTime=1629475977000">React State Counter</a> 
-                <br> 
-                - <a href="https://generalassembly.zoom.us/rec/share/AnvfTkj7tA54WeKNEjDFObFY1_iHIr3cB4hZjcMykdJedW0ReUMJ2dMAZmLssKVa.J2S3GVWg4vH82gxL?startTime=1629489653000">React State Counter Cont.</a> 
-                <br> 
                 - <a href="#">Coming Soon!</a> 
                 <br> 
             </td>
