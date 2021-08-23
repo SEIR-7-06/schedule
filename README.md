@@ -838,6 +838,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 8 - React Continued</summary>
         <h2>Week 8 - Schedule</h2>
         <!-- Schedule Table -->
+        <p><a href="https://github.com/SEIR-7-06/react-todo-demo-code">React Todo Demo Code</a></p>
         <table>
           <thead>
             <tr>
