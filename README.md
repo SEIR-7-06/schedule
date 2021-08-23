@@ -855,7 +855,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Monday</strong><br />(8/23)</td>
               <td><a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a></td>
               <td><a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a></td>
-              <td><a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/react-atm">React ATM</a>
+              </td>
               <td><a href="https://github.com/SEIR-7-06/react-atm">React ATM</a></td>
               <td>React State</td>
             </tr>
