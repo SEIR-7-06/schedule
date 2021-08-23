@@ -887,9 +887,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Friday</strong><br />(8/27)</td>
               <td><a href="https://github.com/SEIR-7-06/react-component-lifecycle-remote">React Lifecycle</a></td>
-              <td><a href="#">React AJAX</a></td>
-              <td><a href="#">Lab: React AJAX</a></td>
-              <td>-</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-apis">React AJAX & APIs</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-giphy-lab">Lab: React Giphy</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-ajax-swapi">React Star Wars API</a></td>
               <td>React Lifecycle</td>
             </tr>
           </tbody>
