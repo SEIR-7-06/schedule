@@ -832,6 +832,94 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <!-- Week 8 Dropdown -->
+    <li>
+      <details>
+        <summary>Week 8 - React Continued</summary>
+        <h2>Week 8 - Schedule</h2>
+        <!-- Schedule Table -->
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(8/23)</td>
+              <td><a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-todo-lesson">React Todo List</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-atm">React ATM</a></td>
+              <td>React State</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(8/24)</td>
+              <td><a href="https://github.com/SEIR-7-06/recipe-app-components">Recipe App Components</a></td>
+              <td><a href="https://github.com/SEIR-7-06/recipe-app-components">Recipe App Components</a></td>
+              <td>Array Iterator Methods</td>
+              <td>Array Iterator Methods</td>
+              <td>React Components</td>
+            </tr>
+            <tr>
+              <tr>
+                <td><strong>Wednesday</strong><br />(8/25)</td>
+                <td><a href="#">CS Topics: Linked List</a></td>
+                <td><a href="https://github.com/SEIR-7-06/recipe-app-props">Recipe App Props</a></td>
+                <td><a href="https://github.com/SEIR-7-06/react-nestedprops">Lab: React Nested Props</a></td>
+                <td>-</td>
+                <td>React Props</td>
+              </tr>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(8/26)</td>
+              <td>Outcomes</td>
+              <td><a href="https://github.com/SEIR-7-06/recipe-app-state">Recipe App State</a></td>
+              <td><a href="https://github.com/SEIR-7-06/recipe-app-state">Recipe App State</a></td>
+              <td>Burger Stacker</td>
+              <td>React State</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(8/27)</td>
+              <td><a href="https://github.com/SEIR-7-06/react-component-lifecycle-remote">React Lifecycle</a></td>
+              <td><a href="#">React AJAX</a></td>
+              <td><a href="#">Lab: React AJAX</a></td>
+              <td>-</a></td>
+              <td>React Lifecycle</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 8 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>8/23</td>
+              <td><a href="https://github.com/SEIR-7-06/react-atm">React ATM</a></td>
+              <td>8/30</td>
+            </tr>
+            <tr>
+              <td>8/25</td>
+              <td><a href="https://github.com/SEIR-7-06/react-burger-stacker">React Burger Stacker</a></td>
+              <td>9/1</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
