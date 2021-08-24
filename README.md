@@ -839,8 +839,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <h2>Week 8 - Schedule</h2>
         <!-- Schedule Table -->
         <a href="https://github.com/SEIR-7-06/recipe-app-demo-code">Recipe App Demo Code</a><br>
-        <a href="https://github.com/SEIR-7-06/array-methods-demo-code">Array Methods Demo Code</a><br>
         <a href="https://github.com/SEIR-7-06/react-todo-demo-code">React Todo Demo Code</a><br><br>
+        <a href="https://github.com/SEIR-7-06/array-methods-demo-code">Array Methods Demo Code</a><br>
+        <a href="https://github.com/SEIR-7-06/react-array-methods">React Arrays Demo Code</a><br>
         <table>
           <thead>
             <tr>
