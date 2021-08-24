@@ -343,8 +343,7 @@
                 - <a href="https://generalassembly.zoom.us/rec/share/Pz4qXNleUtcj5lYmnWbNABfBTBYNqIM-bTNvIR_V_lGbuMOZL9dQ-2Rw24M87SqC.yHL5rwqQ3YBiSvge?startTime=1629734568000">React To Do List</a> 
                 <br> 
                 - <a href="https://generalassembly.zoom.us/rec/share/Pz4qXNleUtcj5lYmnWbNABfBTBYNqIM-bTNvIR_V_lGbuMOZL9dQ-2Rw24M87SqC.yHL5rwqQ3YBiSvge?startTime=1629758834000">Review</a> 
-                <br> 
-                
+                <br>
             </td>
             <td> 
                 - <a href="#">Coming Soon!</a> 
