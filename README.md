@@ -920,11 +920,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/react-atm">React ATM</a></td>
               <td>8/30</td>
             </tr>
-            <tr>
+<!--             <tr>
               <td>8/25</td>
               <td><a href="https://github.com/SEIR-7-06/react-burger-stacker">React Burger Stacker</a></td>
               <td>9/1</td>
-            </tr>
+            </tr> -->
           </tbody>
         </table>
       </details>
