@@ -867,8 +867,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Tuesday</strong><br />(8/24)</td>
               <td><a href="https://github.com/SEIR-7-06/recipe-app-components">Recipe App Components</a></td>
               <td><a href="https://github.com/SEIR-7-06/recipe-app-components">Recipe App Components</a></td>
-              <td>Array Iterator Methods</td>
-              <td>Array Iterator Methods</td>
+              <td>
+              - Array Iterator Methods
+              <br>
+                - <a href="https://github.com/SEIR-7-06/array-methods-react">Array Iterators Lab</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/array-methods-react">Array Iterators Lab</a></td>
               <td>React Components</td>
             </tr>
             <tr>
