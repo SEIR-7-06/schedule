@@ -346,8 +346,10 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/D8g8Ad_MQ8tkVUq_NrXznemu2renB0sibM8f-i270hlRFl8J0Yu2uad_qYnSB5i-.0YWXaUtdRsWpH2-r?startTime=1629820896000">Recipe App: Components</a> 
                 <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/D8g8Ad_MQ8tkVUq_NrXznemu2renB0sibM8f-i270hlRFl8J0Yu2uad_qYnSB5i-.0YWXaUtdRsWpH2-r?startTime=1629826808000">Array Iterator Methods</a> 
+                <br>
             </td>
             <td> 
                 - <a href="#">Coming Soon!</a> 
