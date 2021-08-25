@@ -881,7 +881,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <tr>
                 <td><strong>Wednesday</strong><br />(8/25)</td>
-                <td>CS Topics: Linked List</td>
+                <td><a href="https://github.com/SEIR-7-06/js-linked-list">CS Topics: Linked List</a></td>
                 <td><a href="https://github.com/SEIR-7-06/recipe-app-props">Recipe App Props</a></td>
                 <td><a href="https://github.com/SEIR-7-06/react-nestedprops">Lab: React Nested Props</a></td>
                 <td>-</td>
