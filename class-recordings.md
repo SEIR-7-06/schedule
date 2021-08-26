@@ -352,7 +352,9 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/bBEQY5qJdppMtSxsQ34mZ0vfCtJ0ulgQM1TNodtesxdLeY8Sq9MFfTklknKIg3Xr.DkbGSqW39tiQsXyV?startTime=1629907413000">CS Topics: Linked List</a> 
+                <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/bBEQY5qJdppMtSxsQ34mZ0vfCtJ0ulgQM1TNodtesxdLeY8Sq9MFfTklknKIg3Xr.DkbGSqW39tiQsXyV?startTime=1629921675000">Recipe App: Props</a> 
                 <br> 
             </td>
             <td> 
