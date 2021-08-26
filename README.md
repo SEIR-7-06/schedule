@@ -893,7 +893,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/recipe-app-state">Recipe App State</a></td>
               <td><a href="https://github.com/SEIR-7-06/recipe-app-state">Recipe App State</a></td>
-              <td>Burger Stacker</td>
+              <td><a href="https://github.com/SEIR-7-06/react-burger-stacker">Burger Stacker</a></td>
               <td>React State</td>
             </tr>
             <tr>
