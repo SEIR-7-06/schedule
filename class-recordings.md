@@ -358,11 +358,11 @@
                 <br> 
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/AMpA0X4SdO-CLkyEQoqDi59Is9yzC5_Go5-R16uWimc60VRKK6Qz10uxiaqzgk3C.o6YOJSmt4xY1LB7J?startTime=1630000071000">Recipe App: State</a> 
                 <br> 
             </td>
             <td>
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/AMpA0X4SdO-CLkyEQoqDi59Is9yzC5_Go5-R16uWimc60VRKK6Qz10uxiaqzgk3C.o6YOJSmt4xY1LB7J?startTime=1630008027000">Props Review</a> 
                 <br> 
             </td>
         </tr>
