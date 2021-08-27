@@ -928,7 +928,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>8/30</td>
             </tr>
             <tr>
-              <td>8/25</td>
+              <td>8/27</td>
               <td><a href="https://github.com/SEIR-7-06/react-giphy">React Giphy</a></td>
               <td>9/1</td>
             </tr>
