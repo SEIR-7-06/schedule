@@ -364,7 +364,11 @@
                 <br> 
             </td>
             <td>
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/T-K-yed2U65BprJGLabIg4xYNxJDuPAu5UlWHoQz9riVNGVlycZDtlP5fkJQn1Lk.9TXsj8PKKh2iJqJd?startTime=1630080919000">Burger Stacker Review</a> 
+                <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/T-K-yed2U65BprJGLabIg4xYNxJDuPAu5UlWHoQz9riVNGVlycZDtlP5fkJQn1Lk.9TXsj8PKKh2iJqJd?startTime=1630085473000">React Component Lifecycle</a> 
+                <br> 
+                - <a href="https://generalassembly.zoom.us/rec/share/T-K-yed2U65BprJGLabIg4xYNxJDuPAu5UlWHoQz9riVNGVlycZDtlP5fkJQn1Lk.9TXsj8PKKh2iJqJd?startTime=1630088745000">React AJAX & APIs</a> 
                 <br> 
             </td>
         </tr>
