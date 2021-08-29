@@ -990,7 +990,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(9/3)</td>
-              <td>Technical Interview Prep</td>
+              <td>Tech Interview Prep</td>
               <td>React Project</td>
               <td>React Project</td>
               <td>React Project</td>
