@@ -936,6 +936,89 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <li>
+      <details>
+        <summary>Week 9 - React & Project Time</summary>
+        <!-- Schedule Table -->
+        <br>
+        <strong>No Outcomes this Week</strong>
+        <br>
+        <h2>Week 9 - Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(8/30)</td>
+              <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react-router-intro">React Router</a></td>
+              <td>React Router</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(8/31)</td>
+              <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React Todo w/API</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React Todo w/API</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React Todo w/API</a></td>
+              <td><a href="https://github.com/SEIR-7-06/react_todo_walkthrough">React Todo w/API</a></td>
+              <td>React connected w/Backend</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(9/1)</td>
+              <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
+              <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
+              <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
+              <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
+              <td>Full Stack React</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(9/2)</td>
+              <td>Introduce React Project</td>
+              <td>React Project</td>
+              <td>React Project</td>
+              <td>React Project</td>
+              <td>React Project</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(9/3)</td>
+              <td>Technical Interview Prep</td>
+              <td>React Project</td>
+              <td>React Project</td>
+              <td>React Project</td>
+              <td>React Project</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 9 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>9/2</td>
+              <td>React Project</td>
+              <td>9/9</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
