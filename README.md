@@ -963,7 +963,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td>
               - Review and Lab Time
               <br>
-              - <a href="https://github.com/SEIR-7-06/react-giphy"React Giphy</a>
+              - <a href="https://github.com/SEIR-7-06/react-giphy">React Giphy</a>
               <br>
               - <a href="https://github.com/SEIR-7-06/react-burger-stacker">Burger Stacker</a>
               </td>
