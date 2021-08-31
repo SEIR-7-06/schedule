@@ -372,5 +372,39 @@
                 <br> 
             </td>
         </tr>
+        <!-- Week 8 -->
+        <tr>
+            <td>8/30</td>
+            <td>8/31</td>
+            <td>9/1</td>
+            <td>9/2</td>
+            <td>9/3</td>
+        </tr>
+        <tr>
+            <td> 
+                - <a href="https://generalassembly.zoom.us/rec/share/VIoHgctc2Eq-bXFamKZ1RfpAE2_yjb3tRsQUJ10s72wbSpp6jMIgUdQfeIqfogkw.VTvL5tLTBNdKTvyu?startTime=1630339316000">React Router</a> 
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br>
+            </td>
+            <td>
+                - <a href="#">Coming Soon!</a> 
+                <br>
+            </td>
+        </tr>
     </tbody>
 </table>
+                
+                
+                
+                
