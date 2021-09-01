@@ -943,6 +943,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <br>
         <strong>No Outcomes this Week</strong>
         <br>
+        <a href="https://github.com/SEIR-7-06/mern-api-starter-code">MERN API Starter Code</a><br>
+        <a href="https://github.com/SEIR-7-06/mern-react-starter-code">MERN React Starter Code</a><br>
+        <a href="https://github.com/SEIR-7-06/recipe-app-demo-code">Recipe App Demo Code</a><br>
         <h2>Week 9 - Schedule</h2>
         <table>
           <thead>
