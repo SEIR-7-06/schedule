@@ -986,7 +986,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
               <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
               <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
-              <td><a href="https://github.com/SEIR-7-06/building-a-mern-app">MERN App (Fullstack)</a></td>
+              <td><a href="https://github.com/SEIR-7-06/mern-album-app">MERN Album Collector</a></td>
               <td>Full Stack React</td>
             </tr>
             <tr>
