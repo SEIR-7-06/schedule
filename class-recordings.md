@@ -386,7 +386,7 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/jx1qsiWCY4VEBdXKc6Ju1daGpPrzsMbDgv5de-mI-b5sPrchSz1dIuDtIeFq7Zs.CMCPO3Hm9Ys48JDz?startTime=1630425801000">React Todo Walkthrough Intro</a> 
                 <br>
             </td>
             <td> 
