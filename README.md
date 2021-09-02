@@ -991,8 +991,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(9/2)</td>
+              <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Github Collaboration</a></td>
               <td>Introduce React Project</td>
-              <td>React Project</td>
               <td>React Project</td>
               <td>React Project</td>
               <td>React Project</td>
