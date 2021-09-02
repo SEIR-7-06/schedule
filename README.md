@@ -992,17 +992,17 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Thursday</strong><br />(9/2)</td>
               <td><a href="https://github.com/SEIR-7-06/Github-collaboration-guide">Github Collaboration</a></td>
-              <td>Introduce React Project</td>
-              <td>React Project</td>
-              <td>React Project</td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Introduce React Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">React Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">React Project</a></td>
               <td>React Project</td>
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(9/3)</td>
               <td>Tech Interview Prep</td>
-              <td>React Project</td>
-              <td>React Project</td>
-              <td>React Project</td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">React Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">React Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">React Project</a></td>
               <td>React Project</td>
             </tr>
           </tbody>
