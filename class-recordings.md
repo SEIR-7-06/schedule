@@ -390,7 +390,7 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/xP3pm6ZudalE_4poT-yndVL_SYBPCXZPN1CQvM4aeXpn144mpLn2buvwbTrkGcGk.pNYKrx8pH6HlBqQu?startTime=1630513860000">MERN App (Full stack)</a> 
                 <br>
             </td>
             <td> 
