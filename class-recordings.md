@@ -394,7 +394,9 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/W1VyJSABQVnyApmeb9G-nMO6GDCwpsD6Q7HHdTyVudCHLZQllKJOKO5j0y5Apf4.v33rmqw4HBAtBPwB?startTime=1630598471000">Github Collaboration</a> 
+                <br>
+                - <a href="https://generalassembly.zoom.us/rec/share/W1VyJSABQVnyApmeb9G-nMO6GDCwpsD6Q7HHdTyVudCHLZQllKJOKO5j0y5Apf4.v33rmqw4HBAtBPwB?startTime=1630603950000">Project Wayfarer Introduction</a> 
                 <br>
             </td>
             <td>
