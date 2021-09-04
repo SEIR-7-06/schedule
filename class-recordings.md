@@ -400,7 +400,7 @@
                 <br>
             </td>
             <td>
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/cIRr1EBrVOl2EU0NEebOL_Wd3WXisjtLuhEyY_z-jDip3BfGXD7uxW6cM-t-kIm3.NA9P3Qo3wajU1jcb?startTime=1630684974000">Technical Interview Prep</a> 
                 <br>
             </td>
         </tr>
