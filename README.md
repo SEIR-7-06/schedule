@@ -1094,11 +1094,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br>
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
               </td> -->
-              <td>Data Structure Lightning Learns</td>
-              <td>Data Structure Lightning Learns</td>
-              <td>Data Structure Lightning Learns</td>
-<!--               <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
-              <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td> -->
+              <td>Data Structures Lightning Learns</td>
+              <td>Data Structures Lightning Learns</td>
+              <td>Data Structures Lightning Learns</td>
+<!--               <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structures Research Assignment</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structures Research Assignment</a></td> -->
               <td>Interview Prep</td>
             </tr>
           </tbody>
