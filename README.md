@@ -1033,6 +1033,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 10 - React Project</summary>
         <!-- Schedule Table -->
         <h2>Week 10 Schedule</h2>
+        <br/>
+        <a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Express Deploy</a>
+        <br/>
+        <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy</a>
+        <br/>
         <table>
           <thead>
             <tr>
@@ -1057,11 +1062,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Tuesday</strong><br />(9/7)</td>
               <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
               <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy</a>
-              <br/>
-              - <a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Express Deploy</a>
-              </td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
               <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
               <td>React Project</td>
             </tr>
