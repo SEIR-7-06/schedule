@@ -1034,9 +1034,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <!-- Schedule Table -->
         <h2>Week 10 Schedule</h2>
         <br/>
-        <a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Express Deploy</a>
+        <a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Express Deploy Steps</a>
         <br/>
-        <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy</a>
+        <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy Steps</a>
         <br/>
         <table>
           <thead>
