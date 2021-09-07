@@ -1028,6 +1028,102 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+     <li>
+      <details> 
+        <summary>Week 10 - React Project</summary>
+        <!-- Schedule Table -->
+        <h2>Week 10 Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(9/6)</td>
+              <td>Holiday</td>
+              <td>Holiday</td>
+              <td>Holiday</td>
+              <td>Holiday</td>
+              <td>Holiday</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(9/7)</td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy</a>
+              <br/>
+              - <a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Express Deploy</a>
+              </td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td>React Project</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(9/8)</td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
+              <td>React Project</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(9/9)</td>
+              <td><a href="https://generalassembly.zoom.us/j/6432485771?pwd=MlRKNlVQbHVrV0p5eWdHMEFZTzJsUT09">Outcomes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
+              <td>React Project</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(9/10)</td>
+              <td>Coding Challenge
+              <td>Morning Activity</td>
+              <td>Morning Activity</td>
+<!--               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
+              </td>
+              <td>Coding Challenge
+              - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
+              </td> -->
+              <td>Data Structure Lightning Learns</td>
+              <td>Data Structure Lightning Learns</td>
+<!--               <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td> -->
+              <td>Interview Prep</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 10 Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>9/2</td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
+              <td>6/9</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
