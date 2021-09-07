@@ -1117,7 +1117,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td>9/2</td>
               <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
-              <td>6/9</td>
+              <td>9/9</td>
             </tr>
           </tbody>
         </table>
