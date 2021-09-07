@@ -1084,7 +1084,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Friday</strong><br />(9/10)</td>
               <td>Morning Activity</td>
-              <td>Morning Activity</td>
 <!--               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
               <br>
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
@@ -1094,6 +1093,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br>
               - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
               </td> -->
+              <td>Data Structure Lightning Learns</td>
               <td>Data Structure Lightning Learns</td>
               <td>Data Structure Lightning Learns</td>
 <!--               <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structure Research Assignment</a></td>
