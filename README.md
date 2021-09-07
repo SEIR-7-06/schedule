@@ -1077,9 +1077,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Thursday</strong><br />(9/9)</td>
               <td><a href="https://generalassembly.zoom.us/j/6432485771?pwd=MlRKNlVQbHVrV0p5eWdHMEFZTzJsUT09">Outcomes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Wayfarer</a></td>
               <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
-              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
-              <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
+              <td>Rest</td>
               <td>React Project</td>
             </tr>
             <tr>
