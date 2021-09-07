@@ -1083,7 +1083,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(9/10)</td>
-              <td>Coding Challenge
               <td>Morning Activity</td>
               <td>Morning Activity</td>
 <!--               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
