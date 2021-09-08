@@ -404,6 +404,25 @@
                 <br>
             </td>
         </tr>
+        <tr>
+            <td> 
+                Labor Day!
+            </td>
+            <td> 
+                - <a href="https://generalassembly.zoom.us/rec/share/4wftuC0jy-Iw5Jz5h1NjXSqgReQHhCi3BWdFB4dAjf94y51I-dvkf6E8A5tsflwe.bxavKzvjNWXzxBMu?startTime=1631050420000">MERN Deploy Jam</a> 
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br>
+            </td>
+            <td> 
+                - <a href="#">Coming Soon!</a> 
+                <br>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
                 
