@@ -404,6 +404,14 @@
                 <br>
             </td>
         </tr>
+        <!-- Week 9 -->
+        <tr>
+            <td>9/6</td>
+            <td>9/7</td>
+            <td>9/8</td>
+            <td>9/9</td>
+            <td></td>
+        </tr>
         <tr>
             <td> 
                 Labor Day!
