@@ -421,7 +421,7 @@
                 <br>
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/VHFW3njPaSnXL-eOuslNnZ-tfOpYO-gZSF4-cB5z6gx_IEl6w_-NrGwRENYDyBQy.Z3Sci-JVZ8Fnn70T?startTime=1631217734000">Project Wayfarer Presentations</a> 
                 <br>
             </td>
             <td> 
