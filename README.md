@@ -1084,16 +1084,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(9/10)</td>
-              <td>Morning Activity</td>
-<!--               - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/Code-Challenges-A">Coding Challenges A</a>
               <br>
-              - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>
+              - <a href="https://github.com/SEIR-7-06/Code-Challenges-B">Coding Challenges B</a>
               </td>
-              <td>Coding Challenge
-              - <a href="https://github.com/SEIR-7-06/Technical-Interview-A">Technical Interview A</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/Technical-Interview-B">Technical Interview B</a>  
-              </td> -->
               <td>Data Structures Lightning Learns</td>
               <td>Data Structures Lightning Learns</td>
               <td>Data Structures Lightning Learns</td>
