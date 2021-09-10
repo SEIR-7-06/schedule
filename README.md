@@ -1113,6 +1113,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/Project-Wayfarer">Project Presentations</a></td>
               <td>9/9</td>
             </tr>
+            <tr>
+              <td>9/10</td>
+              <td><a href="https://github.com/SEIR-7-06/Computer-Science-Lightning-Learns">Data Structures Research Assignment</a></td>
+              <td>9/13</td>
+            </tr>
           </tbody>
         </table>
       </details>
