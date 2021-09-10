@@ -372,7 +372,7 @@
                 <br> 
             </td>
         </tr>
-        <!-- Week 8 -->
+        <!-- Week 9 -->
         <tr>
             <td>8/30</td>
             <td>8/31</td>
@@ -404,7 +404,7 @@
                 <br>
             </td>
         </tr>
-        <!-- Week 9 -->
+        <!-- Week 10 -->
         <tr>
             <td>9/6</td>
             <td>9/7</td>
@@ -421,11 +421,10 @@
                 <br>
             </td>
             <td> 
-                - <a href="https://generalassembly.zoom.us/rec/share/VHFW3njPaSnXL-eOuslNnZ-tfOpYO-gZSF4-cB5z6gx_IEl6w_-NrGwRENYDyBQy.Z3Sci-JVZ8Fnn70T?startTime=1631217734000">Project Wayfarer Presentations</a> 
-                <br>
+                Project Wayfarer 
             </td>
             <td> 
-                - <a href="#">Coming Soon!</a> 
+                - <a href="https://generalassembly.zoom.us/rec/share/VHFW3njPaSnXL-eOuslNnZ-tfOpYO-gZSF4-cB5z6gx_IEl6w_-NrGwRENYDyBQy.Z3Sci-JVZ8Fnn70T?startTime=1631217734000">Project Wayfarer Presentations</a> 
                 <br>
             </td>
             <td>
@@ -434,6 +433,73 @@
     </tbody>
 </table>
                 
+### Unit 4 - Python, CS Topics, and Final Project       
+<table>
+    <!-- Monday - Friday -->
+    <thead>
+        <tr>
+            <td><strong>Monday</strong></td>
+            <td><strong>Tuesday</strong></td>
+            <td><strong>Wednesday</strong></td>
+            <td><strong>Thursday</strong></td>
+            <td><strong>Friday</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Week 10 -->
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>9/10</td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+                <br/>
+            </td>
+        </tr>
+        <!-- Week 11 -->
+        <tr>
+            <td>9/13</td>
+            <td>9/14</td>
+            <td>9/15</td>
+            <td>9/16</td>
+            <td>9/17</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="#">Coming Soon!</a>
+                <br/>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+                <br/>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+                <br/>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+                <br/>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+                <br/>
+            </td>
+        </tr>
+    </tbody>
+</table>
                 
                 
                 
