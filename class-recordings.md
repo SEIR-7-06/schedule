@@ -464,7 +464,9 @@
             <td>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                <a href="https://generalassembly.zoom.us/rec/share/TNKWQlv16cMbTeC6F5Q_ZBMg_WWEHNHZ9SaaRito5ytukoRMNNc9iHe65wh-DsM.TlNzj2HgBmL0BZtE?startTime=1631289728000">Coding Challenges</a>
+                <br/>
+                <a href="https://generalassembly.zoom.us/rec/share/TNKWQlv16cMbTeC6F5Q_ZBMg_WWEHNHZ9SaaRito5ytukoRMNNc9iHe65wh-DsM.TlNzj2HgBmL0BZtE?startTime=1631297950000">Data Structures Research Assignment Intro</a>
                 <br/>
             </td>
         </tr>
