@@ -1174,38 +1174,25 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Tuesday</strong><br />(9/14)</td>
               <td>
-              - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a>
-              <br>
-              - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
+<!--               - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a> -->
+              <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
               </td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/lists-ranges/blob/master/main.py">Lists & Ranges Demo Code</a>
-              </td>
+              <td><a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a></td>
               <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
               <td><a href="https://github.com/SEIR-7-06/state-capitals">Lab: State Capitals</a></td>
               <td>Python</td>
             </tr>
             <tr>
               <td><strong>Wednesday</strong><br />(9/15)</td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
-              </td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/python-oop-demo">Python OOP Demo Code</a>
-              </td>
+              <td><a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a></td>
+              <td><a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a></td>
               <td>
               - <a href="https://github.com/SEIR-7-06/python-oop">Python OOP</a>
               <br>
               - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
               </td>
               <td>
-              - <a href="https://github.com/SEIR-7-06/codebar">Codebar</a>
+              - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
               <br>
               - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
               </td>
