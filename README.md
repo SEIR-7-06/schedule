@@ -1128,7 +1128,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       </details>
     </li>
   </ul>
-  <!-- Unit 4 Dropdown -->
+</details>
+<!-- Unit 4 Dropdown -->
 <details>
   <summary><strong>Unit 4</strong> - Python, CS Topics, and Final Project</summary>
   <ul type="none">
