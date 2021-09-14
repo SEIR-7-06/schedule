@@ -48,21 +48,21 @@
     </tr>
     <tr>
       <td align="center">9</td>
+      <td>Client Side Routing<br>Full-stack React</td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
       <td>Git Collaboration<br>Project Week</td>
     </tr>
     <tr>
-      <td rowspan="3">Second Language & Web Framework</td>
-      <td align="center">10</td>
+      <td rowspan="3">Second Language & Final Project</td>
+      <td align="center">11</td>
       <td>Data Structures<br>Fundamentals of Python<br>Relational Databases & SQL<br>CS Topics</td>
       <td rowspan="3">Final Solo Project</td>
     </tr>
     <tr>
-      <td align="center">11</td>
-      <td>Authentication w/Tokens<br>CS Topics<br>Final Project</td>
-    </tr>
-    <tr>
       <td align="center">12</td>
-      <td>Project Week</td>
+      <td>Authentication w/Tokens<br>CS Topics<br>Final Project</td>
     </tr>
   </tbody>
 </table>
