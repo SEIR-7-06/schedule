@@ -1180,7 +1180,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
                 - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a></td>
-              <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Lab: Python Lists & Ranges</a>
+              <br>
+              - <a href="https://github.com/SEIR-7-06/python-control-flow-lab">Lab: Control Flow</a>
+              </td>
               <td><a href="https://github.com/SEIR-7-06/state-capitals">Lab: State Capitals</a></td>
               <td>Python</td>
             </tr>
