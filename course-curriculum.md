@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td align="center">12</td>
-      <td>Authentication w/Tokens<br>CS Topics<br>Final Project</td>
+      <td>Authentication w/Tokens<br>Final Project</td>
     </tr>
   </tbody>
 </table>
