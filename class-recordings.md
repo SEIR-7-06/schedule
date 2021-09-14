@@ -480,7 +480,11 @@
         </tr>
         <tr>
             <td>
-                <a href="#">Coming Soon!</a>
+                <a href="https://generalassembly.zoom.us/rec/share/2RocTsEHW5i6exrIVRLcphwZrA5RUMi34D_ZkVyXqnG5M8sVl7UU2JKdcRZ9SO7B.rguEMmBrq3dpesMj?startTime=1631548902000">Data Structures Lightning Learns</a>
+                <br/>
+                <a href="https://generalassembly.zoom.us/rec/share/2RocTsEHW5i6exrIVRLcphwZrA5RUMi34D_ZkVyXqnG5M8sVl7UU2JKdcRZ9SO7B.rguEMmBrq3dpesMj?startTime=1631555149000">Intro to Python</a>
+                <br/>
+                <a href="https://generalassembly.zoom.us/rec/share/2RocTsEHW5i6exrIVRLcphwZrA5RUMi34D_ZkVyXqnG5M8sVl7UU2JKdcRZ9SO7B.rguEMmBrq3dpesMj?startTime=1631573259000">Lab Review</a>
                 <br/>
             </td>
             <td>
