@@ -37,10 +37,10 @@
       <td>CS Topics<br>Project Week<br>Project Deployment to Heroku<br/>Authentication w/Sessions</td>
     </tr>
     <tr>
-      <td rowspan="3">Developing Single-page Apps</td>
+      <td rowspan="4">Developing Single-page Apps</td>
       <td align="center">7</td>
       <td>SPA Architecture<br>ReactJS Library</td>
-      <td rowspan="3">Full-stack MERN Application</td>
+      <td rowspan="4">Full-stack MERN Application</td>
     </tr>
     <tr>
       <td align="center">8</td>
