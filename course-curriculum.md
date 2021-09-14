@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td align="center">11</td>
-      <td>Flask<br>Authentication w/Tokens<br>CS Topics<br>Final Project</td>
+      <td>Authentication w/Tokens<br>CS Topics<br>Final Project</td>
     </tr>
     <tr>
       <td align="center">12</td>
