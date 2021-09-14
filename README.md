@@ -1175,7 +1175,9 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Tuesday</strong><br />(9/14)</td>
               <td>
 <!--               - <a href="https://repl.it/@KennethBushman/wc-weir-1207#script.js">Big O Notation</a> -->
-              <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
+                - <a href="https://github.com/SEIR-7-06/algorithm-complexity">Big O and Algorithm Complexity</a>
+                <br/>
+                - <a href="https://www.bigocheatsheet.com/">Big O Cheat Sheet</a>
               </td>
               <td><a href="https://github.com/SEIR-7-06/lists-ranges">Python Lists & Ranges</a></td>
               <td><a href="https://github.com/SEIR-7-06/lists_and_ranges_pylab">Python Lists & Ranges Lab</a></td>
