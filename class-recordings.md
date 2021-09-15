@@ -488,7 +488,11 @@
                 <br/>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                <a href="https://generalassembly.zoom.us/rec/share/JBsqpA_lz89ffbQYTxTmcHT63PWm1Esw730mGWyeJVwdixfprjqgEyKwajBpfvl1.nmVNDCDcp_pW56cf?startTime=1631635405000">Big O & Python Lists & Ranges</a>
+                <br/>
+                <a href="https://generalassembly.zoom.us/rec/share/JBsqpA_lz89ffbQYTxTmcHT63PWm1Esw730mGWyeJVwdixfprjqgEyKwajBpfvl1.nmVNDCDcp_pW56cf?startTime=1631649645000">Python Lists & Ranges</a>
+                <br/>
+                <a href="https://generalassembly.zoom.us/rec/share/JBsqpA_lz89ffbQYTxTmcHT63PWm1Esw730mGWyeJVwdixfprjqgEyKwajBpfvl1.nmVNDCDcp_pW56cf?startTime=1631659850000">Lab Review</a>
                 <br/>
             </td>
             <td>
