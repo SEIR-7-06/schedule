@@ -1262,11 +1262,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://my.generalassemb.ly/">Reading: MyGA Algorithms - Introduction to Sorting Algorithms</a></td>
               <td>9/17</td>
             </tr>
-<!--             <tr>
+            <tr>
               <td>9/16</td>
               <td><a href="https://github.com/SEIR-7-06/final-project-soft-pitch">Final Project Soft Pitch</a></td>
               <td>9/23</td>
-            </tr> -->
+            </tr>
           </tbody>
         </table>
       </details>
