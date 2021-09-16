@@ -496,7 +496,7 @@
                 <br/>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                <a href="https://generalassembly.zoom.us/rec/share/p9RvylTFJ98qDLbBv3IzHNzbEYkihMj3OQ5lLXnHvQEVCMUQR3u-lYRcfg-Nc4Zu.e1zzfbJbo8eS6aje?startTime=1631726015000">Python OOP</a>
                 <br/>
             </td>
             <td>
