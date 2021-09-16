@@ -1197,11 +1197,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <br>
               - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
               </td>
-              <td>
-              - <a href="https://github.com/SEIR-7-06/codebar">Lab: Codebar</a>
-              <br>
-              - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
-              </td>
+              <td><a href="https://github.com/SEIR-7-06/final-project-soft-pitch">Final Project Soft Pitch</a></td>
               <td>Python OOP</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/React-Hooks-Intro">React Hooks</a></td>
@@ -1213,12 +1209,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Thursday</strong><br />(9/16)</td>
               <td>Outcomes</td>
               <td><a href="https://github.com/SEIR-7-06/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
-              <td><a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a></td>
               <td>
-              - <a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a>
+              - <a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a>
               <br>
-              - <a href="https://github.com/SEIR-7-06/python-koans">Python Koans</a>
+              - <a href="https://github.com/SEIR-7-06/psql-carmen-san-diego-lab">Carmen San Diego</a>
               </td>
+              <td><a href="https://github.com/SEIR-7-06/final-project-soft-pitch">Final Project Soft Pitch</a></td>
               <td>SQL</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
