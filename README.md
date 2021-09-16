@@ -1208,7 +1208,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             <tr>
               <td><strong>Thursday</strong><br />(9/16)</td>
               <td>Outcomes</td>
-              <td><a href="https://github.com/SEIR-7-06/psql-install-intro">PSQL/PostgreSQL Intro</a></td>
+              <td>
+              - <a href="https://github.com/SEIR-7-06/psql-install-intro">PostgreSQL Install</a>
+              <br>
+              - <a href="https://gawdiseattle.gitbook.io/wdi/04-databases/sql-intro">SQL/PostgreSQL</a>
+              </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a>
               <br>
