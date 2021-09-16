@@ -1212,6 +1212,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               - <a href="https://github.com/SEIR-7-06/psql-install-intro">PostgreSQL Install</a>
               <br>
               - <a href="https://gawdiseattle.gitbook.io/wdi/04-databases/sql-intro">SQL/PostgreSQL</a>
+              <br>
+              - <a href="https://sqlzoo.net/">SQLZoo</a>
               </td>
               <td>
               - <a href="https://github.com/SEIR-7-06/sql-airplane-lab">Lab: SQL Airplane</a>
