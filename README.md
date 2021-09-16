@@ -1229,10 +1229,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Friday</strong><br />(9/17)</td>
-              <td>Introduce Final Project</td>
-              <td>Project Planning</td>
-              <td>Project Planning</td>
-              <td>Project Planning</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Introduce Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Project Planning</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Project Planning</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Project Planning</a></td>
               <td>Project</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/json-web-tokens">JWT</a></td>
               <td><a href="https://github.com/SEIR-7-06/gamelib-api">MERN Auth Backend</a></td>
