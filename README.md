@@ -1269,6 +1269,11 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/final-project-soft-pitch">Final Project Soft Pitch</a></td>
               <td>9/17</td>
             </tr>
+            <tr>
+              <td>9/17</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project#project-planning-hard-pitch-deliverables">Final Project Hard Pitch</a></td>
+              <td>9/20</td>
+            </tr>
           </tbody>
         </table>
       </details>
