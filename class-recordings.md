@@ -500,7 +500,7 @@
                 <br/>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                <a href="https://generalassembly.zoom.us/rec/share/q9TmUzUP95RCujDSWwJZFNQki8EFyhPF6XLFSK0pf9yUHfA-1-nhR5vc79BE0tTw.ikU6Et34WuWQ1VeA?startTime=1631814389000">Intro to SQL</a>
                 <br/>
             </td>
             <td>
