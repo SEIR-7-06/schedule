@@ -1323,7 +1323,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Thursday</strong><br />(9/23)</td>
               <td><a href="https://generalassembly.zoom.us/j/6432485771?pwd=MlRKNlVQbHVrV0p5eWdHMEFZTzJsUT09">Outcomes</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>TypeScript</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>Final Project</td>
             </tr>
@@ -1331,7 +1331,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Friday</strong><br />(9/24)</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-              <td>TypeScript</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>Final Project</td>
             </tr>
