@@ -1278,6 +1278,86 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <!-- Week 12 Dropdown -->
+    <li>
+      <details>
+        <summary>Week 12 - Final Project & Optional Lessons</summary>
+        <h2>Week 12 - Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(9/20)</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
+              <td>Final Project</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(9/21)</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/React-Hooks-Intro">React Hooks</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>Final Project</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(9/22)</td>
+              <td><a href="https://github.com/SEIR-7-06/json-web-tokens">JWT</a></td>
+              <td><a href="https://github.com/SEIR-7-06/json-web-tokens">JWT</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>Final Project</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(9/23)</td>
+              <td><a href="https://generalassembly.zoom.us/j/6432485771?pwd=MlRKNlVQbHVrV0p5eWdHMEFZTzJsUT09">Outcomes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>Final Project</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(9/24)</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>TypeScript</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>Final Project</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 12 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>9/17</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>9/27</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
