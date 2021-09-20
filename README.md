@@ -1299,8 +1299,8 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Monday</strong><br />(9/20)</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
-              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
-              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Approvals</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>Final Project</td>
             </tr>
             <tr>
