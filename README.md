@@ -1200,7 +1200,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><a href="https://github.com/SEIR-7-06/final-project-soft-pitch">Final Project Soft Pitch</a></td>
               <td>Python OOP</td>
               <!-- <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-              <td><a href="https://github.com/SEIR-7-06/React-Hooks-Intro">React Hooks</a></td>
+              <td><a href="https://github.com/SEIR-7-06/React-useState-useEffect">React Hooks</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>Final Project</td> -->
