@@ -1307,7 +1307,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
               <td><strong>Tuesday</strong><br />(9/21)</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
-              <td><a href="https://github.com/SEIR-7-06/React-Hooks-Intro">React Hooks</a></td>
+              <td><a href="https://github.com/SEIR-7-06/React-useState-useEffect">React Hooks</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>Final Project</td>
             </tr>
