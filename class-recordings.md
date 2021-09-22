@@ -504,8 +504,33 @@
                 <br/>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                Final Project
+            </td>
+        </tr>
+        <!-- Week 12 -->
+        <tr>
+            <td>9/20</td>
+            <td>9/21</td>
+            <td>9/22</td>
+            <td>9/23</td>
+            <td>9/24</td>
+        </tr>
+        <tr>
+            <td>
+                Final Project
+            </td>
+            <td>
+                <a href="https://generalassembly.zoom.us/rec/share/tt_zRyg1ScrslL7Yc3IiIgh2iNaGiWBve-i1f0Y8MsuEH-i29Uwjqt9kSdKhJ4-u.ESXG7YwOfq3N-tcH?startTime=1632258990000">React Hooks</a>
                 <br/>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+            </td>
+            <td>
+                <a href="#">Coming Soon!</a>
+            </td>
+            <td>
+                Final Project
             </td>
         </tr>
     </tbody>
