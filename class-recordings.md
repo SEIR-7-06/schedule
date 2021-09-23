@@ -524,7 +524,7 @@
                 <br/>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                <a href="https://generalassembly.zoom.us/rec/share/byKPgdaUeHByhbvBXo4AQqEJiydmCmIvfhTK-WIPdMouObOVp8QduyY0sIrvT3M3.6ehnGJFs9Y5H-wDZ?startTime=1632340980000">React OAuth w/ Auth0</a>
             </td>
             <td>
                 <a href="#">Coming Soon!</a>
