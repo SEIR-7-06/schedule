@@ -1287,6 +1287,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <br/>
         <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy Steps</a>
         <br/>
+        <br/>
         <table>
           <thead>
             <tr>
