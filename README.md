@@ -1283,6 +1283,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       <details>
         <summary>Week 12 - Final Project & Optional Lessons</summary>
         <h2>Week 12 - Schedule</h2>
+        <a href="https://github.com/SEIR-7-06/MEN-Stack-Deploy-Jam">Express Deploy Steps</a>
+        <br/>
+        <a href="https://github.com/SEIR-7-06/Heroku-React-Deployment">React Deploy Steps</a>
+        <br/>
         <table>
           <thead>
             <tr>
@@ -1321,7 +1325,7 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
             </tr>
             <tr>
               <td><strong>Thursday</strong><br />(9/23)</td>
-              <td><a href="https://generalassembly.zoom.us/j/6432485771?pwd=MlRKNlVQbHVrV0p5eWdHMEFZTzJsUT09">Outcomes</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
               <td>TypeScript</td>
               <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
