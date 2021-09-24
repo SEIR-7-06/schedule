@@ -1363,6 +1363,87 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         </table>
       </details>
     </li>
+    <!-- Week 13 Dropdown -->
+    <li>
+      <details>
+        <summary>Week 13 - Presentations & Graduation</summary>
+        <!-- Schedule Table -->
+        <h2>Week 13 - Schedule</h2>
+        <table>
+          <thead>
+            <tr>
+              <td></td>
+              <th>Morning Exercise</th>
+              <th>Module 1</th>
+              <th>Module 2</th>
+              <th>Extra Content</th>
+              <th>Focus</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Monday</strong><br />(9/27)</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentation</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentation</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentation</a></td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project Presentations</a></td>
+              <td>Final Project</td>
+            </tr>
+            <tr>
+              <td><strong>Tuesday</strong><br />(9/28)</td>
+              <td>Graduation!</td>
+              <td>Graduation!</td>
+              <td>Graduation!</td>
+              <td>Graduation!</td>
+              <td>Graduation!</td>
+            </tr>
+            <tr>
+              <td><strong>Wednesday</strong><br />(9/29)</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+            </tr>
+            <tr>
+              <td><strong>Thursday</strong><br />(9/30)</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+            </tr>
+            <tr>
+              <td><strong>Friday</strong><br />(10/1)</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+              <td>REST!</td>
+            </tr>
+          </tbody>
+        </table>
+        <h2>Week 13 - Deliverables</h2>
+        <p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+        <!-- Deliverable Table -->
+        <table>
+          <thead>
+            <tr>
+              <td>Date Assigned</td>
+              <td>Deliverable</td>
+              <td>Final Due Date</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>9/20</td>
+              <td><a href="https://github.com/SEIR-7-06/final-project">Final Project</a></td>
+              <td>9/27</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+    </li>
   </ul>
 </details>
 <hr />
