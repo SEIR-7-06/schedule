@@ -527,14 +527,32 @@
                 <a href="https://generalassembly.zoom.us/rec/share/byKPgdaUeHByhbvBXo4AQqEJiydmCmIvfhTK-WIPdMouObOVp8QduyY0sIrvT3M3.6ehnGJFs9Y5H-wDZ?startTime=1632340980000">React OAuth w/ Auth0</a>
             </td>
             <td>
-                <a href="#">Coming Soon!</a>
+                Final Project
             </td>
             <td>
                 Final Project
             </td>
         </tr>
+        <!-- Week 12 -->
+        <tr>
+            <td>9/27</td>
+            <td>9/28</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://generalassembly.zoom.us/rec/share/kfr_hNaRk47Lme4T9FMnHMjDAGqIPwJInWvYZywH6P9XQnN8ryJzcgEbomppGJzX.VYn4n-7Z-ypitRjK?startTime=1632761174000">Final Project Presentations!</a>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
-                
-                
-                
