@@ -549,6 +549,11 @@
                 <a href="https://generalassembly.zoom.us/rec/share/cpdKKCoWJDBrNpUUThCHqVGVU7QtGF-LjYzMHsfVsnmTMrbJHYCBQmdZFYEw6V8C.sy6gRalqfiVezPP_?startTime=1632848966000">Graduation!</a>
             </td>
             <td>
+                - <a href="https://www.youtube.com/watch?v=rKz6kIW4Uos">Set Up a Custom Domain</a>
+                <br>
+                - <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site">Docs for Setting Up Custom Domain</a>
+                <br>
+                - <a href="https://medium.com/@steve_jones/4-how-to-point-a-domain-on-google-domains-to-github-pages-1d4c24f01382">A Helpful Tutorial</a>
             </td>
             <td>
             </td>
