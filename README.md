@@ -12,6 +12,16 @@
 - [How to Submit Deliverables](https://github.com/SEIR-7-06/deliverable-submissions)
 - [Installfest](https://github.com/SEIR-7-06/installfest)
 
+<details>
+  <summary>Setting Up a Custom Domain for Portfolio Site / Project</summary>
+  
+  - <a href="https://www.youtube.com/watch?v=rKz6kIW4Uos">Set Up a Custom Domain</a>
+  <br>
+  - <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site">Docs for Setting Up Custom Domain</a>
+  <br>
+  - <a href="https://medium.com/@steve_jones/4-how-to-point-a-domain-on-google-domains-to-github-pages-1d4c24f01382">A Helpful Tutorial</a>
+</details>
+
 <br/>
 
 ## Course Dates (Not Including Holidays)
