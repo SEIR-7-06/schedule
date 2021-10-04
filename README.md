@@ -1379,12 +1379,12 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 13 - Presentations & Graduation</summary>
         <!-- Schedule Table -->
         <h2>Week 13 - Schedule</h2>
-        <br>
         - <a href="https://www.youtube.com/watch?v=rKz6kIW4Uos">Set Up a Custom Domain</a>
         <br>
         - <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site">Docs for Setting Up Custom Domain</a>
         <br>
         - <a href="https://medium.com/@steve_jones/4-how-to-point-a-domain-on-google-domains-to-github-pages-1d4c24f01382">A Helpful Tutorial</a>
+        <br>
         <br>
         <table>
           <thead>
