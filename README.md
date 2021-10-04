@@ -1379,7 +1379,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
         <summary>Week 13 - Presentations & Graduation</summary>
         <!-- Schedule Table -->
         <h2>Week 13 - Schedule</h2>
-        
         <p>Setting Up a Custom Domain</p>
         - <a href="https://www.youtube.com/watch?v=rKz6kIW4Uos">Video Lesson</a>
         <br>
