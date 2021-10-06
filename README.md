@@ -2,6 +2,22 @@
 
 <br/>
 
+## Post Grad Roadmap
+
+<p>These two documents provide you with a roadmap of how to continue your studies and strengthen your understanding of the material from the SEI course. Included are additional codeing challenges, resources, and prompts to keep you coding in the weeks post-graduation. We hope it provides a springboard that keeps you learning!</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/SEIR-7-06/Post-Cohort-Resources">Post-Cohort Resources</a></td>
+      <td><a href="https://docs.google.com/spreadsheets/d/15JX2Z5_095QiYyxQ-aGsnjqmvVGxfATvnMO3k5SK_Y8/edit?usp=sharing">More Post-Cohort Resources</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+<br />
+
 ## Important Links
 
 - [Zoom Classroom](https://generalassembly.zoom.us/j/95974443973?pwd=cVdXUHdWeURKZlJSMG15d0FoRUpZQT09)
@@ -70,32 +86,6 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 
 <br/>
 <br/>
-
-## Post Graduation
-
-<table>
-  <tbody>
-    <tr>    
-      <td><strong>Challenges</strong></td>
-      <td><a href="https://github.com/SEIR-7-06/Post-Cohort-Resources">Post-Cohort Resources</a></td>
-      <td><a href="https://docs.google.com/spreadsheets/d/15JX2Z5_095QiYyxQ-aGsnjqmvVGxfATvnMO3k5SK_Y8/edit?usp=sharing">More Post-Cohort Resources</a></td>
-    </tr>
-  </tbody>
-</table>
-
-### Post Grad Roadmap
-
-<p>This document will provide you with a roadmap of how to revisit your SEI class in units, with additional coding challenges, resources, and prompts to keep you coding in the weeks post-graduation. We hope it provides a springboard that keeps you learning!</p>
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://docs.google.com/spreadsheets/d/15JX2Z5_095QiYyxQ-aGsnjqmvVGxfATvnMO3k5SK_Y8/edit#gid=563096904">Post Grad Roadmap</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
-<br />
 
 <!-- Unit 1 Dropdown -->
 <details>
