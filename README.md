@@ -71,17 +71,14 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
 <br/>
 <br/>
 
-<!-- ## Post Graduation
+## Post Graduation
 
 <table>
   <tbody>
     <tr>    
       <td><strong>Challenges</strong></td>
-      <td><a href="https://github.com/SEIR-7-06/shopping-cart-coding-challenge">Front End Challenge</a></td>
-      <td><a href="https://github.com/SEIR-7-06/csv-parse-starter">Full Stack Challenge</a></td>
-      <td><a href="https://github.com/SEIR-7-06/testing-in-react-with-jest-and-enzyme">Testing in React</a></td>
-      <td><a href="https://github.com/SEIR-7-06/Python-unit-test">Python Unit Testing</a></td>
-      <td><a href="https://github.com/SEIR-7-06/flask-api">Python Flask API</a></td>
+      <td><a href="https://github.com/SEIR-7-06/Post-Cohort-Resources">Post-Cohort Resources</a></td>
+      <td><a href="https://docs.google.com/spreadsheets/d/15JX2Z5_095QiYyxQ-aGsnjqmvVGxfATvnMO3k5SK_Y8/edit?usp=sharing">More Post-Cohort Resources</a></td>
     </tr>
   </tbody>
 </table>
@@ -95,10 +92,10 @@ Just as with the class repo, you will fork & clone [the code challenges repo](ht
       <td><a href="https://docs.google.com/spreadsheets/d/15JX2Z5_095QiYyxQ-aGsnjqmvVGxfATvnMO3k5SK_Y8/edit#gid=563096904">Post Grad Roadmap</a></td>
     </tr>
   </tbody>
-</table> -->
-<!-- 
+</table>
+
 <br />
-<br /> -->
+<br />
 
 <!-- Unit 1 Dropdown -->
 <details>
